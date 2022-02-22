@@ -1,0 +1,11 @@
++++
+date = 2021-06-16T04:00:00Z
+description = "News and events."
+
+title = "News & Events"
+
+
+translationKey = "newsevents"
+[menu.main]
+weight= 2
++++

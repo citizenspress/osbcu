@@ -1,0 +1,58 @@
++++
+categories = ["Benefits"]
+date = 2022-01-23T05:00:00Z
+description = "Even in the current emergency shutdown in Ontario, thousands of students continue to go to school and continue to be supported by education workers. To protect everyone’s health and safety, the union that represents 55,000 education workers is calling on the provincial government to implement some straightforward measures that will lower the risks of spreading COVID-19."
+lead = "Even in the current emergency shutdown in Ontario, thousands of students continue to go to school and continue to be supported by education workers. To protect everyone’s health and safety, the union that represents 55,000 education workers is calling on the provincial government to implement some straightforward measures that will lower the risks of spreading COVID-19."
+# summary = "The Canadian Union of Public Employees (CUPE) has drawn up a list of simple, low-cost ways to reduce hazards for everyone who spends their days in brick-and-mortar schools."
+slug = ""
+tags = ["Benefits"]
+thumbnail = "img/communique.png"
+title = "Province must provide direction, support for students and staff working in schools during COVID shutdown"
+translationKey = "covidshutdown"
+toc=true
+
++++
+
+
+The Canadian Union of Public Employees (CUPE) has drawn up a list of simple, low-cost ways to reduce
+hazards for everyone who spends their days in brick-and-mortar schools. Laura Walton, president of
+CUPE’s Ontario School Board Council of Unions (OSBCU), outlined the measures that the union wants
+in place in schools that have students attending class:
+
+**Mandatory screening:** Active and enhanced screening should be applied to everyone entering schools.
+
+Screening should include temperature checks for anyone coming through school doors and written
+attestation should be required from parents to confirm that their children don’t have symptoms of COVID-
+19 and haven’t been exposed to it.
+Improving air quality: Better ventilation is crucial for reducing the spread of COVID, but many older
+schools have outdated HVAC systems and many newer schools don’t have windows that open. To
+mitigate the dangers, air purifiers should be put in every school room that is occupied during the
+shutdown, even if this means moving equipment from one school to another.
+Reducing mobility of staff: Student cohorts may be smaller, but the education workers who support
+them still move from class to class as part of their job. This is dangerous and defeats the purpose of
+keeping the same group of children together throughout the school day. Smaller cohorts should the
+workers.
+
+Clarify who should still be in school: Among the very few groups of people who should be in schools
+during the emergency shutdown are students with high special needs; students whose homes lack
+internet connectivity; and the workers who support them. The Ministry of Education must clarify which
+workers are required in schools and enforce stay-at-home orders for everyone else.
+
+Review students’ IEPs: Many education workers are in schools and providing direct support to students
+who have Individual Education Plans (IEPs). These plans should be reviewed with an eye to safety and
+risk assessment to make sure that the right safety protocols are in place to keep everyone safe and
+healthy.
+
+“The services provided by frontline educators workers are vital and CUPE members will always be on site
+as long as there are students in school to support,” said Walton. “But the provincial government can’t
+ignore their concerns about health and safety, especially since both are tied directly to stopping the
+spread of COVID-19 in the community.”
+
+-30-
+
+For more information, contact:
+
+Mary Unan, CUPE Communications,  
+647-390-9839  
+
+MU:gb/cope491

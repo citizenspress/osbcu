@@ -1,0 +1,16 @@
++++
+
+title = "Test Title"
+thumbnail = "/img/avatar.png"
+tranlationKey = "category-test"
+
++++
+
+![test](../../img/avatar.png)
+
+## Some text
+
+
+This is an introduction
+
+----

@@ -1,0 +1,79 @@
+baseurl = "https://joincupe.org/osbcu-test/"
+title = "OSBCU"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+
+[languages]
+
+  [languages.en]
+    contentDir = "content/english"
+    title = "OSBCU"
+    subtitle = "Ontario School Board Council of Unions"
+    languageName = "English"
+    weight = 10
+    [languages.en.Author]
+    bio = "OSBCU unites 55,000 Canadian Union of Public Employees (CUPE) education workers in the public, Catholic, English, and French school systems across the province. We are the backbone of the public education system in Ontario."
+    name = "OSBCU"
+    avatar = "img/avatar.png"
+
+
+  [languages.fr]
+    contentDir = "content/french"
+    title = "CSCSO"
+    subtitle = "Conseil des syndicats des conseils scolarires de l'Ontario"
+    languageName = "Français"
+    weight = 20
+    [languages.fr.Author]
+    bio = ""
+    name = "CSCSO"
+    avatar = "img/avatar.png"
+
+
+
+#[Author]
+#  name = "CUPE Staff Retirees Association"
+#  bio = "The CUPE Retirees Association acts as the voice of retirees with CUPE and the unions representing CUPE staff."
+#  avatar = "img/avatar.png"
+
+[Params]
+  description = "The CUPE Staff Retirees Association acts as the voice of retirees with CUPE and the unions representing CUPE staff." # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories","translations"] # Order of post meta infor
+  mainSections = ['news','actualites']
+
+[Params.logo]
+#  subtitle = "CUPE Retirees Association" # Logo subtitle
+image = "img/avatar.png"
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "osbcucscso"
+  twitter = "osbcucscso"
+  instagram = "osbcucscso"
+  email = "info@osbcu.ca"
+
+# Custom social links
+# [[Params.widgets.social.custom]]
+#   title = "Youtube"
+#   url = "https://youtube.com/user/username"
+#   icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
