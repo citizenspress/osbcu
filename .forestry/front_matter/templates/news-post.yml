@@ -7,16 +7,20 @@ fields:
   label: title
 - type: text
   name: lead
-  label: lead
+  label: Lede Summary
+  description: This shows up just below the title.
 - type: text
   name: summary
-  label: summary
+  label: Article Summary
+  description: The summary that shows up in the list view.
 - type: text
   name: description
-  label: description
+  label: Article Description
+  description: Blurb that shows up on social media sharing. Can be the same as Summary
+    or Lede.
 - type: file
   name: thumbnail
-  label: thumbnail
+  label: Thumbnail Image
 - type: datetime
   name: date
   label: date
@@ -28,10 +32,12 @@ fields:
   label: categories
 - type: text
   name: translationKey
-  label: translationKey
+  label: Translationi Key
+  description: This word links the French and English articles.
 - type: text
   name: slug
-  label: slug
+  label: URL Slug
+  description: Fill-in only if you want a specific link in the url bar.
 - type: boolean
   name: toc
-  label: toc
+  label: Table of Contents
