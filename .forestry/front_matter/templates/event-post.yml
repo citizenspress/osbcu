@@ -1,0 +1,28 @@
+---
+label: Event Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: datetime
+  name: startDate
+  label: startDate
+- type: datetime
+  name: endDate
+  label: endDate
+- type: text
+  name: where
+  label: where
+- type: text
+  name: orga
+  label: orga
+- type: text
+  name: orgaEmail
+  label: orgaEmail
+- type: datetime
+  name: date
+  label: date
