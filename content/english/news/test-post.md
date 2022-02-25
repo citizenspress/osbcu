@@ -3,6 +3,7 @@ title = "This is the title of the test"
 lead = "This is the lede. Testing, testing."
 summary = "This is the summary"
 description = "A description. Testing, testing."
+image = "img/troika.png"
 thumbnail = "img/troika.png"
 date = "2019-01-23T05:00:00Z"
 
