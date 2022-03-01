@@ -24,3 +24,4 @@ The Ontario School Board Council of Unions (OSBCU) unites 55,000 CUPE education 
 We are the backbone of the public education system and our members include education assistants, school library workers, administrative assistants, custodians and tradespeople, early childhood educators, child and youth workers, instructors, nutrition service workers, school safety monitors and social workers, and so many more in schools and board offices.
 
 OSBCU allows education workers from across the province to share information and strategies for bargaining, engage in political action, lobby around common interests, and to discuss issues and policies of concern. We are the power of public education, committed to the protection and advancement of our services, our schools, our students, and our communities.
+
