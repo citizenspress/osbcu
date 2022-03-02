@@ -10,7 +10,7 @@ tags = []
 thumbnail = "/img/avatar.png"
 title = "This is the title"
 toc = false
-translationKey = ""
+translationKey = "testtest"
 
 +++
 This is the article.
