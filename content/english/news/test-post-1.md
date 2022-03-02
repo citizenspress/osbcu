@@ -8,7 +8,7 @@ slug = ""
 summary = ""
 tags = []
 thumbnail = "/img/avatar.png"
-title = ""
+title = "This is the title"
 toc = false
 translationKey = ""
 
