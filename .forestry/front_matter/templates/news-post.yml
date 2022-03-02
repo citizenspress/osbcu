@@ -48,3 +48,5 @@ fields:
 - type: boolean
   name: toc
   label: Table of Contents
+pages:
+- content/english/news/test-post-1.md
