@@ -50,3 +50,4 @@ fields:
   label: Table of Contents
 pages:
 - content/english/news/test-post-1.md
+- content/french/actualites/testing-again.md
