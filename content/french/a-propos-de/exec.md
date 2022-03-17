@@ -16,11 +16,11 @@ summary = "Comité exécutif de CSCSO."
 
 +++
 
-## President: Laura Walton
+## Présidente: Laura Walton
 
 ![](/img/Walton.jpg)
 
-phone: 613-813-9951
+Numéro de téléphone: 613-813-9951
 
 
 
@@ -30,37 +30,37 @@ Originaire de Belleville, en Ontario, Laura est fière de ses racines rurales. E
 
 ----
 
-## First Vice-President: Rod McGee
+## Premier-vice-président: Rod McGee
 
 ![](/img/McGee.jpg)
 
-Phone: 807-629-4632
+Numéro De Téléphone: 807-629-4632
 
 ----
 
-## Francophone Vice-President: Christine Couture
+## Vice-président francophone: Christine Couture
 
 ![](/img/Couture.jpg)
 
-Phone: 613-808-4730
+Numéro De Téléphone: 613-808-4730
 
-Basé à Toronto, Sylvain Piché est vice-président francophone du CSCSO et fier militant du SCFP, passionné de syndicalisation. Il est concierge en chef du Conseil scolaire catholique francophone Mon Avenir, où il est président de la section locale 4340 du SCFP.
+Basé à Toronto, Sylvain Piché est vice-président francoNuméro de téléphone du CSCSO et fier militant du SCFP, passionné de syndicalisation. Il est concierge en chef du Conseil scolaire catholique francoNuméro de téléphone Mon Avenir, où il est président de la section locale 4340 du SCFP.
 
 
 ----
 
-## Secretary-Treasurer: Tammy Graham
+## Secrétaire-trésorière: Tammy Graham
 
 ![](/img/Graham.jpg)
 
-Phone: 705-238-9259
+Numéro De Téléphone: 705-238-9259
 
 Tammy est secrétaire-trésorière de la section locale 2486 du SCFP et concierge au Conseil scolaire de district de Lakehead. Elle était membre de la section locale 3987 du SCFP jusqu’à ce que des raisons familiale l’amènent à Thunder Bay. Son syndicat et ses membres la passionnent.
 
 
 ----
 
-## Area 1 Vice-President: Joe Tigani
+## Vice-président de la région 1: Joe Tigani
 
 ![](/img/New-Project.png)
 
@@ -68,7 +68,7 @@ Tammy est secrétaire-trésorière de la section locale 2486 du SCFP et concierg
 
 ----
 
-## Area 1 Mobilization Officer: Jennifer Eckert
+## Mobilisatrice de la région 1: Jennifer Eckert
 
 ![](/img/Eckert.jpg)
 
@@ -76,7 +76,7 @@ Aide-enseignante depuis plus de 20 ans, Jennifer Eckert est aussi déléguée sy
 
 ----
 
-## Area 2 Vice-President: Keith Levere
+## Vice-président de la région 2: Keith Levere
 
 ![](/img/Levere.jpg)
 
@@ -87,7 +87,7 @@ Dans ses temps libres, Keith est entraîneur de hockey et de crosse de niveau ju
 
 ----
 
-## Area 2 Mobilization Officer: Melissa Martin
+## Agent de mobilisation de la zone 2: Melissa Martin
 
 ![](/img/Melissa.png)
 
@@ -95,7 +95,7 @@ Dans ses temps libres, Keith est entraîneur de hockey et de crosse de niveau ju
 
 ----
 
-## Area 3 Vice-President: Todd Canning
+## Vice-président de la zone 3: Todd Canning
 
 ![](/img/image002.jpg)
 
@@ -103,12 +103,12 @@ Dans ses temps libres, Keith est entraîneur de hockey et de crosse de niveau ju
 
 ----
 
-## Area 3 Mobilization Officer: Vacant
+## Agent de mobilisation de la zone 3: Vacant
 
 
 ----
 
-## Area 4 Vice-President: David McOuat
+## Vice-président de la zone 4: David McOuat
 ![](/img/Untitled.jpg)
 
 
@@ -116,7 +116,7 @@ Dans ses temps libres, Keith est entraîneur de hockey et de crosse de niveau ju
 
 ----
 
-## Area 4 Mobilization Officer: Lori-Ann Richards
+## Mobilisatrice de la région 4: Lori-Ann Richards
 
 ![](/img/Richards.jpg)
 
@@ -127,7 +127,7 @@ J'aime aider tous les membres et jouer un rôle actif dans la section locale 218
 
 ----
 
-## Area 5 Vice-President: Liz James
+## Mobilisatrice de la région 5: Liz James
 
 ![](/img/James.jpg)
 
@@ -138,7 +138,7 @@ Liz est active au sein de la section locale 1479 du SCFP, où elle occupe le pos
 
 ----
 
-## Area 5 Mobilization Officer: Erin Hurford
+## Mobilisatrice de la région 5: Erin Hurford
 
 ![](/img/image002-1.jpg)
 
@@ -146,7 +146,7 @@ Liz est active au sein de la section locale 1479 du SCFP, où elle occupe le pos
 
 ----
 
-## Area 6 Vice-President: Mike Galipeau
+## Vice-président de la région 6: Mike Galipeau
 
 ![](/img/Galipeau.jpg)
 
@@ -154,14 +154,14 @@ Mike est concierge au Conseil scolaire de district d’Algoma et président de l
 
 ----
 
-## Area 6 Mobilization Officer: Catherine Taggert
+## Mobilisatrice de la région 6: Catherine Taggert
 
 ![](/img/Catherine.jpg)
 
 
 ----
 
-## Area 7 VP: Devin Klassen
+## Vice-présidente de la région 7: Devin Klassen
 
 ![](/img/member.jpg)
 
@@ -169,14 +169,14 @@ Mike est concierge au Conseil scolaire de district d’Algoma et président de l
 
 ----
 
-## Francophone mobilization officer: Mitch Gagnon
+## Mobilisatrice francophone: Mitch Gagnon
 
 ![](/img/Mitch-Gagnon.jpg)
 
 
 ----
 
-## Health & Safety Rep: Alex Milliken
+## Représentante de la santé et de la sécurité: Alex Milliken
 
 ![](/img/Alex.jpg)
 
@@ -184,7 +184,7 @@ Mike est concierge au Conseil scolaire de district d’Algoma et président de l
 
 ----
 
-## Injured Worker Rep: Darren Levere
+## Représentant des travailleurs blessés: Darren Levere
 
 ![](/img/20170701_091224-.jpg)
 
