@@ -1,6 +1,6 @@
 ---
-title: Our Events
-lead : "this is more summary"
+title: Événements
+lead : ""
 cascade:
   outputs:
   - html
@@ -11,4 +11,4 @@ menu:
 
 ---
 
-Read here about our events.
+
