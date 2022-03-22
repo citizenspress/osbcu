@@ -1,22 +1,19 @@
 +++
-title = "Les salaires des travailleurs de l’éducation en Ontario: l’impact de dix années de compression"
-lead = "Au cours de la dernière décennie, les augmentations salariales qui étaient in- férieures à l’inflation ont permis de réaliser des économies de près de 1,3 milliard  de dollars uniquement grâce aux revenus des membres du SCFP. Les économies  en cours d’année pour 2021 sont près de 225 millions de dollars. Le revenu annuel  du SCFP serait supérieur de 4 085 $ en 2021 si cet argent avait été réparti égale- ment entre les 55 000 membres. Au fil du temps, cet écart salarial a eu des effets  néfastes profonds sur le bien-être financier et personnel des travailleurs de l’édu- cation. Mais, les soucis se sont étendus aux conseils scolaires eux-mêmes qui sont  confrontés à d’importants problèmes de recrutement et de rétention liés à des  salaires non concurrentiels."
-summary = ""
-description = ""
-image = "img/cpi-english.png"
-thumbnail = "img/cpi-french.png"
-date = "2022-03-22T00:00:00Z"
-
-tags = [""]
 categories = ["Rapports"]
-
-
-translationKey = "cpireport"
+date = 2022-03-22T00:00:00Z
+description = ""
+draft = true
+image = "img/cpi-english.png"
+lead = "Au cours de la dernière décennie, les augmentations salariales qui étaient in- férieures à l’inflation ont permis de réaliser des économies de près de 1,3 milliard  de dollars uniquement grâce aux revenus des membres du SCFP. Les économies  en cours d’année pour 2021 sont près de 225 millions de dollars. Le revenu annuel  du SCFP serait supérieur de 4 085 $ en 2021 si cet argent avait été réparti égale- ment entre les 55 000 membres. Au fil du temps, cet écart salarial a eu des effets  néfastes profonds sur le bien-être financier et personnel des travailleurs de l’édu- cation. Mais, les soucis se sont étendus aux conseils scolaires eux-mêmes qui sont  confrontés à d’importants problèmes de recrutement et de rétention liés à des  salaires non concurrentiels."
 slug = ""
-toc=true
+summary = ""
+tags = [""]
+thumbnail = "img/cpi-french.png"
+title = "Les salaires des travailleurs de l’éducation en Ontario: l’impact de dix années de compression"
+toc = true
+translationKey = "cpireport"
 
 +++
-
 - [Download the full report here (PDF)](/img/cpi-report-french.pdf)
 
 Les travaiLes travailleurs de l’éducation du SCFP gagnent en moyenne un peu plus de 39  000 $ par année. Une décennie de restrictions salariales imposées par la loi et de  positions de négociation sévères adoptées par le gouvernement et les conseillers  scolaires ont fait en sorte que les salaires des travailleurs de l’éducation n’ont pas  suivi le rythme de l’inflation et sont tombés sous les tendances établies pour les  syndicats du secteur privé et les autres syndicats du secteur public. Au cours des  dix dernières années, les salaires des travailleurs de l’éducation ont été de 8,8 %  tandis que l’inflation en Ontario était d’au moins 19 %.
