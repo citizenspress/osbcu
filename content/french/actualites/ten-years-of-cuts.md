@@ -14,7 +14,7 @@ toc = true
 translationKey = "cpireport"
 
 +++
-- [Download the full report here (PDF)](/img/cpi-report-french.pdf)
+* [Download the full report here (PDF)](/img/cpi-report-french.pdf)
 
 Les travaiLes travailleurs de l’éducation du SCFP gagnent en moyenne un peu plus de 39  000 $ par année. Une décennie de restrictions salariales imposées par la loi et de  positions de négociation sévères adoptées par le gouvernement et les conseillers  scolaires ont fait en sorte que les salaires des travailleurs de l’éducation n’ont pas  suivi le rythme de l’inflation et sont tombés sous les tendances établies pour les  syndicats du secteur privé et les autres syndicats du secteur public. Au cours des  dix dernières années, les salaires des travailleurs de l’éducation ont été de 8,8 %  tandis que l’inflation en Ontario était d’au moins 19 %.
 
@@ -26,4 +26,4 @@ Au cours de la dernière décennie, les augmentations salariales qui étaient in
 
 À l’instar de tous les travailleurs, les travailleurs de l’éducation méritent une aug- mentation. Il est plus que temps de faire quelque chose pour changer les tendanc- es actuelles de stagnation des salaires et d’inégalité croissante des revenus. Il n’y a  rien d’inévitable dans l’état actuel des choses. Mais, il faudra une volonté politique,  et une action politique, pour améliorer la situation des travailleurs.
 
-- [Download the full report here (PDF)](/img/cpi-report-french.pdf)
+* [Download the full report here (PDF)](/img/cpi-report-french.pdf)
