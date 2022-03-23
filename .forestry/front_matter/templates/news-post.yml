@@ -48,3 +48,5 @@ fields:
 - type: boolean
   name: toc
   label: Table of Contents
+pages:
+- content/french/events/s-organiser-pour-renforcer-le-pouvoir-dans-le-secteur-des-conseils-scolaires.md
