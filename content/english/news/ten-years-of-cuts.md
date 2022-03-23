@@ -2,7 +2,6 @@
 categories = ["Reports"]
 date = 2022-03-22T00:00:00Z
 description = "Over the past decade, wage increases that have trailed inflation have resulted in almost $1.3 billion in cost savings just from CUPE members’ incomes. In-year savings for 2021 are almost $225 million. CUPE annual income would be $4085 higher in 2021 if this money had been allocated  equally to 55,000 members. Over time this wage gap has had profound negative effects on education workers’ financial and personal wellbeing. But the issues have extended to school boards themselves who are facing significant recruitment and retention problems related to uncompetitive wages."
-draft = true
 image = "img/cpi-english.png"
 lead = "Over the past decade, wage increases that have trailed inflation have resulted in almost $1.3 billion in cost savings just from CUPE members’ incomes. In-year savings for 2021 are almost $225 million. CUPE annual income would be $4085 higher in 2021 if this money had been allocated equally to 55,000 members. Over time this wage gap has had profound negative effects on education workers’ financial and personal wellbeing. But the issues have extended to school boards themselves who are facing significant recruitment and retention problems related to uncompetitive wages."
 slug = ""
