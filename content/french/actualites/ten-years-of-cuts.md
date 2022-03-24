@@ -2,7 +2,6 @@
 categories = ["Rapports"]
 date = 2022-03-22T00:00:00Z
 description = ""
-draft = true
 image = "img/cpi-english.png"
 lead = "Au cours de la dernière décennie, les augmentations salariales qui étaient in- férieures à l’inflation ont permis de réaliser des économies de près de 1,3 milliard  de dollars uniquement grâce aux revenus des membres du SCFP. Les économies  en cours d’année pour 2021 sont près de 225 millions de dollars. Le revenu annuel  du SCFP serait supérieur de 4 085 $ en 2021 si cet argent avait été réparti égale- ment entre les 55 000 membres. Au fil du temps, cet écart salarial a eu des effets  néfastes profonds sur le bien-être financier et personnel des travailleurs de l’édu- cation. Mais, les soucis se sont étendus aux conseils scolaires eux-mêmes qui sont  confrontés à d’importants problèmes de recrutement et de rétention liés à des  salaires non concurrentiels."
 slug = ""
