@@ -8,6 +8,6 @@ translationKey = "healthsafety"
 weight = 30
 
 +++
-## Health and Safety Subheader
+## Health and Safety information for members
 
 ***
