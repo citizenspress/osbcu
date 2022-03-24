@@ -43,5 +43,11 @@ fields:
   type: tag_list
   default: []
   label: Tags
+- name: translationKey
+  type: text
+  config:
+    required: false
+  label: Translation Key
+  description: Needs to be the same for both English and French.
 pages:
 - content/english/events/organizing-to-build-power-in-the-school-board-sector-training.md
