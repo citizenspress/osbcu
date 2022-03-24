@@ -8,6 +8,8 @@ startDate = 2022-03-26T14:00:00Z
 thumbnail = "/img/en-facebook-organizing-promotion.png"
 title = "Organizing to Build Power in the School Board Sector Training"
 where = "Zoom"
+categories = ["Training"]
+tags = ["Bargaining"]
 
 +++
 New Member Organizing Training!
