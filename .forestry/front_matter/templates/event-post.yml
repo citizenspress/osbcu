@@ -35,5 +35,9 @@ fields:
   name: date
   label: Post Date
   description: Not the event date, the date of the post on the website.
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 pages:
 - content/english/events/organizing-to-build-power-in-the-school-board-sector-training.md
