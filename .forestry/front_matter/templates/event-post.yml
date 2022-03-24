@@ -39,5 +39,9 @@ fields:
   type: tag_list
   default: []
   label: Categories
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - content/english/events/organizing-to-build-power-in-the-school-board-sector-training.md
