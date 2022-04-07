@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Events"]
 date = 2022-04-20T23:00:00Z
 description = "Rejognez-nous pour une consultation parentale et familiale pour les négociation des travailleurs en éducation. Le mercredi 20 avril 2022 de 19 h à 21 h Register in advance for this meeting: https://us02web.zoom.us/.../tZUtf... After registering, you will receive a confirmation email containing information about joining the meeting. #PowerofPublicEducation #OPAN #OSBCUCSCSO"
 image = "/img/french-osbcu-opan-parentcaregiver-consultation.png"
