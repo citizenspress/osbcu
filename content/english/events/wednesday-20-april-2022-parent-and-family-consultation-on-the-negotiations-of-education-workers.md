@@ -10,7 +10,7 @@ tags = []
 thumbnail = "/img/english-osbcu-opan-parentcaregiver-consultation.png"
 title = "Wednesday 20 April 2022: parent and family consultation on the negotiations of education workers"
 translationKey = ""
-where = "https://us02web.zoom.us/meeting/register/tZUtf-CqrDovHdxmdvuBJ8TN133kRCFx0ACb?fbclid=IwAR21CBP1SyqAK92zcuD1MMyuPTs5AOUFQptZ550zABI6o94xec9m8VwzBGs"
+where = "Zoom"
 
 +++
 Join us for a parent and family consultation on the negotiations of education workers.
