@@ -20,7 +20,8 @@ fields:
   config:
     export_format: YYYY-MM-DDThh:mm:ssCA
     display_utc: false
-    time_format: h:mm A ZZ
+    time_format: h:mm A CA
+    date_format: MM/DD/YYYY
 - type: datetime
   name: endDate
   label: End Date and Time
