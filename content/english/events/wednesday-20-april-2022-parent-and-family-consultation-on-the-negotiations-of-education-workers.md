@@ -1,11 +1,11 @@
 +++
 categories = []
 date = 2022-04-08T04:00:00Z
-endDate = 2022-04-21T01:00:00Z
+endDate = 2022-04-20T21:00:00Z
 image = "/img/english-osbcu-opan-parentcaregiver-consultation.png"
 orga = "OSBCU"
 orgaEmail = ""
-startDate = 2022-04-20T23:00:00Z
+startDate = 2022-04-20T19:00:00Z
 tags = []
 thumbnail = "/img/english-osbcu-opan-parentcaregiver-consultation.png"
 title = "Wednesday 20 April 2022: parent and family consultation on the negotiations of education workers"
