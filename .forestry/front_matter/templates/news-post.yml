@@ -48,5 +48,3 @@ fields:
 - type: boolean
   name: toc
   label: Table of Contents
-pages:
-- content/french/events/rejoignez-nous-pour-une-consultation-parentale-et-familiale-pour-les-negociations-des-travailleurs-en-education.md
