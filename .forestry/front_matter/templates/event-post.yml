@@ -45,13 +45,6 @@ fields:
     required: false
   label: Translation Key
   description: Needs to be the same for both English and French.
-- name: timeZone
-  type: text
-  config:
-    required: false
-  label: TimeZone
-  hidden: true
-  default: America/Toronto
 - name: startDate
   type: text
   config:
