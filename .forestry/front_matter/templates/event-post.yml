@@ -14,19 +14,6 @@ fields:
   config:
     maxSize: 64
   label: Social Media Image
-- type: datetime
-  name: startDate
-  label: Start Date and Time
-  config:
-    export_format: ''
-    display_utc: false
-    time_format: ''
-    date_format: ''
-- type: datetime
-  name: endDate
-  label: End Date and Time
-  config:
-    export_format: YYYY-MM-DDThh:mm:ss
 - type: text
   name: where
   label: Place of Event
@@ -65,6 +52,20 @@ fields:
   label: TimeZone
   hidden: true
   default: America/Toronto
+- name: startDate
+  type: text
+  config:
+    required: false
+  label: Start Date and Time
+  description: 2020-12-30T13:01:00 &lt;- must be in this format
+  default: '2020-12-30T13:01:00'
+- name: endDate
+  type: text
+  config:
+    required: false
+  label: End Date and Time
+  description: 2020-12-30T13:01:00 &lt;-must be in this format
+  default: '2020-12-30T13:01:00'
 pages:
 - content/english/events/organizing-to-build-power-in-the-school-board-sector-training.md
 - content/english/events/testing.md
