@@ -1,11 +1,11 @@
 +++
 categories = []
 date = 2022-04-08T04:00:00Z
-endDate = 2022-04-21T01:00:00Z
+endDate = 2022-04-20T21:00:00Z
 image = "/img/french-osbcu-opan-parentcaregiver-consultation.png"
 orga = "CSCSO"
 orgaEmail = ""
-startDate = 2022-04-20T23:00:00Z
+startDate = 2022-04-20T19:00:00Z
 tags = []
 thumbnail = "/img/french-osbcu-opan-parentcaregiver-consultation.png"
 title = "À : Les membres et le personnel du SCFP de tous les secteurs de l’Ontario ayant des enfants d’âge scolaire et/ou préoccupés par l’impact du sous-financement du gouvernement provincial sur les écoles publiques"
