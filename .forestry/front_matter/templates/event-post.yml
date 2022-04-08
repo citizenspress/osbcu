@@ -22,6 +22,8 @@ fields:
 - type: datetime
   name: endDate
   label: End Date and Time
+  config:
+    export_format: YYYY-MM-DDThh:mm:ss
 - type: text
   name: where
   label: Place of Event
@@ -37,6 +39,8 @@ fields:
   name: date
   label: Post Date
   description: Not the event date, the date of the post on the website.
+  config:
+    export_format: YYYY-MM-DDThh:mm:ss
 - name: categories
   type: tag_list
   default: []
