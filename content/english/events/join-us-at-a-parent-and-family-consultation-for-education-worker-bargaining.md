@@ -14,4 +14,10 @@ toc = false
 translationKey = "Parentandfamily"
 
 +++
-Join us for a parent and family consultation on the negotiations of education workers. Wednesday 20 April 2022 from 7pm to 9pm Register in advance for this meeting: [https://us02web.zoom.us/.../tZUtf...](https://us02web.zoom.us/.../tZUtf... "https://us02web.zoom.us/.../tZUtf...") After registering, you will receive a confirmation email containing information about joining the meeting. #PowerofPublicEducation #OPAN #OSBCUCSCSO
+Join us for a parent and family consultation on the negotiations of education workers. 
+
+Wednesday 20 April 2022 from 7pm to 9pm Register in advance for this meeting:
+
+[Zoom Registration link](https://us02web.zoom.us/meeting/register/tZUtf-CqrDovHdxmdvuBJ8TN133kRCFx0ACb?fbclid=IwAR21CBP1SyqAK92zcuD1MMyuPTs5AOUFQptZ550zABI6o94xec9m8VwzBGs)
+
+After registering, you will receive a confirmation email containing information about joining the meeting. #PowerofPublicEducation #OPAN #OSBCUCSCSO
