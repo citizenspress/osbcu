@@ -19,7 +19,8 @@ fields:
   label: Start Date and Time
   config:
     export_format: YYYY-MM-DDThh:mm:ss
-    display_utc: true
+    display_utc: false
+    time_format: h:mm A ZZ
 - type: datetime
   name: endDate
   label: End Date and Time
