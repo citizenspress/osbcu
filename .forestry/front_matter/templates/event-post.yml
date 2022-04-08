@@ -19,7 +19,7 @@ fields:
   label: Start Date and Time
   config:
     export_format: YYYY-MM-DDThh:mm:ss
-    display_utc: false
+    display_utc: true
     time_format: h:mm A ZZ
     date_format: MM/DD/YYYY
 - type: datetime
