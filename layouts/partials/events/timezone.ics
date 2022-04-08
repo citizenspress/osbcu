@@ -1,8 +1,8 @@
 BEGIN:VTIMEZONE
 
-TZID:Europe/Zurich
-TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Zurich
-X-LIC-LOCATION:Europe/Zurich
+TZID:America/Toronto
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Toronto
+X-LIC-LOCATION:America/Toronto
 
 BEGIN:DAYLIGHT
 TZNAME:CEST

@@ -3,11 +3,11 @@
 {{ with dict `` `
   ` "description"  (dict "text" .Plain "lang" "de-CH") `` `
   ` "summary"      (dict "text" .Title "lang" "de-CH") `` `
-  ` "eventStart"   (dict "dateTime" .Params.startDate "timeZoneID" "Europe/Zurich") `` `
-  ` "eventEnd"     (dict "dateTime" .Params.endDate "timeZoneID" "Europe/Zurich") `` `
-  ` "location"     (dict "text" .Params.location "lang" "de-CH") `` `
+  ` "eventStart"   (dict "dateTime" .Params.startDate "timeZoneID" "America/Toronto") `` `
+  ` "eventEnd"     (dict "dateTime" .Params.endDate "timeZoneID" "America/Toronto") `` `
+  ` "location"     (dict "text" .Params.location "lang" "en-CA") `` `
   ` "url"          (.OutputFormats.Get "HTML").Permalink `` `
-  ` "contact"      (dict "text" (printf "%s: %s" .Params.orga .Params.orgaEmail) "lang" "de-CH") `` `
+  ` "contact"      (dict "text" (printf "%s: %s" .Params.orga .Params.orgaEmail) "lang" "en-CA") `` `
   ` "color"        "crimson" `` `
   ` "status"       (cond (.Params.cancelled | default false) "CANCELLED" "CONFIRMED") `` `
   ` "uid"          .File.UniqueID `` `
