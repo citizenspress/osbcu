@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2022-04-08T04:00:00Z
-draft = true
 endDate = "2022-04-20T21:00:00"
 image = "/img/english-osbcu-opan-parentcaregiver-consultation.png"
 orga = "OSBCU"
