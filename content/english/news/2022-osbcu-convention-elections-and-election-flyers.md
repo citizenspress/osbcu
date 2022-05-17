@@ -11,7 +11,7 @@ tags = []
 thumbnail = ""
 title = "2022 OSBCU Convention Elections and Election Flyers"
 toc = false
-translationKey = ""
+translationKey = "OSBCUelectionmaterial"
 
 +++
 2022 OSBCU Convention Elections and Election Flyers 
