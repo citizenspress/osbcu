@@ -13,7 +13,7 @@ toc = false
 translationKey = "OSBCUelectionmaterial"
 
 +++
-2022 OSBCU Convention Elections and Election Flyers 
+2022 OSBCU Convention Elections and Election Flyers
 
 We also have a new vacancy to fill through a by election for the position of Health & Safety Rep. To that end, we will accept election flyers for this position only until May 25, 2022 at 4pm. We will then include these flyers along with the others.
 
@@ -45,7 +45,7 @@ Area 7 Mobilizer (By-Election until 2024)
 
 [Flyer for Joe Tigani offering for Area 1 Vice President ](/img/joe-tigani-vp-poster-2022-b-w.jpeg)
 
-[Flyer for Mechelle O'Hagan offering for Equity Representative](/img/2512-mechelle-o-hagan-equity-rep-2.jpeg)
+[Flyer for Mechelle O'Hagan offering for Equity Representative](/img/mechelle-eq-rep-bw-11895-7.jpg)
 
 [Flyer for Darren Levere offering for Injured Worker Representative](/img/darren-levere-osbcu-iw-rep-election-flyer.jpeg)
 
