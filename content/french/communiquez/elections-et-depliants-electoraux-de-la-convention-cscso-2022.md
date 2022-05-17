@@ -11,6 +11,6 @@ tags = []
 thumbnail = ""
 title = "Élections et dépliants électoraux de la convention CSCSO 2022"
 toc = false
-translationKey = ""
+translationKey = "OSBCUelectionmaterial"
 
 +++
