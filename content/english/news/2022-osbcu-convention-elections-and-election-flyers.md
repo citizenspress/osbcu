@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "OSBCU Election Information for Convention June 2022"
-draft = true
 image = ""
 lead = "OSBCU Election Information"
 slug = ""
