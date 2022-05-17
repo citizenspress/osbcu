@@ -48,3 +48,5 @@ fields:
 - type: boolean
   name: toc
   label: Table of Contents
+pages:
+- content/english/news/2022-osbcu-convention-elections-and-election-flyers.md
