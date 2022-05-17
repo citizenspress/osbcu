@@ -37,3 +37,15 @@ Mobilisateur de la zone 3 (élection partielle jusqu'en 2024)
 Vice-président de la zone 4 (élection partielle jusqu'en 2024)
 
 Mobilisateur de la zone 7 (élection partielle jusqu'en 2024)
+
+**Submitted Flyers:**
+
+[Flyer for Joe Tigani offering for Area 1 Vice President ](/img/joe-tigani-vp-poster-2022-b-w.jpeg)
+
+[Flyer for Mechelle O'Hagan offering for Equity Representative](/img/2512-mechelle-o-hagan-equity-rep-2.jpeg)
+
+[Flyer for Darren Levere offering for Injured Worker Representative](/img/darren-levere-osbcu-iw-rep-election-flyer.jpeg)
+
+[Flyer for Carrie Boisvert offering for Injured Worker Representative](/img/218_carrie-boisvert-flyer_v-03-2.jpeg)
+
+[Flyer for Darlene Johnston offering for Injured Worker Representative](/img/darlene-johnson.JPG)
