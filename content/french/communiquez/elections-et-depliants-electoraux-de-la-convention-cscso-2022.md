@@ -41,7 +41,7 @@ Mobilisateur de la zone 7 (élection partielle jusqu'en 2024)
 
 [Flyer for Joe Tigani offering for Area 1 Vice President ](/img/joe-tigani-vp-poster-2022-b-w.jpeg)
 
-[Flyer for Mechelle O'Hagan offering for Equity Representative](/img/2512-mechelle-o-hagan-equity-rep-2.jpeg)
+[Flyer for Mechelle O'Hagan offering for Equity Representative](/img/mechelle-eq-rep-bw-11895-7.jpg)
 
 [Flyer for Darren Levere offering for Injured Worker Representative](/img/darren-levere-osbcu-iw-rep-election-flyer.jpeg)
 
