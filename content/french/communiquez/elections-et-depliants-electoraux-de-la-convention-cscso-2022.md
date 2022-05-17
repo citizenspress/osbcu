@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = ""
-draft = true
 image = ""
 lead = "Informations électorales du CSCSO"
 slug = ""
