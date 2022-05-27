@@ -2,6 +2,7 @@
 categories = []
 date = ""
 description = ""
+draft = true
 image = ""
 lead = ""
 slug = ""
