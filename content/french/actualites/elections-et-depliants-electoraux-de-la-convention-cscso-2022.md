@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = "2022-05-10"
 description = ""
 image = ""
 lead = "Informations électorales du CSCSO"
