@@ -1,11 +1,12 @@
 +++
+aliases = ""
 categories = []
 date = ""
 description = ""
 draft = true
 image = ""
 lead = ""
-slug = "fr/envoyez-un-message-au-premier-ministre-et-au-ministre-de-leducation"
+slug = "/fr/actualites/envoyerunmessage/"
 summary = ""
 tags = []
 thumbnail = ""
