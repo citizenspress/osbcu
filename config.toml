@@ -33,14 +33,8 @@ timeZone = "America/Toronto"
     avatar = "img/avatar.png"
 
 
-
-#[Author]
-#  name = "CUPE Staff Retirees Association"
-#  bio = "The CUPE Retirees Association acts as the voice of retirees with CUPE and the unions representing CUPE staff."
-#  avatar = "img/avatar.png"
-
 [Params]
-  description = "The CUPE Staff Retirees Association acts as the voice of retirees with CUPE and the unions representing CUPE staff." # Description of your site
+  description = "OSBCU unites 55,000 Canadian Union of Public Employees (CUPE) education workers in the public, Catholic, English, and French school systems across the province. We are the backbone of the public education system in Ontario." # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = true # Show "Read more" button in list if true
