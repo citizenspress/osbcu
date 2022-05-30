@@ -1,12 +1,12 @@
 +++
-aliases = ""
+aliases = "/envoyerunmessage/"
 categories = []
 date = ""
 description = ""
 draft = true
 image = ""
 lead = ""
-slug = "/fr/actualites/envoyerunmessage/"
+slug = "fr envoyerunmessage"
 summary = ""
 tags = []
 thumbnail = ""
