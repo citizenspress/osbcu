@@ -1,5 +1,5 @@
 +++
-aliases = ""
+aliases = "sendamessage"
 categories = []
 date = ""
 description = ""
