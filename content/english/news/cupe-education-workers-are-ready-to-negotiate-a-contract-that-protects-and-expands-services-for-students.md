@@ -1,11 +1,12 @@
 +++
+aliases = ""
 categories = []
 date = ""
 description = ""
 draft = true
 image = ""
 lead = ""
-slug = "send-a-message-to-the-premier-and-education-minister"
+slug = "/news/sendamessage/"
 summary = ""
 tags = []
 thumbnail = ""
