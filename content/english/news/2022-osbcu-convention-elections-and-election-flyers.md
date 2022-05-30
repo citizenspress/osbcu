@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = "2022-05-10"
 description = "OSBCU Election Information for Convention June 2022"
 image = ""
 lead = "OSBCU Election Information"
