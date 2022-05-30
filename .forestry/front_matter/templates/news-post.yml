@@ -48,6 +48,12 @@ fields:
 - type: boolean
   name: toc
   label: Table of Contents
+- name: aliases
+  type: text
+  config:
+    required: false
+  label: Aliases
+  description: '"aliases" will be replaced in this with what you write: https://osbcu.ca/aliases'
 pages:
 - content/english/news/2022-osbcu-convention-elections-and-election-flyers.md
 - content/english/news/cupe-education-workers-are-ready-to-negotiate-a-contract-that-protects-and-expands-services-for-students.md
