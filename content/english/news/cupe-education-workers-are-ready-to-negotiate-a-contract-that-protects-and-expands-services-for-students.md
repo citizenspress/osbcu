@@ -1,5 +1,5 @@
 +++
-aliases = "sendamessage"
+aliases = "/sendamessage/"
 categories = []
 date = ""
 description = ""
