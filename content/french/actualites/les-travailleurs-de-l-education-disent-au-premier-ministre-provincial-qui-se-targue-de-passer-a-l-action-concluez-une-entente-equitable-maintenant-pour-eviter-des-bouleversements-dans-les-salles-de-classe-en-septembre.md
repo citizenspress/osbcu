@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = ""
 description = "Les travailleurs de l'éducation de première ligne sont prêts à se battre pour obtenir ce dont les élèves ont besoin en classe et ce dont ils ont eux-mêmes besoin pour encore mieux faire leur travail."
-draft = true
 image = "/img/test-3.png"
 lead = "Les travailleurs de l'éducation de première ligne sont prêts à se battre pour obtenir ce dont les élèves ont besoin en classe et ce dont ils ont eux-mêmes besoin pour encore mieux faire leur travail."
 slug = ""
@@ -15,3 +14,4 @@ toc = false
 translationKey = "frontlineeducation"
 
 +++
+![](/img/the-document-converter-1250-lfqcgsrrgymexsqr-1.jpg)![](/img/the-document-converter-1250-lfqcgsrrgymexsqr-2.jpg)![](/img/the-document-converter-1250-lfqcgsrrgymexsqr-3.jpg)
