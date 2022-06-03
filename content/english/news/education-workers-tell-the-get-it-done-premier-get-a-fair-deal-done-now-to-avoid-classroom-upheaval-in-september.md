@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = ""
 description = "Frontline education workers are ready to fight for what students need in the classroom and what they need to do their jobs even better."
-draft = true
 image = "/img/test-1.png"
 lead = "Frontline education workers are ready to fight for what students need in the classroom and what they need to do their jobs even better."
 slug = ""
