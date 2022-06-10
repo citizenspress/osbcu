@@ -8,6 +8,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 timeZone = "America/Toronto"
 enableRobotsTXT = true
 
+
 [languages]
 
   [languages.en]
