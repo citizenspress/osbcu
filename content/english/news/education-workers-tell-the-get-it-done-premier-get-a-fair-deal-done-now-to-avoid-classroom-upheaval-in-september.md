@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = []
-date = ""
+date = "2022-06-03"
 description = "Frontline education workers are ready to fight for what students need in the classroom and what they need to do their jobs even better."
 image = "/img/test-1.png"
 lead = "Frontline education workers are ready to fight for what students need in the classroom and what they need to do their jobs even better."
