@@ -3,7 +3,6 @@ aliases = "/sendamessage/"
 categories = []
 date = ""
 description = ""
-draft = true
 image = ""
 lead = ""
 slug = "sendamessage"
@@ -15,7 +14,6 @@ toc = false
 translationKey = "negotiateacontract"
 
 +++
-
 {{< rawhtml >}}
 
 <div id="newmode-embed-35267-49742"></div>
