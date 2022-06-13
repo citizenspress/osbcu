@@ -3,19 +3,17 @@ aliases = "/EnvoyerUnMessage/"
 categories = []
 date = 2022-06-13T13:00:00Z
 description = "Les travailleurs de l'éducation du SCFP sont prêts à négocier une convention collective qui protège et élargit les services offerts aux élèves, une convention collective qu’ils sont prêts à conclure avant le début de la nouvelle année scolaire cet automne."
-draft = false
-image = "/img/gettyimages-1270794789.jpeg"
+image = "/img/sendmessage.jpeg"
 lead = ""
 slug = "EnvoyerUnMessage"
 summary = "Les travailleurs de l'éducation du SCFP sont prêts à négocier une convention collective qui protège et élargit les services offerts aux élèves, une convention collective qu’ils sont prêts à conclure avant le début de la nouvelle année scolaire cet automne."
 tags = []
-thumbnail = "/img/gettyimages-1270794789.jpeg"
+thumbnail = "/img/sendmessage.jpeg"
 title = "Envoyez un message au premier ministre et au ministre de l'education"
 toc = false
 translationKey = "negotiateacontract"
 
 +++
-
 {{<rawhtml>}}
 <div id="newmode-embed-35267-49778"></div>
 <script>
