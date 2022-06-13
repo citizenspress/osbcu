@@ -3,7 +3,6 @@ aliases = "/EnvoyerUnMessage/"
 categories = []
 date = 2022-06-13T13:00:00Z
 description = ""
-draft = true
 image = "/img/gettyimages-1270794789.jpeg"
 lead = ""
 slug = "fr/EnvoyerUnMessage"
