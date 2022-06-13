@@ -1,5 +1,5 @@
 +++
-aliases = "/sendamessage/"
+aliases = "/SendAMessage/"
 categories = []
 date = 2022-06-13T13:00:00Z
 description = ""
