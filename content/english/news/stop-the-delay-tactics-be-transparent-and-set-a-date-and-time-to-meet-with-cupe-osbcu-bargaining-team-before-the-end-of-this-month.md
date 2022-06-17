@@ -64,3 +64,5 @@ _Stop the delay tactics, be transparent, and set a date and time to meet with my
 In solidarity,
 
 Your OSBCU Central Bargaining Committee
+
+[To receive OSBCU Central Updates Subscribe](http://eepurl.com/h2OnuD "To receive OSBCU Central Updates directly to your mailbox Subscribe")
