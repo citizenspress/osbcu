@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-06-17T22:00:00Z
 description = "Le vendredi 17 juin, l’équipe de négociation du Conseil des syndicats des conseils scolaires de l’Ontario du SCFP (CSCSO) a rencontré le Conseil des associations des conseillers scolaires (CACS), représentant vos employeurs, et le ministère de l'Éducation, représentant le gouvernement provincial. Cette réunion a eu lieu à Toronto, en personne."
-draft = true
 image = "/img/test-3.png"
 lead = "Le vendredi 17 juin, l’équipe de négociation du Conseil des syndicats des conseils scolaires de l’Ontario du SCFP (CSCSO) a rencontré le Conseil des associations des conseillers scolaires (CACS), représentant vos employeurs, et le ministère de l'Éducation, représentant le gouvernement provincial. Cette réunion a eu lieu à Toronto, en personne."
 slug = ""
