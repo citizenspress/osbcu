@@ -64,3 +64,6 @@ _Arrêtez les tactiques dilatoires. Faites preuve de transparence et fixez une d
 En toute solidarité,
 
 Votre Comité de négociation central du CSCSO
+
+  
+[**S'inscrire pour recevoir CSCSO Mises à jour centrales.**](http://eepurl.com/h2OnuD)
