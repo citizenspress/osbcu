@@ -53,7 +53,7 @@ You have the power, as workers who are united and as caregivers and community me
 
 1\. Talk to your coworkers about the “Education Workers are Ready to Negotiate” majority photo petition. Ask your coworkers to commit to take action to win their demands and to add their photo as a symbol of their commitment to collective action.
 
-2\. Join the parent outreach team your CUPE-OSBCU local representatives are organizing and hand out flyers to parents next week to let your community know that education workers are fighting for improvements to learning conditions at the bargaining table. \[link to parent leaflet\]
+2\. Join the parent outreach team your CUPE-OSBCU local representatives are organizing and hand out flyers to parents next week to let your community know that education workers are fighting for improvements to learning conditions at the bargaining table.
 
 3\. Attend one of the 20+ education worker actions taking place on Thursday, June 23 to deliver the tens of thousands of letters that you and your coworkers have signed calling on Premier Ford to commit the funding necessary for publicly delivered education in Ontario, including real wage increases and increased staffing.
 
