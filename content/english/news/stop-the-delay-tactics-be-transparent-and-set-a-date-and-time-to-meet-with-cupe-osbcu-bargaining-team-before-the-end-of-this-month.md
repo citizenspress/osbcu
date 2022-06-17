@@ -3,6 +3,7 @@ aliases = ""
 categories = []
 date = 2022-06-17T22:00:00Z
 description = "On Friday, June 17, your CUPE-Ontario School Boards Council of Unions (OSBCU) bargaining team met across the table from the Council of Trustees’ Associations (CTA), representing your employers, and the Ministry of Education, representing the provincial government."
+draft = true
 image = "/img/test-3.png"
 lead = "On Friday, June 17, your CUPE-Ontario School Boards Council of Unions (OSBCU) bargaining team met across the table from the Council of Trustees’ Associations (CTA), representing your employers, and the Ministry of Education, representing the provincial government."
 slug = ""
