@@ -11,7 +11,7 @@ tags = []
 thumbnail = "/img/test-3.png"
 title = "Arrêtez les tactiques dilatoires. Faites preuve de transparence et fixez une date pour rencontrer l'équipe de négociation du SCFP-CSCSO."
 toc = false
-translationKey = "bargainingupdate1"
+translationKey = "bargaining update1"
 
 +++
 **Négociation du CSCSO 2022 – Mise à jour no 1**
