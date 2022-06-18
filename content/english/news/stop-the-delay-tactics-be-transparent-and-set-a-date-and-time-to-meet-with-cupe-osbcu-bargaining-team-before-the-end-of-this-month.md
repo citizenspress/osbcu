@@ -11,9 +11,16 @@ tags = ["Bargaining"]
 thumbnail = "/img/test-3.png"
 title = "Stop the delay tactics, be transparent and set a date and time to meet with CUPE-OSBCU bargaining team before the end of this month."
 toc = true
-translationKey = "bargainingupdate1"
+translationKey = "bargaining update1"
 
 +++
+
+> {{< rawhtml >}}
+<p>
+<a href="http://eepurl.com/h2OnuD" class="btn" style="color:#FFF" title="Subscribe">Click for email updates</a>
+</p>
+{{< /rawhtml >}}
+
 
 ## OSBCU 2022 Bargaining Update #1
 

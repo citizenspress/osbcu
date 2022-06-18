@@ -73,3 +73,9 @@ image = "img/avatar.png"
 #   title = "Youtube"
 #   url = "https://youtube.com/user/username"
 #   icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+
+# Custom social links
+ [[Params.widgets.social.custom]]
+   title = "Subscribe"
+   url = "https://osbcu.us14.list-manage.com/subscribe?u=dcfef3cf193c219d80a42fc31&id=962899ba7d"
+   icon = "svg/email.svg" # Optional. Path relative to "layouts/partials"
