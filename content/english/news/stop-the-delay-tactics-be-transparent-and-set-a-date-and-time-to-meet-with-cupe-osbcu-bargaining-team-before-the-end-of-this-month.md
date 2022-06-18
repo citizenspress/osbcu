@@ -10,7 +10,7 @@ summary = "We thought it would be no-brainer for both parties – workers repres
 tags = ["Bargaining"]
 thumbnail = "/img/test-3.png"
 title = "Stop the delay tactics, be transparent and set a date and time to meet with CUPE-OSBCU bargaining team before the end of this month."
-toc = false
+toc = true
 translationKey = "bargainingupdate1"
 
 +++
