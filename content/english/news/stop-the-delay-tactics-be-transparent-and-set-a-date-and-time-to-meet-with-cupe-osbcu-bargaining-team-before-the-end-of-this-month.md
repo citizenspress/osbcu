@@ -15,7 +15,7 @@ translationKey = "bargainingupdate1"
 
 +++
 
-**OSBCU 2022 Bargaining Update #1**
+## OSBCU 2022 Bargaining Update #1
 
 On Friday, June 17, your CUPE-Ontario School Boards Council of Unions (OSBCU) bargaining team met across the table from the Council of Trustees’ Associations (CTA), representing your employers, and the Ministry of Education, representing the provincial government. This meeting happened in Toronto and it was in-person.
 
@@ -49,7 +49,7 @@ Doug Ford’s newly reelected Progressive Conservative government has the power 
 
 You have the power, as workers who are united and as caregivers and community members, to put pressure on your elected members of provincial parliament and the people they send to the bargaining table to negotiate.
 
-# Here’s what you can do
+## Here’s what you can do
 
 1. Talk to your coworkers about the “Education Workers are Ready to Negotiate” majority photo petition. Ask your coworkers to commit to take action to win their demands and to add their photo as a symbol of their commitment to collective action.
 2. Join the parent outreach team your CUPE-OSBCU local representatives are organizing and hand out flyers to parents next week to let your community know that education workers are fighting for improvements to learning conditions at the bargaining table.
