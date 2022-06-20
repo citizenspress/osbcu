@@ -1,17 +1,16 @@
 +++
 aliases = ""
-categories = []
+categories = ["Bargaining Updates"]
 date = 2022-06-17T17:00:00Z
 description = "Le vendredi 17 juin, l’équipe de négociation du Conseil des syndicats des conseils scolaires de l’Ontario du SCFP (CSCSO) a rencontré le Conseil des associations des conseillers scolaires (CACS), représentant vos employeurs, et le ministère de l'Éducation, représentant le gouvernement provincial. Cette réunion a eu lieu à Toronto, en personne."
-draft = true
 image = "/img/test-3.png"
 lead = "Le vendredi 17 juin, l’équipe de négociation du Conseil des syndicats des conseils scolaires de l’Ontario du SCFP (CSCSO) a rencontré le Conseil des associations des conseillers scolaires (CACS), représentant vos employeurs, et le ministère de l'Éducation, représentant le gouvernement provincial. Cette réunion a eu lieu à Toronto, en personne."
 slug = ""
 summary = "Nous pensions qu'il serait évident pour les deux parties, les représentants des travailleurs et des travailleuses et les patrons, d'accepter rapidement la même portée centrale que la dernière fois. Pourtant, quelque chose d'aussi simple que cela ne fut rien d’autre qu’une occasion pour le gouvernement provincial de retarder le tout.  Ils se disent qu'ils peuvent retarder plus longtemps le début des discussions sur les vrais questions qui vous tiennent à cœur, à vous et aux personnes qui s’occupent des enfants, en faisant traîner la première réunion d'aujourd'hui en une deuxième réunion inutile dans plusieurs semaines. (D’ailleurs, une autre date de réunion n’a pas encore été convenue)."
-tags = []
+tags = ["Bargaining"]
 thumbnail = "/img/test-3.png"
 title = "Arrêtez les tactiques dilatoires. Faites preuve de transparence et fixez une date pour rencontrer l'équipe de négociation du SCFP-CSCSO."
-toc = false
+toc = true
 translationKey = "bargaining update1"
 
 +++
