@@ -15,6 +15,11 @@ toc = false
 translationKey = "bargaining update1"
 
 +++
+{{< rawhtml >}}
+<p>
+<a href="http://eepurl.com/h2OnuD" class="btn" style="color:#FFF" title="Subscribe">Click for email updates</a>
+</p>
+{{< /rawhtml >}}
 
 **Négociation du CSCSO 2022 – Mise à jour no 1**
 
