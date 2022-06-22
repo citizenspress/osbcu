@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2022-06-22T09:00:00Z
-draft = true
 endDate = "2020-06-23T10:00:00"
 image = "/img/1-1.jpeg"
 orga = "CUPE OSBCU"
