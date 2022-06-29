@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "Executive"
-draft = true
 lead = ""
 linkTitle = "exec"
 slug = "exec"
