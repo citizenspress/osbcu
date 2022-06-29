@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-06-29T15:00:00Z
 description = "Astonishingly, superintendent of business services and board treasurer Nick Pfeiffer explained during Monday’s meeting that funding for a newly created superintendent position, at the added cost of about $211,000 per year, was provided by the Ford government specifically for hiring yet another backroom senior manager."
-draft = true
 image = "/img/unknown.jpeg"
 lead = "Belleville, ON – In a do-over meeting on Monday, Hastings and Prince Edward District School Board (HPEDSB) trustees adopted the exact same 2022-2023 budget they had declined just last week, this time with a five-to-four vote."
 slug = ""
