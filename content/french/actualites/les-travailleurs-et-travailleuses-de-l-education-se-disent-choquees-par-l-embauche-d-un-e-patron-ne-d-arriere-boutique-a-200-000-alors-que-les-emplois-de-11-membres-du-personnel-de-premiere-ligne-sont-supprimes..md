@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-06-29T15:00:00Z
 description = "Curieusement, Nick Pfeiffer, surintendant des services commerciaux et trésorier du Conseil scolaire, a expliqué au cours de la réunion de lundi que la prise en charge d'un poste de surintendant(e) nouvellement créé, au coût supplémentaire d'environ 211 000 $ par année, a été fourni par le gouvernement Ford spécifiquement pour l'embauche d'un(e) autre cadre supérieur(e) d’arrière-boutique."
-draft = true
 image = "/img/unknown.jpeg"
 lead = "Belleville (Ontario) – Lundi, lors d'une réunion pour se refaire, les conseillers et conseillères scolaires du Conseil scolaire de district de Hastings et Prince Edward (CSDHPE) ont adopté exactement le même budget 2022-2023 qu'ils et elles avaient rejeté la semaine dernière, cette fois par un vote de cinq contre quatre."
 slug = ""
