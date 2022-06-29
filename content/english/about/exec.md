@@ -28,7 +28,7 @@ A native of Belleville, Ontario, Laura is proud of her rural roots. She’s work
 
 ## First Vice-President: Rod McGee
 
-![](/img/McGee.jpg)
+![](/img/fda2c62b-4be0-4830-a68e-ba8768749946.jpeg)
 
 Phone: 807-629-4632
 
