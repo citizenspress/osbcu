@@ -165,3 +165,5 @@ Devin Klassen I’ve been a custodian for 8 years for Lakehead District School B
 ***
 
 ## Injured Worker Rep: Carrie Boisvert
+
+My name is Carrie Boisvert I have been an Educational Assistant with the Durham Catholic District School Board for over 20 years. I am currently on a leave taking the role as the Disability Coordinator for Local 218. I have been a Health and Safety rep for the last 7 years with a passion to ensure workers are safe in the workplace and return home to their families the way they left. I look forward in working with the OSBCU as the injured worker rep.
