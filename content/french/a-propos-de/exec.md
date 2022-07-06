@@ -61,7 +61,7 @@ Tammy est secrétaire-trésorière de la section locale 2486 du SCFP et concierg
 
 ## Mobilisatrice de la région 1: Jennifer Eckert
 
-![](/img/Eckert.jpg)
+![](/img/15.png)
 
 Aide-enseignante depuis plus de 20 ans, Jennifer Eckert est aussi déléguée syndicale en chef de la section locale 7575 du SCFP, qui représente les aides-enseignants et les auxiliaires à l’enseignement du Conseil scolaire de district de Thames Valley, à London, en Ontario.
 
@@ -69,7 +69,7 @@ Aide-enseignante depuis plus de 20 ans, Jennifer Eckert est aussi déléguée sy
 
 ## Vice-président de la région 2: Keith Levere
 
-![](/img/Levere.jpg)
+![](/img/14.png)
 
 Keith Levere est aide-enseignant dans une école de la maternelle à la 12e année du Conseil scolaire de district de Niagara. Il est délégué syndical en chef de la section locale 4156 du SCFP, président du Conseil du district de Niagara du SCFP et vice-président du Conseil du travail de la région du Niagara. Keith est lauréat du Prix du militant syndical de 2016 du NPD de Welland.
 
@@ -152,3 +152,5 @@ Mike est concierge au Conseil scolaire de district d’Algoma et président de l
 ***
 
 ## Représentant des travailleurs blessés: Carrie Boisvert
+
+![](/img/13.png)
