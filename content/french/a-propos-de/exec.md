@@ -91,6 +91,8 @@ Dans ses temps libres, Keith est entraîneur de hockey et de crosse de niveau ju
 
 ## Agent de mobilisation de la zone 3: Vacant
 
+Chris est concierge et préposé à l'entretien au conseil scolaire du district de Peel depuis 13 ans. Il est l'ancien administrateur, délégué syndical et membre actuel de la section locale 2544 où il représente les membres du Peel District School Board. Qui comprennent l'entretien, la garde, les services alimentaires et l'audiovisuel. Chris a hâte de travailler avec les sections locales de la zone 3, avec sa bonne nature et ses blagues de papa.
+
 ***
 
 ## Vice-président de la zone 4: Laurie Lucciola
@@ -154,3 +156,5 @@ Mike est concierge au Conseil scolaire de district d’Algoma et président de l
 ## Représentant des travailleurs blessés: Carrie Boisvert
 
 ![](/img/13.png)
+
+Je m'appelle Carrie Boisvert. J'ai été assistante en éducation au Durham Catholic District School Board pendant plus de 20 ans. Je suis actuellement en congé en tant que coordonnatrice des invalidités pour la section locale 218. Je suis représentante en santé et sécurité depuis 7 ans avec une passion pour m'assurer que les travailleurs sont en sécurité sur le lieu de travail et qu'ils rentrent chez eux dans leur famille comme ils le font. la gauche. J'ai hâte de travailler avec l'OSBCU en tant que représentant des travailleurs blessés.
