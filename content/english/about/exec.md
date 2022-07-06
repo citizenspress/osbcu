@@ -89,7 +89,7 @@ My name is Melissa Martin, I am currently Head Steward of CUPE Local 3447 with t
 
 ## Area 3 Vice-President: Todd Canning
 
-![](/img/image002.jpg)
+![](/img/todd-300x300.png)
 
 ***
 
