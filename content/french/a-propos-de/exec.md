@@ -89,7 +89,7 @@ Dans ses temps libres, Keith est entraîneur de hockey et de crosse de niveau ju
 
 ***
 
-## Agent de mobilisation de la zone 3: Vacant
+## Agent de mobilisation de la zone 3:  Chris DeMelo
 
 Chris est concierge et préposé à l'entretien au conseil scolaire du district de Peel depuis 13 ans. Il est l'ancien administrateur, délégué syndical et membre actuel de la section locale 2544 où il représente les membres du Peel District School Board. Qui comprennent l'entretien, la garde, les services alimentaires et l'audiovisuel. Chris a hâte de travailler avec les sections locales de la zone 3, avec sa bonne nature et ses blagues de papa.
 
