@@ -63,7 +63,7 @@ Joe is the Area 1 VP and president of CUPE Local 3615. Joe Tigani is also an edu
 
 ## Area 1 Mobilization Officer: Jennifer Eckert
 
-![](/img/Eckert.jpg)
+![](/img/15.png)
 
 An educational assistant for over 20 years, Jennifer Eckert is also Chief Steward for CUPE 7575. The Local represents educational assistants and instructional assistants with the Thames Valley District School board in London, Ontario.
 
@@ -71,7 +71,7 @@ An educational assistant for over 20 years, Jennifer Eckert is also Chief Stewar
 
 ## Area 2 Vice-President: Keith Levere
 
-![](/img/Levere.jpg)
+![](/img/14.png)
 
 Keith Levere is an Educational Assistant working in a K-12 school with the District School Board of Niagara. He is a Chief Steward for CUPE 4156, President of the Niagara District CUPE Council, and VP of the Niagara Reginal Labour Council. Keith was also the recipient of the Welland NDP’s Labour Activist Award for 2016.
 
@@ -165,5 +165,7 @@ Devin Klassen I’ve been a custodian for 8 years for Lakehead District School B
 ***
 
 ## Injured Worker Rep: Carrie Boisvert
+
+![](/img/13.png)
 
 My name is Carrie Boisvert I have been an Educational Assistant with the Durham Catholic District School Board for over 20 years. I am currently on a leave taking the role as the Disability Coordinator for Local 218. I have been a Health and Safety rep for the last 7 years with a passion to ensure workers are safe in the workplace and return home to their families the way they left. I look forward in working with the OSBCU as the injured worker rep.
