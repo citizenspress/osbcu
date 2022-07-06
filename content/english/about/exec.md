@@ -15,7 +15,7 @@ translationKey = "exec"
 +++
 ## President: Laura Walton
 
-![](/img/5c4d4ac6-3933-414d-a68e-95c0d4fc8198.jpeg)
+![](/img/laura-744753.jpg)
 
 phone: 613-813-9951
 
