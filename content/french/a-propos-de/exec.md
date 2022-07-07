@@ -83,6 +83,8 @@ Dans ses temps libres, Keith est entraîneur de hockey et de crosse de niveau ju
 
 ![](/img/8.png)
 
+Je m'appelle Melissa Martin, je suis actuellement déléguée syndicale en chef de la section locale 3447 du SCFP au Conseil scolaire de district catholique de Bruce Grey. Je suis un membre actif de notre section locale depuis que j'ai commencé à travailler comme administrateur de bureau en 2010. Je suis à la fois excité et impatient de travailler pour la zone 2 en tant que nouvel agent de mobilisation et pour l'ensemble de l'exécutif de l'OSBCU.
+
 ***
 
 ## Vice-président de la zone 3: Todd Canning
