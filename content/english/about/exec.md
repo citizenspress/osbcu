@@ -158,6 +158,10 @@ Devin Klassen I’ve been a custodian for 8 years for Lakehead District School B
 
 ![](/img/4.png)
 
+Hello, 
+
+My name is Michel Gagnon, originally from the French-speaking region of Kapuskasing. Passionate about nature, I studied as a technician in forestry and fisheries and wildlife management. I worked 10 years as a heavy truck driver in the forestry industry. During the summer months, I spend my free time camping and fishing. In 2004 I came to North bay to start a new job at a secondary school. I was elected as vice-president for 9 months before becoming president of local 4865 for 3 years which covers an area from Parry Sound to Hearst. After attending a few CSCSO conferences, I decided to introduce myself as the French-speaking mobilizer executive of the CSCSO. I am dedicated to representing the rights of Francophone members in Ontario.
+
 ***
 
 ## Health & Safety Rep: Hugo Toste
