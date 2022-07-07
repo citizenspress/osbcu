@@ -154,6 +154,10 @@ Catherine is looking forward to working with the Locals in Area 6.
 
 Devin Klassen I’ve been a custodian for 8 years for Lakehead District School Board. I am CUPE Local 2486 Head Shop Steward and Area 7 VP for the OSBCU/CSCSO. I am a Broadcasting graduate with a background working in radio.
 
+## Area 7 Mobilization Officer: Alyssa McGee
+
+![](/img/17.png)
+
 ***
 
 ## Francophone mobilization officer: Mitch Gagnon
