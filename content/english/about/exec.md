@@ -35,7 +35,7 @@ Phone: 807-629-4632
 
 ## Francophone Vice-President: Christine Couture
 
-![](/img/Couture.jpg)
+![](/img/cc-head-shots-300x300.png)
 
 Phone: 613-808-4730
 
