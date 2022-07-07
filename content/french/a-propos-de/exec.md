@@ -57,6 +57,8 @@ Tammy est secrétaire-trésorière de la section locale 2486 du SCFP et concierg
 
 ![](/img/3.png)
 
+Joe est vice-président de la région 1 et président de la section locale 3615 du SCFP. Joe Tigani est également assistant en éducation dans une école secondaire locale du Huron Perth Catholic District School Board. Joe siège au JHSC, au comité de négociation, à la planification du perfectionnement professionnel, au CET, au DDCP et au comité du calendrier du système. Joe est ravi de servir les membres du 3615, de la zone 1 et de l'OSBCU.
+
 ***
 
 ## Mobilisatrice de la région 1: Jennifer Eckert
