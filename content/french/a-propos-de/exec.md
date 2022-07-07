@@ -141,6 +141,8 @@ Mike est concierge au Conseil scolaire de district d’Algoma et président de l
 
 ![](/img/7.png)
 
+Catherine est secrétaire d'école primaire au Near North District School Board depuis 15 ans. Elle est l'ancienne présidente et l'actuelle secrétaire-trésorière de la section locale 1165 où elle représente les membres du Near North District School Board, du Conseil scolaire catholique Franco Nord, du Nipissing-Parry Sound Student Transportation et des Canadore College Food Services. Catherine a hâte de travailler avec les sections locales de la zone 6.
+
 ***
 
 ## Vice-présidente de la région 7: Devin Klassen
