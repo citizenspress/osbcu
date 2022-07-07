@@ -35,7 +35,7 @@ Numéro De Téléphone: 807-629-4632
 
 ## Vice-président francophone: Christine Couture
 
-![](/img/Couture.jpg)
+![](/img/cc-head-shots-300x300.png)
 
 Numéro De Téléphone: 613-808-4730
 
