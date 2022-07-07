@@ -147,6 +147,10 @@ Mike est concierge au Conseil scolaire de district d’Algoma et président de l
 
 ![](/img/4.png)
 
+Bonjour,
+
+Je me nomme Michel Gagnon, originalement de la région francophone de Kapuskasing. Passionner de la nature, j’ai fait mes études comme technicien en foresterie et gestion de la pêcheet faunes. J’ai travaillé 10 ans comme conducteur de camion lourd dans l’industrie forestière. Durant les mois d’été, je passe mon temp libre au camping et à la pêche. En 2004 Je suis venu à North bay pour commencer un nouveau travail dans une école secondaire. J’ai été élu comme vice-président pour 9 mois avant de devenir président de la section local 4865 depuis 3 ans qui couvre une superficie de Parry Sound jusqu’à Hearst. Après avoir assister à quelques conférencesdu CSCSO j’ai décidé de me présenter comme exécutif de mobilisateur francophone du CSCSO. Je suis dévouée à représenter les droits des membres francophones en Ontario.
+
 ***
 
 ## Représentante de la santé et de la sécurité: Hugo Toste
