@@ -149,6 +149,8 @@ Catherine est secrétaire d'école primaire au Near North District School Board 
 
 ![](/img/10.png)
 
+Devin Klassen Je suis concierge depuis 8 ans pour le Lakehead District School Board. Je suis délégué syndical en chef de la section locale 2486 du SCFP et vice-président de la zone 7 pour l'OSBCU/CSCSO. Je suis diplômé en radiodiffusion avec une formation en radio.
+
 ***
 
 ## Mobilisatrice francophone: Mitch Gagnon
