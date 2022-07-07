@@ -95,6 +95,8 @@ My name is Melissa Martin, I am currently Head Steward of CUPE Local 3447 with t
 
 ## Area 3 Mobilization Officer: Chris Demelo
 
+![](/img/16.png)
+
 Chris has been a custodian and maintenance worker with the Peel district School Board for 13 years. He is the past trustee, steward, and current Member at Large of Local 2544 where he represents members of the Peel District School Board. Which include maintenance, custodial, food services, and AV. Chris is looking forward to working with the Locals in Area 3, with his good nature and dad jokes.
 
 ***
@@ -158,13 +160,15 @@ Devin Klassen I’ve been a custodian for 8 years for Lakehead District School B
 
 ![](/img/4.png)
 
-Hello, 
+Hello,
 
 My name is Michel Gagnon, originally from the French-speaking region of Kapuskasing. Passionate about nature, I studied as a technician in forestry and fisheries and wildlife management. I worked 10 years as a heavy truck driver in the forestry industry. During the summer months, I spend my free time camping and fishing. In 2004 I came to North bay to start a new job at a secondary school. I was elected as vice-president for 9 months before becoming president of local 4865 for 3 years which covers an area from Parry Sound to Hearst. After attending a few CSCSO conferences, I decided to introduce myself as the French-speaking mobilizer executive of the CSCSO. I am dedicated to representing the rights of Francophone members in Ontario.
 
 ***
 
 ## Health & Safety Rep: Hugo Toste
+
+![](/img/18.png)
 
 ***
 
