@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-07-19T03:00:00Z
 description = "While the scope of central bargaining has been decided, with only one day of negotiations having taken place in July and just a month and a half until September 1, OSBCU education workers continue to urge the government to get a fair deal done before school starts."
-draft = true
 image = "/img/75f1c36d-f94e-4b2a-aa00-124358452daf_4_5005_c.jpeg"
 lead = "While the scope of central bargaining has been decided, with only one day of negotiations having taken place in July and just a month and a half until September 1, OSBCU education workers continue to urge the government to get a fair deal done before school starts."
 slug = ""

@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-07-19T03:00:00Z
 description = "La portée de la négociation centrale a été décidée. Mais, puisqu’une seule journée de négociation a eu lieu en juillet et qu’il ne reste qu’un mois et demi avant le 1er septembre, les travailleurs et travailleuses de l’éducation continuent donc d’exhorter le gouvernement à intervenir un accord équitable avant la rentrée scolaire."
-draft = true
 image = "/img/75f1c36d-f94e-4b2a-aa00-124358452daf_4_5005_c.jpeg"
 lead = "La portée de la négociation centrale a été décidée. Mais, puisqu’une seule journée de négociation a eu lieu en juillet et qu’il ne reste qu’un mois et demi avant le 1er septembre, les travailleurs et travailleuses de l’éducation continuent donc d’exhorter le gouvernement à intervenir un accord équitable avant la rentrée scolaire."
 slug = ""
