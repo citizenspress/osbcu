@@ -10,12 +10,12 @@ slug = ""
 summary = "Pendant environ neuf heures lundi, vos collègues ont tenté de conclure un accord avec les représentant(e)s de vos patrons sur les deux mêmes points que la dernière fois, à savoir les règles de base de cette ronde de négociations et la portée de la négociation centrale."
 tags = []
 thumbnail = "/img/75f1c36d-f94e-4b2a-aa00-124358452daf_4_5005_c.jpeg"
-title = "Négociations du CSCSO 18 juillet 2022"
+title = " Mise à jour des négociations OSBCU 2022 du 18 juillet 2022"
 toc = true
 translationKey = "Bargaining update 6"
 
 +++
-## **Négociations du CSCSO** 18 juillet 2022
+## Mise à jour des négociations OSBCU 2022 du 18 juillet 2022
 
 **La portée de la négociation centrale a été décidée. Mais, puisqu’une seule journée de négociation a eu lieu en juillet et qu’il ne reste qu’un mois et demi avant le 1er septembre, les travailleurs et travailleuses de l’éducation continuent donc d’exhorter le gouvernement à intervenir un accord équitable avant la rentrée scolaire.**
 
