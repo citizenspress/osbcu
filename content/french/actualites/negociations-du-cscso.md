@@ -3,19 +3,18 @@ aliases = ""
 categories = []
 date = 2022-07-19T03:00:00Z
 description = "La portée de la négociation centrale a été décidée. Mais, puisqu’une seule journée de négociation a eu lieu en juillet et qu’il ne reste qu’un mois et demi avant le 1er septembre, les travailleurs et travailleuses de l’éducation continuent donc d’exhorter le gouvernement à intervenir un accord équitable avant la rentrée scolaire."
-draft = true
 image = "/img/75f1c36d-f94e-4b2a-aa00-124358452daf_4_5005_c.jpeg"
 lead = "La portée de la négociation centrale a été décidée. Mais, puisqu’une seule journée de négociation a eu lieu en juillet et qu’il ne reste qu’un mois et demi avant le 1er septembre, les travailleurs et travailleuses de l’éducation continuent donc d’exhorter le gouvernement à intervenir un accord équitable avant la rentrée scolaire."
 slug = ""
 summary = "Le lundi 18 juillet, le Comité de négociation central du Conseil des syndicats des conseils scolaires de l’Ontario du SCFP (CSCSO) se réunissait, en personne, à Toronto, avec les représentant(e)s du Conseil des associations des conseillers scolaires (CACS) et du ministère de l’Éducation. C’est 31 jours après la première réunion du vendredi 17 juin qu’a eu lieu cette deuxième rencontre, l’autre partie n’étant pas disposée à se réunir à nouveau avant aujourd’hui."
 tags = []
 thumbnail = "/img/75f1c36d-f94e-4b2a-aa00-124358452daf_4_5005_c.jpeg"
-title = "Négociations du CSCSO"
+title = "Mise à jour des négociations OSBCU 2022 du 18 juillet 2022"
 toc = true
 translationKey = "Bargaining update 6"
 
 +++
-## **Négociations du CSCSO 2022 - Mise à jour no 6**
+## Mise à jour des négociations OSBCU 2022 du 18 juillet 2022
 
 **La portée de la négociation centrale a été décidée. Mais, puisqu’une seule journée de négociation a eu lieu en juillet et qu’il ne reste qu’un mois et demi avant le 1er septembre, les travailleurs et travailleuses de l’éducation continuent donc d’exhorter le gouvernement à intervenir un accord équitable avant la rentrée scolaire.**
 
