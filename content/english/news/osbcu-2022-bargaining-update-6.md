@@ -10,7 +10,7 @@ slug = ""
 summary = "Over a period of about nine hours on Monday, your coworkers focused on trying to get an agreement with your bosses’ representatives about the same two things as last time: ground rules for this round of negotiations and the scope of central bargaining."
 tags = []
 thumbnail = "/img/75f1c36d-f94e-4b2a-aa00-124358452daf_4_5005_c.jpeg"
-title = "OSBCU 2022 Bargaining Update #6"
+title = "OSBCU 2022 Bargaining Update for July 18, 2022"
 toc = true
 translationKey = "Bargaining update 6"
 
