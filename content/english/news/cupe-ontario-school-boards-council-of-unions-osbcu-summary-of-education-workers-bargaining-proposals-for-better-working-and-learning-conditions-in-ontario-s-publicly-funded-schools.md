@@ -3,6 +3,7 @@ aliases = ""
 categories = []
 date = 2022-08-02T16:00:00Z
 description = "On Tuesday, August 2, your CUPE-Ontario School Boards Council of Unions (OSBCU) central bargaining committee met with the Council of Trustees’ Associations (CTA) and provincial government negotiators for the third time. We presented a full package of bargaining proposals in an effort to push the Ford government to get a fair deal done before September."
+draft = true
 image = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 lead = "On Tuesday, August 2, your CUPE-Ontario School Boards Council of Unions (OSBCU) central bargaining committee met with the Council of Trustees’ Associations (CTA) and provincial government negotiators for the third time. We presented a full package of bargaining proposals in an effort to push the Ford government to get a fair deal done before September."
 slug = ""
