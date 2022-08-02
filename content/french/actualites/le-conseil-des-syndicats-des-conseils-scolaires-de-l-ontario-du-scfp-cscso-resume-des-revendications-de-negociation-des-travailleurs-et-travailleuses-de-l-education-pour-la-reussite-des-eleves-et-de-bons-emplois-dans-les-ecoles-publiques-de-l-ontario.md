@@ -3,6 +3,7 @@ aliases = ""
 categories = []
 date = 2022-08-02T16:00:00Z
 description = "Le mardi 2 août, votre comité central de négociation du SCFP-Ontario School Boards Council of Unions (OSBCU) a rencontré le Council of Trustees’ Associations (CTA) et les négociateurs du gouvernement provincial pour la troisième fois. Nous avons présenté un ensemble complet de propositions de négociation dans le but de pousser le gouvernement Ford à conclure une entente équitable avant septembre."
+draft = true
 image = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 lead = "Le mardi 2 août, votre comité central de négociation du SCFP-Ontario School Boards Council of Unions (OSBCU) a rencontré le Council of Trustees’ Associations (CTA) et les négociateurs du gouvernement provincial pour la troisième fois. Nous avons présenté un ensemble complet de propositions de négociation dans le but de pousser le gouvernement Ford à conclure une entente équitable avant septembre."
 slug = ""
