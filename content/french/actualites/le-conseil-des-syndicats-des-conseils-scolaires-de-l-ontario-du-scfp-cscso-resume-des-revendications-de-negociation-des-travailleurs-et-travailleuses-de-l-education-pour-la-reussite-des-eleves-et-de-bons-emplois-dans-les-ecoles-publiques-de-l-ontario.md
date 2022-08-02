@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-08-02T16:00:00Z
 description = "Le mardi 2 août, votre comité central de négociation du SCFP-Ontario School Boards Council of Unions (OSBCU) a rencontré le Council of Trustees’ Associations (CTA) et les négociateurs du gouvernement provincial pour la troisième fois. Nous avons présenté un ensemble complet de propositions de négociation dans le but de pousser le gouvernement Ford à conclure une entente équitable avant septembre."
-draft = true
 image = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 lead = "Le mardi 2 août, votre comité central de négociation du SCFP-Ontario School Boards Council of Unions (OSBCU) a rencontré le Council of Trustees’ Associations (CTA) et les négociateurs du gouvernement provincial pour la troisième fois. Nous avons présenté un ensemble complet de propositions de négociation dans le but de pousser le gouvernement Ford à conclure une entente équitable avant septembre."
 slug = ""
@@ -60,49 +59,32 @@ translationKey = "Proposals"
 ## Fixer un nombre minimal d’heures de travail hebdomadaires pour les travailleurs et travailleuses de l’éducation à plein temps
 
 * La semaine de travail normale des aides-enseignant(e)s, des éducateurs et éducatrices de la petite enfance agréé(e)s, des travailleurs et travailleuses auprès des enfants et des jeunes et d’autres postes à plein temps est de 35 heures. Mais, certains conseils scolaires n’inscrivent à l’horaire de leur personnel à plein temps qu’aussi peu que 30 heures par semaine.
-
-
 * La semaine de travail standard des concierges, des gens de métier, des professionnel(le)s des technologies de l'information, du personnel de bureau du conseil scolaire et d'autres à plein temps est de 40 heures. Mais, certains conseils scolaires inscrivent moins d’heures à l’horaire de leur personnel à plein temps.
 * Le fait de refuser des heures aux employé(e)s se traduit par du travail non rémunéré, ce qui inclut (mais sans s'y limiter) les travailleurs et travailleuses qui font régulièrement des heures de travail de préparation non rémunérées. En moyenne, les travailleurs et travailleuses de l'éducation du SCFP-CSCSO effectuent 92,4 minutes de travail non rémunéré par semaine, ce qui équivaut à ne pas être payé pour deux semaines de travail par année.
-
-
 * Les semaines de travail écourtées sont une autre forme de sous-effectif qui prive les élèves et les écoles du soutien dont ils ont besoin.
 
 ## Établir des normes minimales en matière de congés annuels, de congés autorisés et d’autres conditions d’emploi
 
 * Toutes ces conditions d'emploi ont été effectivement gelées depuis 2012 et toutes doivent être abordées à la table de négociation centrale.
-
-
 * Les travailleurs et travailleuses qui ont syndiqué de nouvelles unités de négociation depuis lors n'ont pas été en mesure d'apporter des améliorations correspondant à ce que les autres travailleurs et travailleuses de l'éducation du SCFP-CSCSO ont pu obtenir.
-
-
 * Par souci d'équité, tous les travailleurs et travailleuses devraient avoir droit à des conditions d'emploi similaires. L'établissement de normes minimales pour tous les conseils scolaires est un pas dans cette direction.
 
 ## Augmentation du financement pour améliorer les prestations
 
 * Explorer la possibilité d'étendre les avantages sociaux aux membres qui n’y sont présentement pas admissibles ou qui ne sont pas inscrits au régime d'avantages sociaux. À l'heure actuelle, presque tous les membres qui sont classés comme temporaires ou occasionnels n’ont pas droit aux prestations.
-
-
 * Des fonds supplémentaires pour couvrir les coûts croissants des médicaments et des services de soins de santé et de soins dentaires.
 
 ## Temps de préparation rémunéré pour les employé(e)s dont les tâches principales sont directement liées à l’enseignement aux élèves/apprenant(e)s
 
 * Plusieurs employé(e)s qui travaillent directement avec les élèves ne bénéficient pas de temps de préparation rémunéré. Par conséquent, ils et elles effectuent une quantité importante de travail non rémunéré.
-
-
 * La rémunération du temps de préparation reconnaît la valeur de la contribution des travailleurs et travailleuses de première ligne à la réussite des élèves.
 
 ## Formation en prévention de la violence et recommandations visant à prévenir la violence dans les écoles
 
 * La prévention de la violence dans les écoles est importante tant pour les élèves que pour les travailleurs et travailleuses.
-
-
 * Un rapport de 2021 sur la violence en milieu de travail recommandait l’allocation de ressources adéquates pour les élèves (notamment les niveaux de dotation en personnel), des soutiens pour les travailleurs et travailleuses de l'éducation afin de pourvoir à leurs besoins en matière de santé physique et mentale, et une formation supplémentaire à l’intention des administrateurs(trices) afin qu’ils(elles) comprennent l'ampleur des problèmes de violence dans les écoles.
-
-
 * L'un des principaux moyens de prévenir la violence sur les lieux de travail dans le secteur de l'éducation consiste à disposer d'un nombre suffisant d'employé(e)s.
 
 Ce qui précède est un très court résumé des principales revendications de négociation déposées par les travailleurs et travailleuses de l’éducation de première ligne du SCFP-CSCSO. Ce sommaire ne contient pas tous les détails de chaque revendication, ni toutes les revendications qui ont été présentées au Conseil des associations de conseillers scolaires et aux négociateurs du ministère de l'Éducation. Pour en savoir plus sur l'ensemble des revendications déposées le 2 août 2022.
 
-  
-[Lire les propositions complètes pour Mémoire du SCFP/CSCSO Consultation - Ronde de négociation collective 2022 - Modalités de fonctionnementsubmission_to_government_2022_round_of_collective_bargaining_term_of_operation_consultation_2022_07_18_fr.pdf](/img/submission_to_government_2022_round_of_collective_bargaining_term_of_operation_consultation_2022_07_18_fr.pdf)
+[Lire la soumission complète Propositions de négociation centrale 2022](/img/central_bargaining_proposals_presented_to_crown_cta__2022_07_27.pdf)
