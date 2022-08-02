@@ -78,3 +78,5 @@ translationKey = "Proposals"
 The above is a very short summary of key bargaining proposals tabled by CUPE-OSBCU frontline education workers. The summary does not capture all details of each proposal, nor does it capture every single proposal that was presented to the Council of Trustees Associations and the Ministry of Education negotiators. For the full package of proposals tabled on August 2, 2022.
 
 [Read full submission Proposals of 2022 Central Bargaining](/img/central_bargaining_proposals_presented_to_crown_cta__2022_07_27.pdf)
+
+[COUNCIL OF TRUSTEES’ ASSOCIATIONS AND THE CROWN PROPOSAL AUGUST 2, 2022](/img/cta-crown-pass-to-cupe-2022-08-02-10h30.pdf)
