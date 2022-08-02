@@ -103,6 +103,8 @@ Chris has been a custodian and maintenance worker with the Peel district School 
 
 ## Area 4 Vice-President: Laurie Lucciola
 
+![](/img/area-4-executive-head-shots-300x300.png)
+
 ***
 
 ## Area 4 Mobilization Officer: Lori-Ann Richards
