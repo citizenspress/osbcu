@@ -88,3 +88,5 @@ translationKey = "Proposals"
 Ce qui précède est un très court résumé des principales revendications de négociation déposées par les travailleurs et travailleuses de l’éducation de première ligne du SCFP-CSCSO. Ce sommaire ne contient pas tous les détails de chaque revendication, ni toutes les revendications qui ont été présentées au Conseil des associations de conseillers scolaires et aux négociateurs du ministère de l'Éducation. Pour en savoir plus sur l'ensemble des revendications déposées le 2 août 2022.
 
 [Lire la soumission complète Propositions de négociation centrale 2022](/img/central_bargaining_proposals_presented_to_crown_cta__2022_07_27.pdf)
+
+[LE CONSEIL DES ASSOCIATIONS DE FIDUCIAIRES ET LA PROPOSITION DE LA COURONNE LE 2 AOÛT 2022](/img/cta-crown-pass-to-cupe-2022-08-02-10h30.pdf)
