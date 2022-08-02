@@ -4,14 +4,14 @@ categories = []
 date = 2022-08-02T16:00:00Z
 description = "On Tuesday, August 2, your CUPE-Ontario School Boards Council of Unions (OSBCU) central bargaining committee met with the Council of Trustees’ Associations (CTA) and provincial government negotiators for the third time. We presented a full package of bargaining proposals in an effort to push the Ford government to get a fair deal done before September."
 draft = true
-image = ""
+image = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 lead = "On Tuesday, August 2, your CUPE-Ontario School Boards Council of Unions (OSBCU) central bargaining committee met with the Council of Trustees’ Associations (CTA) and provincial government negotiators for the third time. We presented a full package of bargaining proposals in an effort to push the Ford government to get a fair deal done before September."
 slug = ""
 summary = "These proposals for Student Success and Good Jobs, if accepted, would: 1.\tGuarantee increased services for students; 2.\tProtect service levels against cuts; 3.\tHelp solve school boards’ problems retaining and recruiting workers; and 4.\tIncrease government funding for children’s education after 10 years of real cuts. "
 tags = []
-thumbnail = ""
+thumbnail = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 title = "CUPE Ontario School Boards Council of Unions (OSBCU) Summary of education workers’ bargaining proposals for better working and learning conditions in Ontario’s publicly funded schools"
-toc = false
+toc = true
 translationKey = "Proposals"
 
 +++
