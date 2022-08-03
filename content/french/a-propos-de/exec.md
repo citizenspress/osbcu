@@ -103,6 +103,10 @@ Chris est concierge et préposé à l'entretien au conseil scolaire du district 
 
 ## Vice-président de la zone 4: Laurie Lucciola
 
+![](/img/area-4-executive-head-shots-300x300.png)
+
+Laurie est gardienne en chef du conseil scolaire de district de Kawartha Pine Ridge depuis plus de 15 ans. Laurie a commencé sa carrière au sein du conseil en tant qu'assistante en éducation et a également eu une carrière antérieure en tant que DECE. Elle a occupé de nombreux postes au sein de sa section locale, tels que la santé et la sécurité, l'agente d'éducation, l'évaluation des emplois, et occupe actuellement le poste de secrétaire archiviste. Elle est très heureuse de représenter la zone 4 et l'OSBCU dans son ensemble.
+
 ***
 
 ## Mobilisatrice de la région 4: Lori-Ann Richards
