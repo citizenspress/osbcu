@@ -105,6 +105,8 @@ Chris has been a custodian and maintenance worker with the Peel district School 
 
 ![](/img/area-4-executive-head-shots-300x300.png)
 
+Laurie has been a Head Custodian for Kawartha Pine Ridge District School board for over 15 years. Laurie started her career with the board as an Educational Assistant as well as having a previous career as a DECE. She has had many roles within her Local Union such as Health and Safety, Education Officer, Job Evaluation, and currently sits as the Recording Secretary. She is very excited to be representing Area 4 and the OSBCU as a whole.
+
 ***
 
 ## Area 4 Mobilization Officer: Lori-Ann Richards
