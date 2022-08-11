@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = []
+categories = ["Bargaining Updates"]
 date = 2022-08-11T16:00:00Z
 description = "The following is a statement form Laura Walton, an educational assistant from Belleville, Ontario and the president of CUPE’s Ontario School Boards Council of Unions (OSBCU), on behalf of education workers’ central bargaining committee:"
 draft = true
@@ -8,7 +8,7 @@ image = "/img/8a5d09ee-6dcf-4e30-ace2-d1138aa3aae1.jpg"
 lead = "The following is a statement form Laura Walton, an educational assistant from Belleville, Ontario and the president of CUPE’s Ontario School Boards Council of Unions (OSBCU), on behalf of education workers’ central bargaining committee:"
 slug = ""
 summary = "Frontline education workers are not holding a strike vote on August 22. We know that workers understanding and using our collective power is crucial to winning long overdue gains for students, Ontario families, and each other, so we’re gathering to discuss what our response might be if the Ford government keeps delaying getting a deal done into the fall."
-tags = []
+tags = ["Bargaining"]
 thumbnail = "/img/8a5d09ee-6dcf-4e30-ace2-d1138aa3aae1.jpg"
 title = "Statement from Ontario education workers on collective bargaining with Ford government"
 toc = false
