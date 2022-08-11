@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-11T16:00:00Z
 description = "Voici une déclaration de Laura Walton, aide-enseignante de Belleville, en Ontario, et présidente du Conseil des syndicats des conseils scolaires de l’Ontario (CSCSO) du SCFP, au nom du Comité de négociation central des travailleurs et travailleuses de l’éducation :"
-draft = true
 image = "/img/8a5d09ee-6dcf-4e30-ace2-d1138aa3aae1.jpg"
 lead = "Voici une déclaration de Laura Walton, aide-enseignante de Belleville, en Ontario, et présidente du Conseil des syndicats des conseils scolaires de l’Ontario (CSCSO) du SCFP, au nom du Comité de négociation central des travailleurs et travailleuses de l’éducation :"
 slug = ""
