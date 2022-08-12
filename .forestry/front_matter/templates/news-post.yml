@@ -56,6 +56,7 @@ fields:
   description: Type:<br>/aliases/<br>And the URL https://osbcu.ca/aliases/ will be
     forwarded to this page.<br>
 pages:
+- content/english/news/2022-3-osbcu-wages-presentation-to-cta-and-crown.md
 - content/english/news/2022-osbcu-convention-elections-and-election-flyers.md
 - content/english/news/cupe-education-workers-are-ready-to-negotiate-a-contract-that-protects-and-expands-services-for-students.md
 - content/english/news/cupe-ontario-school-boards-council-of-unions-osbcu-summary-of-education-workers-bargaining-proposals-for-better-working-and-learning-conditions-in-ontario-s-publicly-funded-schools.md
