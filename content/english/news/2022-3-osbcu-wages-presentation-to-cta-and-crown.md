@@ -3,6 +3,7 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-12T16:00:00Z
 description = "CUPE-OSBCU Wages Proposal"
+draft = true
 image = "/img/2022-3-bargaining-wage-presentation.png"
 lead = "CUPE-OSBCU Wages Proposal"
 slug = ""
