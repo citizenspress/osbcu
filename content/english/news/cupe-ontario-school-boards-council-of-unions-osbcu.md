@@ -22,3 +22,5 @@ To see full proposal from the CTA and Crown to CUPE OSBCU click below:
 [CTA and CrowCTA and Crown Proposal to CUPE/OSBCU August 15, 2022 at 10h 15](/img/cta-and-crown-pass-back-to-cupe-august-15-2022.docx)
 
 To see full proposal from CUPE OSBCU to CTA and Crown click below:
+
+[submission_to_government_2022_round_of_collective_bargaining_term_of_operation_consultation_2022_07_18.pdf](/img/submission_to_government_2022_round_of_collective_bargaining_term_of_operation_consultation_2022_07_18.pdf "Proposals of 2022 Central Bargaining Canadian Union of Public Employees/OSBCU (Ontario School Board Council of Unions) to the Crown and the Council of Trustee Associations")
