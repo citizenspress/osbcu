@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-15T16:00:00Z
 description = "Today, your OSBCU central bargaining team received a \"fulsome\" response from the CTA and Crown to our proposal which we presented August 2, 2022."
-draft = true
 image = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 lead = "Today, your OSBCU central bargaining team received a \"fulsome\" response from the CTA and Crown to our proposal which we presented August 2, 2022. "
 slug = ""
