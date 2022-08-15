@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-15T21:00:00Z
 description = "What do the proposals mean to you?"
-draft = true
 image = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 lead = "What does the August 15, 2022 Employer Proposal mean for you?"
 slug = ""
