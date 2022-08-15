@@ -16,3 +16,7 @@ translationKey = ""
 
 +++
 ![](/img/b3a4008c-49e2-449b-a31d-bfc0c68ef835.jpeg)![](/img/6b3896d3-8e63-42fa-bbfa-29bb721fd319.jpeg)
+
+To see full proposal from the CTA and Crown to CUPE OSBCU click below
+
+[CTA and CrowCTA and Crown Proposal to CUPE/OSBCU August 15, 2022 at 10h 15](/img/cta-and-crown-pass-back-to-cupe-august-15-2022.docx)
