@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-16T23:00:00Z
 description = "Your OSBCU Bargaining Committee has finished meeting for the day. This now leaves us with only one meeting before school begins."
-draft = true
 image = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 lead = "Your OSBCU Bargaining Committee has finished meeting for the day. This now leaves us with only one meeting before school begins."
 slug = ""
