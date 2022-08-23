@@ -14,3 +14,5 @@ toc = false
 translationKey = "Still Far Apart"
 
 +++
+
+Attempting to kickstart conversations on equity, violence, and health and safety, we’re disappointed to say that we made little headway. Additionally, although we raised the issues of job security and benefits, the employer maintained their concessions. Our proposal is reasonable, necessary, and ensures sustainability for education workers and the students and families who rely on the services we deliver. The gains you need rely on the high participation of you and your co-workers in the days ahead. 
