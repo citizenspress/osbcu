@@ -17,6 +17,8 @@ translationKey = "strikepayfaq"
 
 > - [Download the PDF here](/img/CUPE_OSBCU_Strike_Pay_and_Benefits_FAQ_2022_08_05.pdf)
 
+> This FAQ is subject to the CUPE National Strike Fund Regulations which can be found at [National Strike Fund Regulations](https://cupe.ca/national-strike-fund-regulations).
+
 ## How much is strike pay?
 
 Strike pay is $300/week for 20 hours of strike duties. 
