@@ -15,10 +15,10 @@ where = "Online"
 +++
 
 ## Key Dates
-- August 23 – September 23 – why vote yes campaign ongoing
-- September 22 6pm – ViRTUAL Strike Meeting Webinar 
-- September 23 12:01am – Electronic Strike Vote is open
-- September 23 11am – Virtual Strike Meeting Webinar
-- September 23 – OCTOBER 2 – Locals encouraged to have strike meetings alone or in regions
-- October 2 6pm – Electronic Strike Vote Closes
-- OCTOBER 3 9am – Strike Vote Results released
+- **August 23 – September 23** – why vote yes campaign ongoing
+- **September 22: 6pm** – ViRTUAL Strike Meeting Webinar 
+- **September 23: 12:01am** – Electronic Strike Vote is open
+- **September 23: 11am** – Virtual Strike Meeting Webinar
+- **September 23: – OCTOBER 2** – Locals encouraged to have strike meetings alone or in regions
+- **October 2: 6pm** – Electronic Strike Vote Closes
+- **October 3: 9am** – Strike Vote Results released
