@@ -1,13 +1,13 @@
 +++
 aliases = "/sendamessage/"
-categories = []
+categories = ["Take Action","Bargaining Updates"]
 date = 2022-06-13T13:00:00Z
-description = ""
+description = "CUPE education workers are ready to negotiate a contract that protects and expands services for students, and they’re ready to get it down before the new school year starts this fall.  Support education workers’ demands for service guarentees and higher wages for low-paid frontline workers."
 image = "/img/sendmessage.jpeg"
-lead = ""
+lead = "CUPE education workers are ready to negotiate a contract that protects and expands services for students, and they’re ready to get it down before the new school year starts this fall.  Support education workers’ demands for service guarentees and higher wages for low-paid frontline workers.  Send a message to the premier and education minister now"
 slug = "sendamessage"
-summary = "CUPE education workers are ready to negotiate a contract that protects and expands services for students, and they’re ready to get it down before the new school year starts this fall.  Support education workers’ demands for service guarentees and higher wages for low-paid frontline workers.  Send a message to the premier and education minister now"
-tags = []
+summary = "Send a message to the premier and education minister now."
+tags = ["Petition"]
 thumbnail = "/img/sendmessage.jpeg"
 title = "Send a message to the premier and education minister"
 toc = false
