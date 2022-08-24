@@ -27,7 +27,7 @@ translationKey = "structuredconvo"
 -   **The membership list for their school/family of schools/zone
     including work site, name, personal phone and email address**
 
--   **A copy of the Summary of Bargaining Proposals for Step 2**
+-   **A copy of the [Summary of Bargaining Proposals](https://osbcu.ca/materials/barg-prop-central/) for Step 2**
 
 -   **A copy of the "Preparing to Strike is Necessary to Win" flyer for
     Step 5**
