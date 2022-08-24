@@ -17,3 +17,5 @@ translationKey = "fullproposal"
 
 > [Download the full proposals here](https://osbcu.ca/img/central_bargaining_proposals_presented_to_crown_cta__2022_07_27.pdf)
 
+
+- For a [brief summary of the proposals, click here](https://osbcu.ca/materials/barg-prop-central/)
