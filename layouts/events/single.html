@@ -25,7 +25,7 @@
   <li>Start Time: {{ .Params.startDate | time.Format ":time_short" }}
   <li>End Time: {{ .Params.endDate | time.Format ":time_short" }}</li>
   <li>Location: {{ .Params.where }}</li>
-  <li>Org: {{ .Params.orga }}</li>
+  <li>{{ .Params.orga }}</li>
   <li>Email: {{ .Params.orgaEmail }}</li>
 
 </ul>
