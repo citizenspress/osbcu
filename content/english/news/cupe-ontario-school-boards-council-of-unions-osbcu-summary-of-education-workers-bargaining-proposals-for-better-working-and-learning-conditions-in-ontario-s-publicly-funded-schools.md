@@ -9,11 +9,18 @@ slug = ""
 summary = "These proposals for Student Success and Good Jobs, if accepted, would: 1.\tGuarantee increased services for students; 2.\tProtect service levels against cuts; 3.\tHelp solve school boards’ problems retaining and recruiting workers; and 4.\tIncrease government funding for children’s education after 10 years of real cuts. "
 tags = []
 thumbnail = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
-title = "CUPE Ontario School Boards Council of Unions (OSBCU) Summary of education workers’ bargaining proposals for better working and learning conditions in Ontario’s publicly funded schools"
+title = "Summary of education workers’ bargaining proposals for better working and learning conditions in Ontario’s publicly funded schools"
 toc = true
 translationKey = "Proposals"
 
 +++
+
+
+
+> - [Read full submission Proposals of 2022 Central Bargaining](/img/central_bargaining_proposals_presented_to_crown_cta__2022_07_27.pdf)
+> - [COUNCIL OF TRUSTEES’ ASSOCIATIONS AND THE CROWN PROPOSAL AUGUST 2, 2022](/img/cta-crown-pass-to-cupe-2022-08-02-10h30.pdf)
+
+
 ## **CUPE Ontario School Boards Council of Unions (OSBCU) Summary of education workers’ bargaining Proposals for Student Success and Good Jobs in Ontario’s publicly funded schools**
 
 ## Wage increases of $3.25/hour in each year of the collective agreement
