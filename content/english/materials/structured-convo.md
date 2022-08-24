@@ -38,6 +38,8 @@ translationKey = "structuredconvo"
 -   **"Count me in" t-shirts to hand-out to members who commit to vote
     yes in the strike vote**
 
+---
+
 ## Introduction
 
 > Purpose: introduce yourself, set the context for the conversation
