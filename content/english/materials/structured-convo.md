@@ -40,14 +40,14 @@ translationKey = "structuredconvo"
 
 ---
 
-## Introduction
+## 1. Introduction
 
 > Purpose: introduce yourself, set the context for the conversation
 
 Hi my name is \_\_\_\_\_! I'm a \[member organizer\]. Have you seen the
 latest bargaining update about union contract negotiations?
 
-## Issues & Agitation
+## 2. Issues & Agitation
 
 > Purpose: what are the 1-2 issues that they want to win in negotiations, that they can only win as a union.
 
@@ -75,7 +75,7 @@ How would ongoing threats to your job security impact you?
 
 What do you want to improve most about your job?
 
-## Vision & Education
+## 3. Vision & Education
 
 > Purpose: communicate the 'plan to win'
 directly connected to the issues they have raised: the only way they can
@@ -88,7 +88,7 @@ work and to participate in a strike if necessary. When you and all of
 your coworkers are ready to strike, it will give you the power to win
 \[insert their issue\].
 
-## Call the Question
+## 4. Call the Question
 
 > Purpose: Ask them if they are prepared to take
 action to win on the issues they identified as most important in step
@@ -115,7 +115,7 @@ without your active participation -- the only way to win a real wage
 increase and job security is with worker power -- that means you and all
 of your coworkers ready to strike if necessary\]*
 
-## Inoculation
+## 5. Inoculation
 
 > Purpose: Ask them how the government will respond to
 workers building power and discuss how interest arbitration will not win
@@ -137,7 +137,7 @@ power of workers standing together to say enough is enough.
 Here is some more information about why preparing to strike is necessary
 to win: give the worker the 1 page handout.
 
-## Work, Assignment
+## 6. Work, Assignment
 
 > Purpose: Make a plan with them to speak with
 every coworker in their school or family of schools about why it's
