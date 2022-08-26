@@ -12,6 +12,7 @@ thumbnail = ""
 title = "Conversation structurée sur l'organisation en six étapes"
 toc = true
 translationKey = "structuredconvo"
+draft = true
 
 +++
 
