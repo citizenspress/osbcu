@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-26T22:00:00Z
 description = "After 8 days of negotiations we have seen very little movement other than the disrespectful offer put forward from Lecce and School Boards. We are requesting support of a Ministry of Labour's Conciliation Officer to support negotiations moving forward."
-draft = true
 image = "/img/42730edb-4920-4440-b875-ac6ff1c15f63_1_201_a.jpeg"
 lead = "After 8 days of negotiations we have seen very little movement other than the disrespectful offer put forward from Lecce and School Boards. We are requesting support of a Ministry of Labour's Conciliation Officer to support negotiations moving forward."
 slug = ""
