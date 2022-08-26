@@ -2,7 +2,7 @@
 categories = ["Bargaining Updates"]
 date = "2022-08-24"
 endDate = "2022-10-02T18:00:00"
-image = "/img/2-1.png"
+image = "/img/central-e-voting.png"
 orga = "End date: October 2, 2022"
 orgaEmail = "info@osbcu.ca"
 startDate = "2022-09-23T00:01:00"
