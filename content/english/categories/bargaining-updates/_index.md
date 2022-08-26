@@ -3,6 +3,7 @@ title = "Bargaining Updates"
 image = "/img/test-3.png"
 thumbnail = "/img/test-3.png"
 summary = "Updates from the current round of central bargaining."
+[menu.main]
 +++
 Updates from the current round of central bargaining.
 
