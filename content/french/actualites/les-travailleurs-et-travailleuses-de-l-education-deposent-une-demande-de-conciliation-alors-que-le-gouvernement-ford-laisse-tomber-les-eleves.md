@@ -2,12 +2,11 @@
 aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-27T15:00:00Z
-description = ""
-draft = true
+description = "Après 8 jours de négociations, nous avons vu très peu de mouvement autre que l'offre irrespectueuse présentée par Lecce et les conseils scolaires. Nous demandons l'appui d'un agent de conciliation du ministère du Travail pour soutenir les négociations en cours."
 image = "/img/42730edb-4920-4440-b875-ac6ff1c15f63_1_201_a.jpeg"
-lead = ""
+lead = "Après 8 jours de négociations, nous avons vu très peu de mouvement autre que l'offre irrespectueuse présentée par Lecce et les conseils scolaires. Nous demandons l'appui d'un agent de conciliation du ministère du Travail pour soutenir les négociations en cours."
 slug = ""
-summary = ""
+summary = "Il est encore temps pour Stephen Lecce et Doug Ford de demander à leurs représentant(e)s à la table d'accepter nos revendications raisonnables, nécessaires et abordables pour la réussite des élèves et de bons emplois ou de faire à tout le moins une offre respectueuse.  Puisque le ministre de l'Éducation perd son temps à semer la peur et à se tromper dans ses calculs, nous avons déposé une demande de conciliation dans l'espoir qu'une tierce partie puisse aider à recentrer le gouvernement et les patron(ne)s des conseils scolaires sur la conclusion d'une convention collective équitable."
 tags = ["Bargaining "]
 thumbnail = "/img/42730edb-4920-4440-b875-ac6ff1c15f63_1_201_a.jpeg"
 title = "Les travailleurs et travailleuses de l’éducation déposent une demande de conciliation alors que le gouvernement Ford laisse tomber les élèves"
