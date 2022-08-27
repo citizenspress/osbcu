@@ -1,18 +1,18 @@
 +++
 aliases = ""
-categories = []
-date = ""
+categories = ["Bargaining Updates"]
+date = 2022-08-27T15:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/img/42730edb-4920-4440-b875-ac6ff1c15f63_1_201_a.jpeg"
 lead = ""
 slug = ""
 summary = ""
-tags = []
-thumbnail = ""
+tags = ["Bargaining "]
+thumbnail = "/img/42730edb-4920-4440-b875-ac6ff1c15f63_1_201_a.jpeg"
 title = "Les travailleurs et travailleuses de l’éducation déposent une demande de conciliation alors que le gouvernement Ford laisse tomber les élèves"
 toc = false
-translationKey = ""
+translationKey = "Conciliation"
 
 +++
 ## **Les travailleurs et travailleuses de l’éducation déposent une demande de conciliation alors que le gouvernement Ford laisse tomber les élèves**
