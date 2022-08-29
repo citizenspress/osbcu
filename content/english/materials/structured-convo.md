@@ -12,10 +12,8 @@ thumbnail = ""
 title = "6 Step Structured Organizing Conversation"
 toc = true
 translationKey = "structuredconvo"
-draft = true
 
 +++
-
 --- 
 > [Download the PDF flyer for printing here](/img/OSBCU_6_Step_Structured_Organizing_Conversation_Vote_Yes_in_Strike_Vote_2022_08_15.docx)
 

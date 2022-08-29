@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Training"]
 date = 2022-08-15T16:00:00Z
 description = "Votez «oui» à la grève"
-draft = true
 image = ""
 lead = "Votez «oui» à la grève"
 slug = ""
