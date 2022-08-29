@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = []
-date = ""
+date = 2022-08-01T10:00:00Z
 description = "Le site Web 39000c’estpasassez.ca a été conçu parents et membres du public en tête. Alors, partagez-le avec votre famille, vos ami(e)s et vos voisins."
 draft = true
 image = ""
@@ -12,7 +12,7 @@ tags = []
 thumbnail = ""
 title = "39 000 $, ce n’est pas assez pour les  travailleurs et travailleuses de l’éducation ou pour qui que ce soit"
 toc = false
-translationKey = ""
+translationKey = "Radio Ad"
 
 +++
 ## **39 000 $, ce n’est pas assez pour les travailleurs et travailleuses de l’éducation ou pour qui que ce soit**
