@@ -12,7 +12,7 @@ tags = ["Bargaining "]
 thumbnail = ""
 title = "QFP sur les indemnités de grève et les avantages sociaux  du SCFP-CSCSO"
 toc = true
-translationKey = ""
+translationKey = "strikepayfaq"
 
 +++
 # **QFP sur les indemnités de grève et les avantages sociaux du SCFP-CSCSO**
