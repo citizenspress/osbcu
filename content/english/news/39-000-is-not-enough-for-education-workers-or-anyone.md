@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-08-29T10:00:00Z
 description = "The 39000isnotenough.ca website is made for parents and members of the public. So please share it with your family, friends, and neighbours."
-draft = true
 image = "/img/340314b5-fb9f-491c-831e-24f748ff48f8.png"
 lead = "The 39000isnotenough.ca website is made for parents and members of the public. So please share it with your family, friends, and neighbours."
 slug = ""

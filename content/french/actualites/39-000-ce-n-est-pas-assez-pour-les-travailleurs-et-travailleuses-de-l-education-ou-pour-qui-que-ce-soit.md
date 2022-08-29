@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-08-01T10:00:00Z
 description = "Le site Web 39000c’estpasassez.ca a été conçu parents et membres du public en tête. Alors, partagez-le avec votre famille, vos ami(e)s et vos voisins."
-draft = true
 image = "/img/340314b5-fb9f-491c-831e-24f748ff48f8.png"
 lead = "Le site Web 39000c’estpasassez.ca a été conçu parents et membres du public en tête. Alors, partagez-le avec votre famille, vos ami(e)s et vos voisins."
 slug = ""
@@ -21,9 +20,9 @@ Tandis que la plupart des familles se préparent à la rentrée scolaire la sema
 
 Vos revendications de négociation pour la réussite des élèves et de bons emplois comprennent une augmentation de salaire raisonnable, nécessaire et abordable de 3,25 $ l'heure qui aidera à retenir et à recruter des travailleurs et travailleuses de l'éducation pour donner aux enfants ce dont ils ont besoin en classe et nous sortir du bord de la pauvreté.
 
-Écoutez la nouvelle publicité radio de votre syndicat, ci-dessous, et regardez des vidéos de quelques-un(e)s de vos collègues qui décrivent leurs expériences dans leurs propres mots sur [39000c’estpasassez.ca](https://39000isnotenough.ca)
+Écoutez la nouvelle publicité radio de votre syndicat, ci-dessous, et regardez des vidéos de quelques-un(e)s de vos collègues qui décrivent leurs expériences dans leurs propres mots sur[ 39000c’estpasassez.ca](https://39000cestpasassez.ca)
 
-Le site Web [39000c’estpasassez.ca](https://39000isnotenough.ca) a été conçu parents et membres du public en tête. Alors, partagez-le avec votre famille, vos ami(e)s et vos voisins.
+Le site Web[ 39000c’estpasassez.ca](https://39000cestpasassez.ca) a été conçu parents et membres du public en tête. Alors, partagez-le avec votre famille, vos ami(e)s et vos voisins.
 
 **Écoutez la publicité radio.**
 
