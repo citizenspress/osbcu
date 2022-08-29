@@ -117,3 +117,5 @@ Non, vous ne le pouvez pas. Mais, vous pouvez demander que votre indemnité de g
 Oui, pourvu que vous continuiez à être admissible sur le plan médical et que vous continuiez à répondre aux exigences de la CSPAAT.
 
 Pour toute question, veuillez communiquer avec le Comité de grève de votre section locale et/ou le(la) représentant(e) national(e) assigné(e).
+
+[Download full PDF here](/img/CUPE_OSBCU_Strike_Pay_and_Benefits_FAQ_2022_08_05.pdf)
