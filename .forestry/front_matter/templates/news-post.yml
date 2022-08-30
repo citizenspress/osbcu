@@ -56,6 +56,7 @@ fields:
   description: Type:<br>/aliases/<br>And the URL https://osbcu.ca/aliases/ will be
     forwarded to this page.<br>
 pages:
+- content/english/materials/osbcu-cscso-regional-strike-committee-leads-and-the-locals-they-support.md
 - content/english/news/2022-3-osbcu-wages-presentation-to-cta-and-crown.md
 - content/english/news/2022-osbcu-convention-elections-and-election-flyers.md
 - content/english/news/39-000-is-not-enough-for-education-workers-or-anyone.md
