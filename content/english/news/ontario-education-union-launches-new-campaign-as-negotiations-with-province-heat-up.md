@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-31T12:00:00Z
 description = "A union representing education workers in Ontario has launched a new campaign arguing that a salary of $39,000 is “not enough” amid contract negotiations with the provincial government."
-draft = true
 image = "/img/63607ac8-999f-401a-8362-e3569ee98b77_1_201_a.jpeg"
 lead = "A union representing education workers in Ontario has launched a new campaign arguing that a salary of $39,000 is “not enough” amid contract negotiations with the provincial government."
 slug = ""
