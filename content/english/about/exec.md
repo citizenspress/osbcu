@@ -127,11 +127,7 @@ Liz is president of CUPE local 1479, where she holds the position of Chief Stewa
 
 ***
 
-## Area 5 Mobilization Officer: Erin Hurford
-
-![](/img/6.png)
-
-I have 12 years experience in the union. I started out as Chief Steward of the local, and now I am the President of local 5678I. I am looking forward to being a strong advocate within the OSBCU. My biggest strength is I don’t back down when faced with a difficult situation.
+## Area 5 Mobilization Officer: Vacant 
 
 ***
 
