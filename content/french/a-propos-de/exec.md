@@ -127,11 +127,7 @@ Liz est active au sein de la section locale 1479 du SCFP, où elle occupe le pos
 
 ***
 
-## Mobilisatrice de la région 5: Erin Hurford
-
-![](/img/6.png)
-
-J'ai 12 ans d'expérience dans le syndicat. J'ai commencé comme délégué syndical en chef de la section locale, et maintenant je suis président de la section locale 5678I. Je suis impatient d'être un ardent défenseur au sein de l'OSBCU. Ma plus grande force est de ne pas reculer face à une situation difficile.
+## Mobilisatrice de la région 5: Vacant
 
 ***
 
