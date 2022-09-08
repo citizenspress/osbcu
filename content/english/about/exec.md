@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "Executive"
-draft = true
 lead = ""
 linkTitle = "exec"
 slug = "exec"
@@ -128,7 +127,7 @@ Liz is president of CUPE local 1479, where she holds the position of Chief Stewa
 
 ***
 
-## Area 5 Mobilization Officer: Vacant 
+## Area 5 Mobilization Officer: Vacant
 
 ***
 
@@ -184,3 +183,11 @@ My name is Michel Gagnon, originally from the French-speaking region of Kapuskas
 ![](/img/13.png)
 
 My name is Carrie Boisvert I have been an Educational Assistant with the Durham Catholic District School Board for over 20 years. I am currently on a leave taking the role as the Disability Coordinator for Local 218. I have been a Health and Safety rep for the last 7 years with a passion to ensure workers are safe in the workplace and return home to their families the way they left. I look forward in working with the OSBCU as the injured worker rep.
+
+***
+
+## Equality Representative: Jacqueline Ouellette 
+
+![](/img/executive-head-shots-300x300.png)
+
+I am a steward and member of CUPE 1348 and work for the Greater Essex County District School Board as a Secretary. I have been working for the school board for 5 years. I am currently on the CUPE Ontario and CUPE National Young Worker Committees and was recently elected to be OSBCU Equity Representative.
