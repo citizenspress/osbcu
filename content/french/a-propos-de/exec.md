@@ -2,6 +2,7 @@
 categories = []
 date = ""
 description = "Comité exécutif de CSCSO"
+draft = true
 lead = ""
 linkTitle = "exec"
 slug = "exec"
