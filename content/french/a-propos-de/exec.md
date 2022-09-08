@@ -2,7 +2,6 @@
 categories = []
 date = ""
 description = "Comité exécutif de CSCSO"
-draft = true
 lead = ""
 linkTitle = "exec"
 slug = "exec"
@@ -183,3 +182,11 @@ Je me nomme Michel Gagnon, originalement de la région francophone de Kapuskasin
 ![](/img/13.png)
 
 Je m'appelle Carrie Boisvert. J'ai été assistante en éducation au Durham Catholic District School Board pendant plus de 20 ans. Je suis actuellement en congé en tant que coordonnatrice des invalidités pour la section locale 218. Je suis représentante en santé et sécurité depuis 7 ans avec une passion pour m'assurer que les travailleurs sont en sécurité sur le lieu de travail et qu'ils rentrent chez eux dans leur famille comme ils le font. la gauche. J'ai hâte de travailler avec l'OSBCU en tant que représentant des travailleurs blessés.
+
+***
+
+## Représentante à l'égalité: Jacqueline Ouellette
+
+![](/img/executive-head-shots-300x300.png)
+
+ Je suis délégué syndical et membre de la section locale 1348 du SCFP et je travaille pour le conseil scolaire du district du comté de Greater Essex en tant que secrétaire. Je travaille pour la commission scolaire depuis 5 ans. Je siège actuellement aux comités du SCFP-Ontario et du SCFP national des jeunes travailleurs et j'ai récemment été élue représentante de l'équité de l'OSBCU.
