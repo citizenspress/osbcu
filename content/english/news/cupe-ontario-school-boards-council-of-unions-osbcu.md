@@ -2,14 +2,14 @@
 aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-15T21:00:00Z
-description = "What do the proposals mean to you?"
+description = "We have prepared a chart that compares the asks you have with the proposal your bosses and government have offered. It is clear that we are far apart on many issues. Bridging this gap will take a high participation of members!"
 image = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
 lead = "What does the August 15, 2022 Employer Proposal mean for you?"
 slug = ""
 summary = "We have prepared a chart that compares the asks you have with the proposal your bosses and government have offered. It is clear that we are far apart on many issues. Bridging this gap will take a high participation of members! "
 tags = ["Bargaining"]
 thumbnail = "/img/osbcu-cscso-central-updates-mises-a-jour-centrales.png"
-title = "CUPE Ontario School Boards Council of Unions (OSBCU)"
+title = "What do the proposals mean to you?"
 toc = false
 translationKey = ""
 
