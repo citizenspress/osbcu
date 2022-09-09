@@ -72,7 +72,7 @@ image = "img/avatar.png"
 [[Params.widgets.social.custom]]
   title = "Youtube"
   url = "https://www.youtube.com/channel/UCO2AGdfjiGefQt66ZQyE9Xg"
-  icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
+  icon = "svg/youtube.svg" # Optional. Path relative to "layouts/partials"
 
 # Custom social links
  [[Params.widgets.social.custom]]
