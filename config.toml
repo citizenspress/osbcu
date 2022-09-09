@@ -68,14 +68,15 @@ image = "img/avatar.png"
   instagram = "osbcucscso"
   email = "info@osbcu.ca"
 
-##Custom social links
-[[Params.widgets.social.custom]]
-  title = "Youtube"
-  url = "https://www.youtube.com/channel/UCO2AGdfjiGefQt66ZQyE9Xg"
-  icon = "svg/youtube.svg" # Optional. Path relative to "layouts/partials"
 
 # Custom social links
  [[Params.widgets.social.custom]]
    title = "Subscribe"
    url = "https://osbcu.us14.list-manage.com/subscribe?u=dcfef3cf193c219d80a42fc31&id=962899ba7d"
    icon = "svg/email.svg" # Optional. Path relative to "layouts/partials"
+
+##Custom social links
+[[Params.widgets.social.custom]]
+  title = " Youtube"
+  url = "https://www.youtube.com/channel/UCO2AGdfjiGefQt66ZQyE9Xg"
+  icon = "svg/youtube.svg" # Optional. Path relative to "layouts/partials"
