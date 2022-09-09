@@ -14,7 +14,7 @@ toc = false
 translationKey = "Conciliation"
 
 +++
-## **Education workers request conciliation as Ford government fails students**
+## Education workers request conciliation as Ford government fails students
 
 August 26, 2022
 
