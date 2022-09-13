@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = []
+categories = ["Take Action"]
 date = 2022-09-13T16:00:00Z
 description = "\"We are wearing many hats, and our services are being stretched.\""
 draft = true
