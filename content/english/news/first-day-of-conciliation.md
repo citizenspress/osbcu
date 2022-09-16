@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-09-16T23:00:00Z
 description = "oday was a very frustrating day."
-draft = true
 image = ""
 lead = "oday was a very frustrating day."
 slug = ""
