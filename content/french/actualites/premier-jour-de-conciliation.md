@@ -2,12 +2,12 @@
 aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-09-16T23:00:00Z
-description = ""
+description = "La journée d'aujourd'hui a été très frustrante."
 draft = true
 image = ""
-lead = ""
+lead = "La journée d'aujourd'hui a été très frustrante."
 slug = ""
-summary = ""
+summary = "Il est devenu très clair que ce gouvernement et nos conseils scolaires doivent voir et sentir le pouvoir qui se construit avec les travailleurs pour les inciter à répondre à vos propositions qui, si elles sont acceptées, elles garantiront les services aux étudiants et amélioreront les salaires et les conditions de travail de chacun d'entre vous."
 tags = ["Bargaining "]
 thumbnail = ""
 title = "Premier jour de conciliation"
