@@ -1,18 +1,18 @@
 +++
 aliases = ""
-categories = []
-date = ""
+categories = ["Bargaining Updates"]
+date = 2022-09-16T23:00:00Z
 description = ""
 draft = true
 image = ""
 lead = ""
 slug = ""
 summary = ""
-tags = []
+tags = ["Bargaining "]
 thumbnail = ""
 title = "Premier jour de conciliation"
 toc = false
-translationKey = ""
+translationKey = "Conciliation"
 
 +++
 ## Premier jour de conciliation
