@@ -1,6 +1,7 @@
 +++
 categories = ["Bargaining Updates"]
 date = 2022-08-24T00:00:00Z
+draft = true
 endDate = 2022-10-02T18:00:00Z
 image = "/img/central-e-voting.png"
 orga = "End date: October 2, 2022"
