@@ -11,7 +11,7 @@ tags = []
 thumbnail = "/img/why-vote-yes-social.jpg"
 title = "22 September 2022 \"Why Vote Yes\" with Laura Walton"
 translationKey = "Why Vote Yes"
-where = "Zoom "
+where = "Online Webinar"
 
 +++
 ## "Why Vote Yes" with Laura Walton
