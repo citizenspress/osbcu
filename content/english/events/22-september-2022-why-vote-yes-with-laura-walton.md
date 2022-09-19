@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2022-09-19T12:00:00Z
-draft = true
 endDate = "2020-09-22T20:30:00"
 image = "/img/why-vote-yes-social.jpg"
 orga = "OSBCU - CSCSO"
