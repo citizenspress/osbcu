@@ -3,13 +3,12 @@ aliases = ""
 categories = []
 date = 2022-09-21T16:00:00Z
 description = "Il a fallu des heures d'attente pour que l'employeur réponde par presque rien."
-draft = true
-image = ""
+image = "/img/2-5.png"
 lead = "Il a fallu des heures d'attente pour que l'employeur réponde par presque rien."
 slug = ""
 summary = "Votre comité central de négociation a passé une longue journée mardi et toute la journée de mercredi à essayer d'amener le CAE et le gouvernement de l'Ontario à s'entendre sur quelque chose. Même le congé de deuil était apparemment trop demandé."
 tags = ["Bargaining "]
-thumbnail = ""
+thumbnail = "/img/2-5.png"
 title = "Mise à jour sur les négociations centrales du SCFP-CSCSO  20 et 21 septembre 2022"
 toc = false
 translationKey = "Bereavement"
@@ -38,3 +37,9 @@ En fin de compte, la réponse de l'employeur et du gouvernement a été de dire 
 Nous avons donné la priorité aux questions qui, nous le savons, contribueraient à la rétention et au recrutement de travailleurs pour les conseils scolaires de la province. Des questions qui aideraient les élèves à avoir une meilleure expérience d'apprentissage à l'école chaque jour.
 
 Voici un résumé des questions sur lesquelles nous avons tenté de parvenir à une entente au cours des deux derniers jours :
+
+![](/img/2-5.png)
+
+Il ne s'agit pas d'une liste exhaustive, mais tout ce qui n'est pas mentionné ici n'a pas été accepté non plus.
+
+Pour être clair, nous maintenons nos propositions en matière de salaires, d'avantages sociaux, de sécurité d’emploi et de financement.
