@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = [""]
-date = 2022-09-21T21:00:00Z
+date = "2022-09-21"
 description = "Il a fallu des heures d'attente pour que l'employeur réponde par presque rien."
 image = "/img/2-copy.png"
 lead = "Il a fallu des heures d'attente pour que l'employeur réponde par presque rien."
