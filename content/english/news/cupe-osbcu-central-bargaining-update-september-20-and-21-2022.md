@@ -11,7 +11,7 @@ tags = ["Bargaining"]
 thumbnail = "/img/1-copy.png"
 title = "CUPE-OSBCU central bargaining update September 20 and 21, 2022"
 toc = false
-translationKey = "Bereavement"
+translationKey = "bereavement"
 
 +++
 ## CUPE-OSBCU central bargaining update
