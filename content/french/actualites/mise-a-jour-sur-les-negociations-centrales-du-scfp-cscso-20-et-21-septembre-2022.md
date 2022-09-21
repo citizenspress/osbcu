@@ -1,21 +1,21 @@
 +++
 aliases = ""
 categories = []
-date = ""
-description = ""
+date = 2022-09-21T16:00:00Z
+description = "Il a fallu des heures d'attente pour que l'employeur réponde par presque rien."
 draft = true
 image = ""
-lead = ""
+lead = "Il a fallu des heures d'attente pour que l'employeur réponde par presque rien."
 slug = ""
-summary = ""
-tags = []
+summary = "Votre comité central de négociation a passé une longue journée mardi et toute la journée de mercredi à essayer d'amener le CAE et le gouvernement de l'Ontario à s'entendre sur quelque chose. Même le congé de deuil était apparemment trop demandé."
+tags = ["Bargaining "]
 thumbnail = ""
 title = "Mise à jour sur les négociations centrales du SCFP-CSCSO  20 et 21 septembre 2022"
 toc = false
-translationKey = ""
+translationKey = "Bereavement"
 
 +++
-**Mise à jour sur les négociations centrales du SCFP-CSCSO**
+## **Mise à jour sur les négociations centrales du SCFP-CSCSO**
 
 20 et 21 septembre 2022
 
