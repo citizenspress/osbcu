@@ -11,7 +11,7 @@ tags = ["Bargaining"]
 thumbnail = "/img/2-copy.png"
 title = "Mise à jour sur les négociations centrales du SCFP-CSCSO  20 et 21 septembre 2022"
 toc = false
-translationKey = "Bereavement"
+translationKey = "bereavement"
 
 +++
 ## Mise à jour sur les négociations centrales du SCFP-CSCSO
