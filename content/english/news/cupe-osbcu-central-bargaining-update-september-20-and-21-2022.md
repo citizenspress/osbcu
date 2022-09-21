@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Bargaining Updates"]
-date = 2022-09-21T16:00:00Z
+date = 2022-09-21T21:00:00Z
 description = "It was hours of waiting for the employer to respond with next to nothing."
 image = "/img/1-4.png"
 lead = "It was hours of waiting for the employer to respond with next to nothing."
