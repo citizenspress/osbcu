@@ -7,14 +7,14 @@ image = "/img/1-copy.png"
 lead = "It was hours of waiting for the employer to respond with next to nothing."
 slug = ""
 summary = "Your central bargaining committee spent an extended day Tuesday and all day Wednesday trying to get the Council of Trustees’ Associations (CTA) and Ontario government to agree on something. Even bereavement leave was apparently too much to ask for."
-tags = ["Bargaining "]
+tags = ["Bargaining"]
 thumbnail = "/img/1-copy.png"
 title = "CUPE-OSBCU central bargaining update September 20 and 21, 2022"
 toc = false
 translationKey = "Bereavement"
 
 +++
-## **CUPE-OSBCU central bargaining update**
+## CUPE-OSBCU central bargaining update
 
 September 20 and 21, 2022
 
