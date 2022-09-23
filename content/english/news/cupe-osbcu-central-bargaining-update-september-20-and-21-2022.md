@@ -3,12 +3,12 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-09-21T21:00:00Z
 description = "It was hours of waiting for the employer to respond with next to nothing."
-image = "/img/1-copy.png"
+image = "/img/1.jpg"
 lead = "It was hours of waiting for the employer to respond with next to nothing."
 slug = ""
 summary = "Your central bargaining committee spent an extended day Tuesday and all day Wednesday trying to get the Council of Trustees’ Associations (CTA) and Ontario government to agree on something. Even bereavement leave was apparently too much to ask for."
 tags = ["Bargaining"]
-thumbnail = "/img/1-copy.png"
+thumbnail = "/img/1.jpg"
 title = "CUPE-OSBCU central bargaining update September 20 and 21, 2022"
 toc = false
 translationKey = "bereavement"
@@ -38,7 +38,7 @@ We prioritized issues that we know would help with the retention and recruitment
 
 The following is a summary of issues we attempted to reach an agreement on over the last two days:
 
-![](/img/1-4.png)
+![](/img/1.jpg)
 
 This is not an exhaustive list, but anything not mentioned here was also not agreed to.
 
