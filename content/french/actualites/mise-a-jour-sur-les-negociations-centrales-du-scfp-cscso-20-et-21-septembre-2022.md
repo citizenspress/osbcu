@@ -3,12 +3,12 @@ aliases = ""
 categories = [""]
 date = 2022-08-21T16:00:00Z
 description = "Il a fallu des heures d'attente pour que l'employeur réponde par presque rien."
-image = "/img/2-copy.png"
+image = "/img/2.jpg"
 lead = "Il a fallu des heures d'attente pour que l'employeur réponde par presque rien."
 slug = ""
 summary = "Votre comité central de négociation a passé une longue journée mardi et toute la journée de mercredi à essayer d'amener le CAE et le gouvernement de l'Ontario à s'entendre sur quelque chose. Même le congé de deuil était apparemment trop demandé."
 tags = ["Bargaining"]
-thumbnail = "/img/2-copy.png"
+thumbnail = "/img/2.jpg"
 title = "Mise à jour sur les négociations centrales du SCFP-CSCSO  20 et 21 septembre 2022"
 toc = false
 translationKey = "bereavement"
@@ -38,7 +38,7 @@ Nous avons donné la priorité aux questions qui, nous le savons, contribueraien
 
 Voici un résumé des questions sur lesquelles nous avons tenté de parvenir à une entente au cours des deux derniers jours :
 
-![](/img/2-5.png)
+![](/img/2.jpg)
 
 Il ne s'agit pas d'une liste exhaustive, mais tout ce qui n'est pas mentionné ici n'a pas été accepté non plus.
 
