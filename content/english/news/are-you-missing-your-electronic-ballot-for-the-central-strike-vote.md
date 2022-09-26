@@ -11,7 +11,7 @@ tags = ["Resources"]
 thumbnail = "/img/1723a1e1-0b4d-4eb5-9e32-e493df7a656b.jpeg"
 title = "Are you missing your electronic ballot for the Central Strike Vote?"
 toc = false
-translationKey = ""
+translationKey = "Ballot"
 
 +++
 ## Are you missing your electronic ballot for the Central Strike Vote?

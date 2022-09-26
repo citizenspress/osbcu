@@ -11,7 +11,7 @@ tags = ["Resources"]
 thumbnail = "/img/0e18c450-9c3b-48d3-857e-e967f0736301.png"
 title = "Avez-vous perdu votre bulletin de vote électronique pour le vote de grève central ?"
 toc = false
-translationKey = ""
+translationKey = "Ballot"
 
 +++
 ## **Avez-vous perdu votre bulletin de vote électronique pour le vote de grève central ?**
