@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-09-26T16:00:00Z
 description = "Please follow these steps to ensure your voice is heard."
-draft = true
 image = "/img/1723a1e1-0b4d-4eb5-9e32-e493df7a656b.jpeg"
 lead = "Please follow these steps to ensure your voice is heard."
 slug = ""
