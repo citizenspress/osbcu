@@ -2,10 +2,9 @@
 aliases = ""
 categories = []
 date = 2022-09-26T16:00:00Z
-description = ""
-draft = true
+description = "Veuillez suivre les étapes suivantes pour vous assurer que votre voix est entendue."
 image = "/img/0e18c450-9c3b-48d3-857e-e967f0736301.png"
-lead = ""
+lead = "Veuillez suivre les étapes suivantes pour vous assurer que votre voix est entendue."
 slug = ""
 summary = ""
 tags = ["Resources"]
