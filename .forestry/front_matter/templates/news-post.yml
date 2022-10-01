@@ -39,8 +39,9 @@ fields:
   label: categories
 - type: text
   name: translationKey
-  label: Translationi Key
-  description: This word links the French and English articles.
+  label: Translation Key
+  description: 'No caps, no spaces. This word links the French and English articles.
+    (eg: thisisthekey)'
 - type: text
   name: slug
   label: URL Slug
