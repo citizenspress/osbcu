@@ -12,7 +12,7 @@ tags = ["Bargaining "]
 thumbnail = ""
 title = "Les travailleurs et travailleuses de l’éducation de l’Ontario publieront les résultats du vote de grève"
 toc = false
-translationKey = "Strike votes"
+translationKey = "Strike vote"
 
 +++
 # **Les travailleurs et travailleuses de l’éducation de l’Ontario publieront les résultats du vote de grève**
