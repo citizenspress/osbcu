@@ -37,6 +37,7 @@ Announcement of education workers’ strike vote results
 - other frontline education workers.
 
 **WHEN:**
+
 10:00 a.m.  
 Monday, October 3, 2022
 
