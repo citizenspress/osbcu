@@ -14,6 +14,8 @@ toc = false
 translationKey = "Strike vote"
 
 +++
+![](/img/cupecommunique.jpg)
+
 # **Les travailleurs et travailleuses de l’éducation de l’Ontario publieront les résultats du vote de grève**
 
 **Toronto (Ontario)** – Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ont exercé leurs droits démocratiques en tant que syndiqué(e)s en participant au vote de grève qui a commencé le vendredi 23 septembre et qui se terminera le dimanche 2 octobre.
