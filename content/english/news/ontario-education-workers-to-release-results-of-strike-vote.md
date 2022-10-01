@@ -36,7 +36,9 @@ Announcement of education workers’ strike vote results
 - Angela Brandt, president, Ontario Autism Coalition
 - other frontline education workers.
 
-**WHEN:** Monday, October 3 - 10:00 a.m.
+**WHEN:**
+10:00 a.m.  
+Monday, October 3, 2022
 
 **WHERE:**
 
