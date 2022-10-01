@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-01T16:00:00Z
 description = "Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ont exercé leurs droits démocratiques en tant que syndiqué(e)s en participant au vote de grève qui a commencé le vendredi 23 septembre et qui se terminera le dimanche 2 octobre."
-draft = true
 image = ""
 lead = "Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ont exercé leurs droits démocratiques en tant que syndiqué(e)s en participant au vote de grève qui a commencé le vendredi 23 septembre et qui se terminera le dimanche 2 octobre."
 slug = ""
@@ -11,7 +10,7 @@ summary = "« Mes collègues et moi avons mis de l’avant d’excellentes reven
 tags = ["Bargaining "]
 thumbnail = ""
 title = "Les travailleurs et travailleuses de l’éducation de l’Ontario publieront les résultats du vote de grève"
-toc = false
+toc = true
 translationKey = "Strike vote"
 
 +++
@@ -43,7 +42,7 @@ Assemblée législative, salle 149
 
 111, rue Wellesley Ouest, Toronto (Ontario) M7A 1A2
 
-**Faits en bref :**
+## **Faits en bref :**
 
 Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ne gagnent en moyenne que 39 000 $ par année.
 
