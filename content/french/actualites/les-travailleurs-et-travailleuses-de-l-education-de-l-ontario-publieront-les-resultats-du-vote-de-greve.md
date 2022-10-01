@@ -3,19 +3,17 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-01T16:00:00Z
 description = "Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ont exercé leurs droits démocratiques en tant que syndiqué(e)s en participant au vote de grève qui a commencé le vendredi 23 septembre et qui se terminera le dimanche 2 octobre."
-image = "/img/cupecommunique.jpg"
+image = "/img/cupe-comms-social.png"
 lead = "Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ont exercé leurs droits démocratiques en tant que syndiqué(e)s en participant au vote de grève qui a commencé le vendredi 23 septembre et qui se terminera le dimanche 2 octobre."
 slug = ""
 summary = "« Mes collègues et moi avons mis de l’avant d’excellentes revendications, des revendications qui sont raisonnables, nécessaires et abordables » a déclaré Laura Walton. « Elles sont tirées de ce que les travailleurs et travailleuses de l'éducation de première ligne et les familles de toute la province nous ont dit avoir besoin pour optimiser la qualité de l'éducation des enfants et pour que les emplois dans le secteur de l’éducation soient tels qu’ils permettraient aux conseils scolaires de recruter et de retenir du personnel. Doug Ford et Stephen Lecce ont le pouvoir et les ressources pour accepter nos revendications. Ils pourraient et ils devraient le faire dès maintenant. »"
 tags = ["Bargaining "]
-thumbnail = "/img/cupecommunique.jpg"
+thumbnail = "/img/cupe-comms-social.png"
 title = "Les travailleurs et travailleuses de l’éducation de l’Ontario publieront les résultats du vote de grève"
 toc = true
 translationKey = "strikevote"
 
 +++
-
-
 **Toronto (Ontario)** – Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ont exercé leurs droits démocratiques en tant que syndiqué(e)s en participant au vote de grève qui a commencé le vendredi 23 septembre et qui se terminera le dimanche 2 octobre.
 
 Alors que le Comité de négociation central syndical se prépare à reprendre les pourparlers, le 6 octobre, pour tenter de négocier leur prochaine convention collective avec le gouvernement Ford et le Conseil des associations de conseillers scolaires (CACS), Laura Walton, présidente du Conseil des syndicats des conseils scolaires de l’Ontario-SCFP (CSCSO) publiera les résultats du vote lundi.
