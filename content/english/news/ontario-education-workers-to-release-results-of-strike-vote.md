@@ -25,7 +25,9 @@ As the workers’ central bargaining committee prepares to return to the table o
 
 ## Place and time
 
-**WHAT:** Announcement of education workers’ strike vote results
+**WHAT:** 
+
+Announcement of education workers’ strike vote results
 
 **WHO:** 
 
