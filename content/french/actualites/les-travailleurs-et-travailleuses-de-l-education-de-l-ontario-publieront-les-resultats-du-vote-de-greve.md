@@ -3,7 +3,7 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-01T16:00:00Z
 description = "Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ont exercé leurs droits démocratiques en tant que syndiqué(e)s en participant au vote de grève qui a commencé le vendredi 23 septembre et qui se terminera le dimanche 2 octobre."
-image = ""
+image = "/img/cupecommunique.jpg"
 lead = "Les 55 000 travailleurs et travailleuses de l'éducation de première ligne de l'Ontario ont exercé leurs droits démocratiques en tant que syndiqué(e)s en participant au vote de grève qui a commencé le vendredi 23 septembre et qui se terminera le dimanche 2 octobre."
 slug = ""
 summary = "« Mes collègues et moi avons mis de l’avant d’excellentes revendications, des revendications qui sont raisonnables, nécessaires et abordables » a déclaré Laura Walton. « Elles sont tirées de ce que les travailleurs et travailleuses de l'éducation de première ligne et les familles de toute la province nous ont dit avoir besoin pour optimiser la qualité de l'éducation des enfants et pour que les emplois dans le secteur de l’éducation soient tels qu’ils permettraient aux conseils scolaires de recruter et de retenir du personnel. Doug Ford et Stephen Lecce ont le pouvoir et les ressources pour accepter nos revendications. Ils pourraient et ils devraient le faire dès maintenant. »"
@@ -14,7 +14,7 @@ toc = true
 translationKey = "strikevote"
 
 +++
-![](/img/cupecommunique.jpg)
+
 
 # **Les travailleurs et travailleuses de l’éducation de l’Ontario publieront les résultats du vote de grève**
 
