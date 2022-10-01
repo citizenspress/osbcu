@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-01T16:00:00Z
 description = "Ontario education workers to release results of strike vote"
-draft = true
 image = ""
 lead = "Ontario’s 55,000 frontline education workers have been exercising their democratic rights as union members by taking part in their strike vote that opened on Friday, September 23 and will close on Sunday, October 2."
 slug = ""
@@ -11,7 +10,7 @@ summary = "“My coworkers and I have great proposals to settle on the table tha
 tags = ["Bargaining "]
 thumbnail = ""
 title = "Ontario education workers to release results of strike vote"
-toc = false
+toc = true
 translationKey = "Strike Vote"
 
 +++
@@ -45,7 +44,7 @@ Legislative Building, Rm 149
 
 111 Wellesley St. W., Toronto, ON, M7A 1A2
 
-**Quick Facts:**
+## **Quick Facts:**
 
 Ontario’s 55,000 frontline education workers are paid on average only $39,000 per year.
 
