@@ -11,7 +11,7 @@ tags = ["Bargaining "]
 thumbnail = ""
 title = "Ontario education workers to release results of strike vote"
 toc = true
-translationKey = "Strike Vote"
+translationKey = "strikevote"
 
 +++
 ![](/img/cupecommunique.jpg)
