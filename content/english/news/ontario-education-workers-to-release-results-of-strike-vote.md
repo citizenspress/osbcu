@@ -14,6 +14,7 @@ toc = true
 translationKey = "strikevote"
 
 +++
+## Release of Results
 
 **Toronto, ON** – Ontario’s 55,000 frontline education workers have been exercising their democratic rights as union members by taking part in their strike vote that opened on Friday, September 23 and will close on Sunday, October 2.
 
@@ -23,7 +24,7 @@ As the workers’ central bargaining committee prepares to return to the table o
 
 “This vote is about education workers throughout Ontario showing the government that we stand behind our excellent proposals – and will continue to stand behind them,” added Walton. “It’s time for the Ford government to stop playing games, rescind their out of touch offer, and accept our reasonable, necessary, and affordable proposals.”
 
-## Place and time
+## Place and Time
 
 **WHAT:** 
 
