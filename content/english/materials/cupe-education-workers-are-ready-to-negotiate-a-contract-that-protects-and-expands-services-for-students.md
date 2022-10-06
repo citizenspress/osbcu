@@ -4,13 +4,13 @@ categories = []
 date = 2022-10-06T15:00:00Z
 description = "Students, Parents, and Education Workers Deserve Better"
 draft = true
-image = ""
+image = "/img/5d7a6b83-2075-47dc-a8fb-bec44b1b28fd_4_5005_c.jpeg"
 lead = "Students, Parents, and Education Workers Deserve Better"
 slug = "parentflyer"
 summary = ""
 tags = ["Resources"]
-thumbnail = ""
-title = "CUPE education workers are ready to negotiate a contract that protects and expands services for students"
+thumbnail = "/img/5d7a6b83-2075-47dc-a8fb-bec44b1b28fd_4_5005_c.jpeg"
+title = "Parent Outreach Flyer"
 toc = true
 translationKey = ""
 
