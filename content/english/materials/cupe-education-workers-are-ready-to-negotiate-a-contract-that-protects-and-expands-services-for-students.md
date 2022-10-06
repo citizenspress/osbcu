@@ -20,9 +20,15 @@ translationKey = ""
 * The Canadian Union of Public Employees CUPE Ontario School Boards Council of Unions (OSBCU) represents over 55,000 education workers in 600+ different jobs in schools each of whom play a vital role in student success.
 * Over the last 4 years funding for schools has been cut by $800 per student (adjusted for inflation). That works out to a cut of $1.6 billion in 2021-2022 alone.
 * Cuts to funding mean cuts to services for kids. For example:
-  * > 60% of CUPE Educational Assistants provide support to 5 or more students each day, denying students the one-on-one supports they need. Less than 8% of EAs work with only one student.
-  * > Many school libraries no longer have library workers to provide supports.
-  * > Kids do without the supports of Child and Youth Workers, Psychologists, Social Workers and other professional staff.
+  * 
+
+    > 60% of CUPE Educational Assistants provide support to 5 or more students each day, denying students the one-on-one supports they need. Less than 8% of EAs work with only one student.
+  * 
+
+    > Many school libraries no longer have library workers to provide supports.
+  * 
+
+    > Kids do without the supports of Child and Youth Workers, Psychologists, Social Workers and other professional staff.
 * There is no provincial standard for school cleanliness or maintenance. Many school boards cut corners on custodial and maintenance staffing due to underfunding. The repair backlog is over $16.8 billion.
 * Over 51% of CUPE education workers have to work a second job to make ends meet.
 
@@ -49,3 +55,5 @@ translationKey = ""
 Support education workers’ demands for Student Success and Good Jobs.
 
 [https://39000isnotenough.ca](https://39000isnotenough.ca "https://39000isnotenough.ca")
+
+Download our shareable [OSBCU parent flyer]()
