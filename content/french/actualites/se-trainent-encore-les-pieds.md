@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-06T22:00:00Z
 description = "Une fois de plus, le gouvernement et les conseils scolaires ont fait trainer les négociations."
-draft = true
 image = "/img/fr-bargining-update-2022-10-06.jpg"
 lead = "Une fois de plus, le gouvernement et les conseils scolaires ont fait trainer les négociations."
 slug = ""

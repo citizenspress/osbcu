@@ -3,21 +3,20 @@ aliases = ""
 categories = []
 date = 2022-10-06T22:00:00Z
 description = "Again the government and school boards stalled."
-draft = true
 image = "/img/en-bargaining-update-2022-10-06.jpg"
 lead = "Again the government and school boards stalled."
 slug = ""
 summary = ""
 tags = ["Bargaining "]
 thumbnail = "/img/en-bargaining-update-2022-10-06.jpg"
-title = "Still dragging their feet"
+title = "Still Dragging Their Feet"
 toc = false
 translationKey = "bargainingupdate24"
 
 +++
 ## Still dragging their feet
 
-Bargaining Update - October 6, 2022
+October 6, 2022
 
 Today was day one of our two day block of bargaining dates.
 
