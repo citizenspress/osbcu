@@ -10,8 +10,8 @@ slug = ""
 summary = ""
 tags = []
 thumbnail = ""
-title = "Les travailleurs de l’éducation du SCFP sont prêts à négocier une convention collective qui protège et élargit les services offerts aux élèves."
-toc = false
+title = " Dépliant de sensibilisation des parents"
+toc = true
 translationKey = "parentflyer"
 
 +++
