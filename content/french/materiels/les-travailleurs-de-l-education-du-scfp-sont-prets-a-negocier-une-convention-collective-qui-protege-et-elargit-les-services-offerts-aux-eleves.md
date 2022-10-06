@@ -19,15 +19,15 @@ translationKey = "parentflyer"
 * Le Conseil des syndicats des conseils scolaires de l’Ontario du Syndicat canadien de la fonction publique représente plus de 55 000 travailleurs de l’éducation occupant plus de 600 postes différents dans les écoles, chacun jouant un rôle essentiel dans la réussite des élèves.
 * Au cours des quatre dernières années, le financement des écoles a été réduit de 800 $ par élève (ajusté en fonction de l’inflation). Cela représente une diminution de 1,6 milliard de dollars en 2021-2022 seulement.
 * Les compressions budgétaires entraînent des réductions dans les services aux enfants. Par exemple :
+  \*
+
+  > Soixante pour cent des aides-enseignants du SCFP s’occupent de cinq élèves ou plus chaque jour, les privant ainsi du soutien individuel dont ils ont besoin. Moins de 8 % des A.-E. travaillent avec un seul élève.
   * 
 
-    > Soixante pour cent des aides-enseignants du SCFP s’occupent de cinq élèves ou plus chaque jour, les privant ainsi du soutien individuel dont ils ont besoin. Moins de 8 % des A.-E. travaillent avec un seul élève.
+  > De nombreuses bibliothèques scolaires n’ont plus de bibliotechniciens pour fournir du soutien.
   * 
 
-    > De nombreuses bibliothèques scolaires n’ont plus de bibliotechniciens pour fournir du soutien.
-  * 
-
-    > Les enfants sont privés de l’assistance des travailleurs auprès des enfants et des jeunes, des psychologues, des travailleurs sociaux et d’autres professionnels.
+  > Les enfants sont privés de l’assistance des travailleurs auprès des enfants et des jeunes, des psychologues, des travailleurs sociaux et d’autres professionnels.
 * Il n’existe aucune norme provinciale en matière de propreté ou d’entretien  
   des écoles. Plusieurs conseils scolaires rognent sur les concierges et les préposés à l’entretien en raison du sous-financement. L’arriéré des réparations dépasse 16,8 milliards de dollars.
 * Plus de 51 % des travailleurs de l’éducation du SCFP doivent occuper un deuxième emploi pour joindre les deux bouts.
@@ -55,4 +55,4 @@ Soutenez les revendications des travailleurs de l’éducation.
 
 [https://39000cestpasassez.ca](https://39000cestpasassez.ca "https://39000cestpasassez.ca")
 
-Téléchargez notre dépliant partageable pour [les parents du CSCSO]()
+Téléchargez notre dépliant partageable pour [les parents du CSCSO](/img/leaflet-for-parent-outreach_fr_2-up_12-sept.pdf)
