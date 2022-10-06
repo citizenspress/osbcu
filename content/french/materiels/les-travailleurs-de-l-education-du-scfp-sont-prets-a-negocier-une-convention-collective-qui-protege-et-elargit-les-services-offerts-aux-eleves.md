@@ -1,14 +1,14 @@
 +++
 aliases = ""
 categories = []
-date = ""
+date = 2022-10-06T14:00:00Z
 description = "Les élèves, les parents et les travailleurs de l’éducation méritent mieux que cela."
 draft = true
 image = ""
 lead = "Les élèves, les parents et les travailleurs de l’éducation méritent mieux que cela."
 slug = ""
 summary = ""
-tags = []
+tags = ["Resources"]
 thumbnail = ""
 title = " Dépliant de sensibilisation des parents"
 toc = true
