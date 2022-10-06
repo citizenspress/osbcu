@@ -2,10 +2,10 @@
 aliases = ""
 categories = []
 date = 2022-10-06T15:00:00Z
-description = ""
+description = "Students, Parents, and Education Workers Deserve Better"
 draft = true
 image = ""
-lead = ""
+lead = "Students, Parents, and Education Workers Deserve Better"
 slug = "parentflyer"
 summary = ""
 tags = ["Resources"]
