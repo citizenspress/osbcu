@@ -10,11 +10,13 @@ slug = ""
 summary = ""
 tags = ["Bargaining "]
 thumbnail = ""
-title = "not sure"
+title = "No Board Requested"
 toc = false
 translationKey = "legal"
 
 +++
+## No Board Requested
+
 October 7, 2022
 
 As of 5pm tonight, your OSBCU bargaining team has requested a "No Board report"
