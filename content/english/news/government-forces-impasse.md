@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-07T15:00:00Z
 description = "As workers, you have been clear in what your expectations are of the bargaining committee - you need real gains."
-draft = true
 image = "/img/2022-10-07-en-bargaining-update.png"
 lead = "As workers, you have been clear in what your expectations are of the bargaining committee - you need real gains."
 slug = "impasse "
