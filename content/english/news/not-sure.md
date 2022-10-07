@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-07T21:00:00Z
 description = "As of 5pm tonight, your OSBCU bargaining team has requested a \"No Board report\""
-draft = true
 image = "/img/2022-10-07-en-bargaining-update-5pm.png"
 lead = "As of 5pm tonight, your OSBCU bargaining team has requested a \"No Board report\""
 slug = ""

@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-07T21:00:00Z
 description = "À partir de 17 heures ce soir, votre équipe de négociation du CSCSO a demandé un \"avis de non-constitution d'une commisiion\"(No Board Report)."
-draft = true
 image = "/img/2022-10-07-fr-bargaining-update-5pm.png"
 lead = "À partir de 17 heures ce soir, votre équipe de négociation du CSCSO a demandé un \"avis de non-constitution d'une commisiion\"(No Board Report)."
 slug = ""
