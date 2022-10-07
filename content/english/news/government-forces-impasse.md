@@ -4,17 +4,18 @@ categories = ["Bargaining Updates"]
 date = 2022-10-07T15:00:00Z
 description = "As workers, you have been clear in what your expectations are of the bargaining committee - you need real gains."
 draft = true
-image = ""
+image = "/img/2022-10-07-en-bargaining-update.png"
 lead = "As workers, you have been clear in what your expectations are of the bargaining committee - you need real gains."
 slug = "impasse "
 summary = ""
 tags = ["Bargaining "]
-thumbnail = ""
+thumbnail = "/img/2022-10-07-en-bargaining-update.png"
 title = "Government Forces Impasse"
 toc = false
 translationKey = ""
 
 +++
+## Government Forces Impasse
 
 October ,7 2022
 
