@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Bargaining Updates"]
-date = 2022-10-07T15:00:00Z
+date = 2022-10-07T20:00:00Z
 description = "En tant que travailleurs, vous avez clairement exprimé vos attentes à l'égard du comité de négociation - vous avez besoin de gains réels."
 image = "/img/2022-10-07-fr-bargaining-update.png"
 lead = "En tant que travailleurs, vous avez clairement exprimé vos attentes à l'égard du comité de négociation - vous avez besoin de gains réels."
