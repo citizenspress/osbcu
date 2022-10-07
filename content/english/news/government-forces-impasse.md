@@ -5,13 +5,13 @@ date = 2022-10-07T15:00:00Z
 description = "As workers, you have been clear in what your expectations are of the bargaining committee - you need real gains."
 image = "/img/2022-10-07-en-bargaining-update.png"
 lead = "As workers, you have been clear in what your expectations are of the bargaining committee - you need real gains."
-slug = "impasse "
+slug = ""
 summary = ""
 tags = ["Bargaining "]
 thumbnail = "/img/2022-10-07-en-bargaining-update.png"
 title = "Government Forces Impasse"
 toc = false
-translationKey = ""
+translationKey = "impasse"
 
 +++
 ## Government Forces Impasse
