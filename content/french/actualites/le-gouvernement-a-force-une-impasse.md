@@ -12,7 +12,7 @@ tags = ["Bargaining"]
 thumbnail = "/img/2022-10-07-fr-bargaining-update.png"
 title = "Le gouvernement a forcé une impasse"
 toc = false
-translationKey = "impasse "
+translationKey = "impasse"
 
 +++
 ## Le gouvernement a forcé une impasse
