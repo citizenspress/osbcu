@@ -1,18 +1,18 @@
 +++
 aliases = ""
-categories = []
-date = ""
+categories = ["Bargaining Updates"]
+date = 2022-10-17T15:00:00Z
 description = "Nous n'avons pas encore reçu le rapport de non-constitution d'une commission \"No Board Report\", dès que nous le recevrons, une communication sera envoyée pour informer les travailleurs que la période d'attente de 17 jours a commencé"
 draft = true
 image = "/img/9dd08e7d-32c4-4a2f-938c-ef7440ac4996.jpeg"
 lead = "Nous n'avons pas encore reçu le rapport de non-constitution d'une commission \"No Board Report\", dès que nous le recevrons, une communication sera envoyée pour informer les travailleurs que la période d'attente de 17 jours a commencé"
 slug = ""
 summary = ""
-tags = []
+tags = ["Bargaining "]
 thumbnail = "/img/9dd08e7d-32c4-4a2f-938c-ef7440ac4996.jpeg"
 title = "Passer à la médiation"
 toc = false
-translationKey = ""
+translationKey = "mediation"
 
 +++
 ## Passer à la médiation
