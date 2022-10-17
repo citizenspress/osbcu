@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Bargaining Updates"]
-date = 2022-10-17T16:00:00Z
+date = 2022-10-17T15:00:00Z
 description = "Avec la réception de ce rapport, nous entrons maintenant dans la période d'attente de dix-sept (17) jours civils avant d'être en position légale de grève le 3 novembre 2022."
 image = "/img/f03e971f-f3fb-4560-92ba-0adbf4a38bb4.jpeg"
 lead = "Avec la réception de ce rapport, nous entrons maintenant dans la période d'attente de dix-sept (17) jours civils avant d'être en position légale de grève le 3 novembre 2022."

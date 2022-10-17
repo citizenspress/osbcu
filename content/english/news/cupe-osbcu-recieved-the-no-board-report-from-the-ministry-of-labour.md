@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = ["Bargaining Updates"]
-date = 2022-10-17T16:00:00Z
+date = 2022-10-17T15:00:00Z
 description = "With the receipt of the report, we now enter into the seventeen (17) calendar day waiting period before we would be in a legal strike position on November 3rd, 2022."
 image = "/img/b08de4db-3af8-4fe1-915e-f66040aae2c2.jpeg"
 lead = "With the receipt of the report, we now enter into the seventeen (17) calendar day waiting period before we would be in a legal strike position on November 3rd, 2022."
