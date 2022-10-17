@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-17T15:00:00Z
 description = "We have not yet received the \"No Board Report\", once we do receive it, a communication will be sent notifying workers that the 17 day waiting period has begun."
-draft = true
 image = "/img/932275af-5132-4b81-9c0a-1dbaa4527eeb.jpeg"
 lead = "We have not yet received the \"No Board Report\", once we do receive it, a communication will be sent notifying workers that the 17 day waiting period has begun."
 slug = ""
