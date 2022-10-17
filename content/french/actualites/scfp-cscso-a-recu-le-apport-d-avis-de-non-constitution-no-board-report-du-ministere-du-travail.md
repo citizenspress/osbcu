@@ -3,19 +3,20 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-17T16:00:00Z
 description = "Avec la réception de ce rapport, nous entrons maintenant dans la période d'attente de dix-sept (17) jours civils avant d'être en position légale de grève le 3 novembre 2022."
-draft = true
-image = ""
+image = "/img/f03e971f-f3fb-4560-92ba-0adbf4a38bb4.jpeg"
 lead = "Avec la réception de ce rapport, nous entrons maintenant dans la période d'attente de dix-sept (17) jours civils avant d'être en position légale de grève le 3 novembre 2022."
 slug = ""
 summary = ""
 tags = ["Bargaining"]
-thumbnail = ""
+thumbnail = "/img/f03e971f-f3fb-4560-92ba-0adbf4a38bb4.jpeg"
 title = "SCFP CSCSO a reçu le apport d'avis de non-constitution (No Board Report) du ministère du Travail."
 toc = false
-translationKey = "onboard"
+translationKey = "noboard"
 
 +++
-17 octobre 2022 
+## SCFP CSCSO a reçu le apport d'avis de non-constitution (No Board Report) 
+
+17 octobre 2022
 
 Ce matin, le SCFP CSCSO a reçu le apport d'avis de non-constitution (No Board Report) du ministère du Travail.
 
