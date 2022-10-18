@@ -24,4 +24,4 @@ Unfortunately, at this time we have no improvements or details to report. Your b
 
 We will return to the table tomorrow morning and will provide additional updates as they become available.
 
-Please join us on this Saturday at 11:30 am for our "Hands Of Our Rights" Protest at Toronto Congress Centre, 650 Dixon Rd, Etobicoke.
+Please join us on this Saturday at 11:30 am for our "Hands Off Our Rights" Protest at Toronto Congress Centre, 650 Dixon Rd, Etobicoke.
