@@ -24,4 +24,4 @@ Malheureusement, à l'heure actuelle, nous n'avons aucune amélioration ni aucun
 
 Nous retournerons à la table demain matin et nous vous fournirons des mises à jour supplémentaires dès qu'elles seront disponibles.
 
-Rejoignez-nous ce samedi à 11h30 pour notre manifestation "Hands Of Our Rights" au Centre des congrès de Toronto, 650 Dixon Rd, Etobicoke.
+Rejoignez-nous ce samedi à 11h30 pour notre manifestation "Hands Off Our Rights" au Centre des congrès de Toronto, 650 Dixon Rd, Etobicoke.
