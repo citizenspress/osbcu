@@ -11,7 +11,7 @@ tags = ["Bargaining"]
 thumbnail = "/img/e431c3d3-d914-4eef-b351-79e3e77d8002.jpeg"
 title = "Day Two of Mediation Complete"
 toc = false
-translationKey = "day two"
+translationKey = "daytwo"
 
 +++
 ## Day Two of Mediation Complete
