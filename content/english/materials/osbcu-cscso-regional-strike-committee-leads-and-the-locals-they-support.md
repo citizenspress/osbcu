@@ -90,11 +90,13 @@ CUPE locals supported: 1196, 1571, 1734, 2331, 5476, 4340
 
 ## Barrie HQ Lead
 
-Ann Marie Brunner
+Ann Marie Brunner and Chris Juniper
 
 barriehq@osbcu.ca
 
-249-877-3703
+Anne Marie - 249-877-3703
+
+Chris - 226-974-1778
 
 CUPE locals supported: 1176, 1310, 3447, 3987
 
