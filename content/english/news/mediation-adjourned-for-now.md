@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-19T15:00:00Z
 description = "The mediator has concluded that the parties are too far apart and the mediation should be adjourned. He has requested that we reconvene on November 1, 2022 and will be in contact with us prior to us resuming the mediation."
-draft = true
 image = "/img/b4b2400b-a0c7-41ef-9d76-da3de5243e08.jpeg"
 lead = "The mediator has concluded that the parties are too far apart and the mediation should be adjourned. He has requested that we reconvene on November 1, 2022 and will be in contact with us prior to us resuming the mediation."
 slug = "adjourned"
