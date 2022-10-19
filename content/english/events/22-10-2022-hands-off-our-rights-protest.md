@@ -1,6 +1,6 @@
 +++
 categories = ["Our Events"]
-date = 2022-10-18T00:00:00Z
+date = "2022-10-17T00:00:00"
 endDate = "2020-10-22T14:00:00"
 image = "/img/c1855841-f8c0-4327-8d70-b7d9f8446aa4.png"
 orga = "OSBCU"
