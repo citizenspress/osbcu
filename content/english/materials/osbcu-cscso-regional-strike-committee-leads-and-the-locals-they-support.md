@@ -150,11 +150,11 @@ CUPE locals supported: 4155, 5678, 4154
 
 ## North Bay HQ Lead
 
-Patrick Laplante
+Mitch Gagnon 
 
 northbayhq@osbcu.ca
 
-613-619-3633
+705-303-5057
 
 CUPE locals supported: 1165, 2799, 4865
 
