@@ -38,7 +38,7 @@ londonhq@osbcu.ca
 
 CUPE locals supported: 256, 2512, 3615, 4186, 4222, 7575
 
-## Niagara / Hamilton HQ Lead
+## Niagara HQ Lead
 
 Darren Levere
 
@@ -46,9 +46,19 @@ niagarahq@osbcu.ca
 
 289-668-8967
 
-CUPE locals supported: 1317, 4156, 1011, 3166, 3396, 4153, 5100, 5200
+CUPE locals supported: 1317, 4156
 
-## Peel / Toronto HQ Lead
+## Hamilton HQ Lead
+
+Laurie Penner
+
+hamiltonhq@osbcu.ca
+
+905-518-7024
+
+CUPE locals supported: 1011, 3166, 3396, 4153, 5100, 5200
+
+## Peel HQ Lead
 
 Chris DeMelo
 
@@ -56,7 +66,17 @@ peelhq@osbcu.ca
 
 647-405-3825
 
-CUPe locals supported: 2026, 1483, 2544, 1628, 4400, 1280, 1328, 3155
+CUPe locals supported: 2026, 1483, 1628, 2544
+
+## Toronto HQ Lead
+
+Brittany Wall
+
+toronthq@osbcu.ca
+
+647-203-2948
+
+CUPE locals supported: 1328, 3155, 4400
 
 ## York HQ Lead
 
@@ -94,7 +114,7 @@ Sean Hebert
 
 durhamhq@osbcu.ca
 
-905-260-9807 
+905-260-9807
 
 CUPE local supported: 218
 
@@ -120,7 +140,7 @@ CUPE locals supported: 1202, 1321, 1247, 2357, 4297, 5335
 
 ## Eastern Ontario HQ Lead
 
-Nancy Ripley 
+Nancy Ripley
 
 easternontariohq@osbcu.ca
 
