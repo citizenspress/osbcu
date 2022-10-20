@@ -24,4 +24,4 @@ The mediator has concluded that the parties are too far apart and the mediation 
 
 We look forward to you joining us Saturday at 11:30 at the "Hands Off Our Rights" Protest. It is clear that this government needs to see and hear the power of you the workers and the demands that you have.
 
-["Hands Off Our Rights" Protest Registration]("Hands Off Our Rights" Protest Registration)
+["Hands Off Our Rights" Protest Registration](https://www.cognitoforms.com/OSBCUCSCSO/handsoffourrightsprotestnetouchezpas%C3%A0nosdroits)
