@@ -3,6 +3,7 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-08-15T16:00:00Z
 description = "CUPE Strike Pay FAQ"
+draft = true
 image = "/img/2022-3-bargaining-wage-presentation.png"
 lead = "CUPE Strike Pay FAQ"
 slug = ""
