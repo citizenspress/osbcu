@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Resources"]
 date = 2022-08-29T10:00:00Z
 description = ""
-draft = true
 image = ""
 lead = ""
 slug = ""
@@ -21,11 +20,15 @@ translationKey = "strikepayfaq"
 
 # Quel est le montant de l’indemnité de grève?
 
-L'indemnité de grève est de 300 $ par semaine pour 20 heures de tâches de grève. L'indemnité de grève n'est pas un revenu imposable.
+L’indemnité de grève n’est pas un revenu imposable.
 
-Les membres à plein temps doivent effectuer 20 heures de tâches de grève par semaine. Les quarts de travail sont de quatre heures, du lundi au vendredi. Nous demandons aux membres à plein temps d’effectuer un quart de travail de quatre heures par jour pour un total de cinq quarts de travail par semaine (20 heures).
+Les quarts de piquetage normaux sont de quatre (4) heures par jour, cinq (5) jours par semaine, du lundi au vendredi.
 
-Les membres à temps partiel et occasionnels sont les bienvenu(e)s. Nous les encourageons à effectuer 20 heures de tâches de grève par semaine si possible pour toucher une indemnité de grève complète. Ils et elles peuvent faire moins d'heures et recevoir un montant proportionnel s'ils et elles ne sont pas en mesure d’effectuer 20 heures par semaine.
+Les membres sont invités à effectuer un quart de travail de 4 heures par jour pour un total de cinq quarts par semaine (20 heures).
+
+Les membres peuvent effectuer moins d’heures pour une indemnité de grève calculée au prorata en fonction des heures de grève de piquetage s’ils ne peuvent pas effectuer 20 heures par semaine.
+
+Pour plus de clarté, les membres qui ne sont pas en mesure d’effectuer au moins vingt (20) heures par semaine de piquetage pour une raison autre que la maladie sont admissibles à un montant calculé au prorata de la paie de piquetage, en fonction des heures de piquetage. Les membres qui fournissent une explication satisfaisante (preuve) d’une maladie sont admissibles au paiement pour le ou les quarts manqués en raison de la maladie, sous réserve de l’approbation du comité des prestations de grève.
 
 # Comment puis-je me prévaloir d’une indemnité de grève?
 
