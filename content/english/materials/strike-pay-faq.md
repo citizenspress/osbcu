@@ -21,19 +21,15 @@ translationKey = "strikepayfaq"
 
 ## How much is strike pay?
 
-Strike pay is $300/week for 20 hours of strike duties.
+Strike pay is $300/week for 20 hours of strike duties. Strike pay is not taxable income.
 
-Strike pay is not taxable income.
+Normal picket shifts are four (4) hours per day, five (5) days per week, Monday to Friday.
 
-Full-time members must perform 20 hours of strike duties a week. Shifts are four hours long,
-Monday to Friday.
+Members are asked to complete one 4-hour shift a day for a total of five shifts a week (20 hours).
 
-Full-time members are asked to complete one 4 hour shift a day for a total
-of five shifts a week (20 hours).
+Members may perform fewer hours for a pro-rated strike pay based on hours picketed if they are unable to perform20 hours a week.
 
-Part-time and casual members are also welcome and encouraged to perform 20 hours of strike
-duties a week if possible and receive full strike pay and may perform fewer hours for a pro-
-rated amount if they are unable to perform 20 hours a week.
+For further clarity, members who are unable to perform a minimum of twenty (20) hours per week of picket duty for a reason other than illness are eligible to be paid a pro-rated amount of picket pay, based on hours picketed. Members who provide satisfactory explanation (proof) of illness shall be eligible for payment for the missed shift(s) due to the illness, subject to the approval of the Strikes Benefit Committee.
 
 ## How do I qualify for strike pay?
 
