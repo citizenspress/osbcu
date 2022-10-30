@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-10-30T16:00:00Z
 description = "We welcome any opportunity for fulsome discussion that will move these negotiations forward. We will continue our practice of transparency and will update you following our meeting."
-draft = true
 image = "/img/c7a030ee-1414-4f3e-bc17-c7625ba7dd21.jpeg"
 lead = "We welcome any opportunity for fulsome discussion that will move these negotiations forward. We will continue our practice of transparency and will update you following our meeting."
 slug = ""
