@@ -15,4 +15,4 @@ toc = false
 translationKey = "demands"
 
 +++
-![](/img/jpg-photo_0.jpg)![](/img/jpg-photo_1.jpg)
+![](/img/png-image_0.png)![](/img/png-image_1.png)
