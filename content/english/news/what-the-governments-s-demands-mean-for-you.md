@@ -16,7 +16,11 @@ translationKey = "demands"
 
 +++
 
+----
+
 > [Download the PDF version here](/img/what_the_governments_demands_mean_for_you_2022_10_31.pdf)
+
+----
 
 ![](/img/gov-0.png)
 
