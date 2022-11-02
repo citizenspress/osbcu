@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-11-02T17:00:00Z
 description = "Stephen Lecce prétend que la dernière offre du gouvernement est généreuse et répond aux besoins des travailleurs et travailleuses. Ce n'est pas vrai."
-draft = true
 image = "/img/cupe-comms-social.png"
 lead = "Stephen Lecce prétend que la dernière offre du gouvernement est généreuse et répond aux besoins des travailleurs et travailleuses. Ce n'est pas vrai."
 slug = ""
