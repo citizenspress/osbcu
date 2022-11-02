@@ -22,6 +22,13 @@ enableRobotsTXT = true
     name = "OSBCU"
     avatar = "img/avatar.png"
 
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = 'picket finder'
+      name = 'Find a Picket Line'
+      url = 'https://cupe.on.ca/dontbeabully/'
+      weight = -110
+      pre = "<i>ACTION!</i>"
 
   [languages.fr]
     contentDir = "content/french"
@@ -33,6 +40,14 @@ enableRobotsTXT = true
     bio = "Le CSCSO regroupe 55 000 travailleurs des conseils scolaires des systèmes scolaires publics, catholiques, anglophones et francophones aux quatre coins de la province. Nous sommes la colonne vertébrale du système d’éducation"
     name = "CSCSO"
     avatar = "img/avatar.png"
+
+
+[languages.fr.menu]
+  [[languages.fr.menu.main]]
+    identifier = 'picket finder'
+      name = 'Trouvez une ligne de piquetage'
+      url = 'https://cupe.on.ca/dontbeabully/'
+      weight = -110
 
 
 [Params]
