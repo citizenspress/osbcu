@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = ["Bargaining Update"]
+categories = ["Bargaining Updates"]
 date = 2022-10-03T00:00:00Z
 description = "The results are in! 45433 members participated in the OSBCU Central Strike Vote - 82.6%. A Supermajority! These workers also gave the OSBCU Central Bargaining Committee a 96.5% Yes Vote for the Strike Mandate!"
 image = "/img/95percent-en.jpg"
