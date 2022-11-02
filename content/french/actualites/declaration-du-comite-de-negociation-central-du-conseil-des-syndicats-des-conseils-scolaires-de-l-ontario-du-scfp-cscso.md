@@ -29,7 +29,7 @@ Depuis, un certain nombre d'idées fausses et d'erreurs concernant l'offre du go
 
 Stephen Lecce prétend que la dernière offre du gouvernement est généreuse et répond aux besoins des travailleurs et travailleuses. Ce n'est pas vrai. Bien que les chiffres entourant l'augmentation salariale puissent sembler une amélioration par rapport à l’offre précédente, la façon dont cette offre est structurée, et qu'il a l'intention d'imposer,ne ferait qu’appauvrir davantage les travailleurs et travailleuses.
 
-**Première affirmation du gouvernement** : plusieurs travailleurs et travailleuses qui gagnent moins de 43 000 $ recevront 2,5 %.
+## **Première affirmation du gouvernement** : plusieurs travailleurs et travailleuses qui gagnent moins de 43 000 $ recevront 2,5 %.
 
 **Fait** : un(e) aide-enseignant(e) au _Toronto Catholic District School Board_ est payé(e)26,21 $ l'heure. Il(elle) travaille 32,5 heures par semaine, 43 semaines par année et ne gagne que 36 628 $ par an. Il(elle) n'obtiendrait qu’une augmentation de 1,5 %, soit 39 ¢ de plus l'heure.
 
@@ -41,7 +41,7 @@ Un(e) éducateur(éducatrice) de la petite enfance au Conseil scolaire de distri
 
 Un(e) préposé(e) aux services au soutien de la personne au Conseil scolaire du district catholique de Waterloo gagne 25,97 $ l'heure, soit à peine deux cents de plus que le salaire seuil prévu dans l'offre du gouvernement. Il(elle) travaille 32,5 heures par semaine, 43 semaines par année et est mis(e) à pied le reste du temps. Il(elle) ne gagne que 36 293 $ par an, bien en deçà du point de discussion du gouvernement de 43 000 $. Mais, il(elle) ne recevra que 1,5 % de l'offre du gouvernement, soit seulement 39 ¢ de plus l'heure.
 
-**Deuxième affirmation du gouvernement** : les travailleurs et travailleuses qui gagnentmoins de 43 000 $ par an ou 25,95 $ l'heure recevront 2,5 %.
+## **Deuxième affirmation du gouvernement** : les travailleurs et travailleuses qui gagnentmoins de 43 000 $ par an ou 25,95 $ l'heure recevront 2,5 %.
 
 **Fait** : les membres de l’équipe d’entretien au Conseil scolaire du district d'Algoma gagnent au maximum 27,05 $ l'heure. Leur salaire de départ est de 23,02 $ l'heure. Peu importe leurs gains, en raison du taux supérieur de leur échelle salariale, ils(elles) ne recevront que 1,5 %.
 
@@ -55,7 +55,7 @@ Les secrétaires des écoles élémentaires au Conseil scolaire catholique du di
 
 Au total, plus de la moitié des 55 000 travailleurs et travailleuses de l'éducation membres du SCFP les moins bien payé(e)s du secteur ne recevraient que 1,5 %. Cette proposition n’a pas pour but d’offrir une augmentation salariale équitable. Autrement dit, elle n’est pas favorable aux travailleurs et travailleuses.
 
-**Troisième affirmation du gouvernement** : le CSCSO inclut les travailleurs et travailleuses à temps partiel pour faire paraître leur salaire pire qu'il ne l'est.
+## **Troisième affirmation du gouvernement** : le CSCSO inclut les travailleurs et travailleuses à temps partiel pour faire paraître leur salaire pire qu'il ne l'est.
 
 **Fait** : dès le début, nous avons été clair(e)s et cohérent(e)s. Nous revendiquons une augmentation salariale uniforme pour tous les emplois et tous les conseils scolaires, car nos membres ne gagnent, en moyenne, que 39 000 $ par année. C'est absolument vrai.
 
@@ -69,7 +69,7 @@ Nos revendications garantiraient davantage de travail à temps plein dans les é
 
 Au lieu de s'attaquer au sous-emploi des travailleurs et travailleuses de l'éducation, ce qui permettrait d’offrir de meilleurs services aux élèves, le gouvernement Ford ne fournit pas le financement supplémentaire nécessaire pour augmenter les heures de service et améliorer les conditions de travail des employé(e)s occasionnel(le)s, temporaires et à temps partiel.
 
-**Quatrième affirmation du gouvernement** : c’en est fait des négociations à moins que les travailleurs et travailleuses de l'éducation n'annulent leur préavis de grève.
+## **Quatrième affirmation du gouvernement** : c’en est fait des négociations à moins que les travailleurs et travailleuses de l'éducation n'annulent leur préavis de grève.
 
 **Fait** : après avoir déposé une législation visant à bafouer les droits fondamentaux, Stephen Lecce a déclaré aux médias que le gouvernement Ford avait fini de négocier. Il a été rapporté que le ministère de l'Éducation affirme que les négociations peuventreprendre si nous apportons des modifications substantielles et révoquons l’avis de grève.
 
