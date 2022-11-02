@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-11-02T15:00:00Z
 description = "Your OSBCU Bargaining Committee remains at the bargaining table."
-draft = true
 image = "/img/b0e74e7a-5e57-4af8-94dc-f9773275d3ff.jpeg"
 lead = "Your OSBCU Bargaining Committee remains at the bargaining table."
 slug = ""
