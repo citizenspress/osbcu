@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-11-03T17:00:00Z
 description = "Cet après-midi, nous avons été informés que la médiation était terminée."
-draft = true
 image = "/img/314360644_542377374561216_4154686855198521568_n.jpg"
 lead = "Cet après-midi, nous avons été informés que la médiation était terminée."
 slug = "mediationisconcluded"
