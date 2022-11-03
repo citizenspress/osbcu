@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-11-03T15:00:00Z
 description = "I love being an EA, but I can’t make a difference when I’m running from class to class like a chicken with its head cut off"
-draft = true
 image = "/img/img_0913.jpg"
 lead = "I love being an EA, but I can’t make a difference when I’m running from class to class like a chicken with its head cut off"
 slug = ""
