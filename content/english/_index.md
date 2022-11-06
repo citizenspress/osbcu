@@ -12,6 +12,6 @@ title = "Welcome to the OSBCU"
 
 ----
 
-> **[Find your closest Picket Line here](https://cupe.on.ca/dontbeabully/)**
+> **[Find your political protest location here](https://cupe.on.ca/dontbeabully/)**
 
 ----
