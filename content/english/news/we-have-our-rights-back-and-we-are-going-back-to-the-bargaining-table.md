@@ -66,7 +66,3 @@ There were real risks if we didn’t accept the de-escalation presented by the g
 That’s what we risked if we didn’t take the deal. We didn’t give up anything by accepting it – and we’re in a better position for it.
 
 In solidarity,
-
-Laura Walton
-
-President, Ontario School Boards Council of Unions
