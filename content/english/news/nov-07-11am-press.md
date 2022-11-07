@@ -10,7 +10,7 @@ summary = ""
 tags = ["Bargaining"]
 thumbnail = "/img/presser-nov7.png"
 title = "11am, Nov. 7: Labour Leaders press conference on escalating Bill 28 fightback"
-toc = true
+toc = false
 translationKey = "nov7presser"
 
 +++
