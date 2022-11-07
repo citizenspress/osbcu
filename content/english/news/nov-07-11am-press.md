@@ -15,10 +15,24 @@ translationKey = "nov7presser"
 
 +++
 
+
+---- 
+
+> [CLICK HERE TO WATCH LIVE](https://www.facebook.com/events/2015481205311411/?active_tab=about)
+
+
+----
+
+
 ## Labour Leaders press conference on escalating Bill 28 fightback
 
 Monday, November 7, 2022 AT 11:00 AM EST
 
 
 
-> [Click here to watch live](https://www.facebook.com/events/2015481205311411/?active_tab=about)
+---- 
+
+> [CLICK HERE TO WATCH LIVE](https://www.facebook.com/events/2015481205311411/?active_tab=about)
+
+
+----
