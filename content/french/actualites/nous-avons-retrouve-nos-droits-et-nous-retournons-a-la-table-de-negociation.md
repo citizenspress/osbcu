@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-11-07T21:00:00Z
 description = "Quoi que vous entendiez aujourd'hui, je veux que vous sachiez une chose : aujourd'hui est une victoire."
-draft = true
 image = "/img/59-1.png"
 lead = "Quoi que vous entendiez aujourd'hui, je veux que vous sachiez une chose : aujourd'hui est une victoire."
 slug = ""

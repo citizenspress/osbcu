@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Update"]
 date = 2022-11-07T21:00:00Z
 description = "Whatever else you’re hearing today, I want you to know one thing: today was a victory."
-draft = true
 image = "/img/41-1.png"
 lead = "Whatever else you’re hearing today, I want you to know one thing: today was a victory."
 slug = ""
