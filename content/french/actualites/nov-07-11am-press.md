@@ -16,7 +16,7 @@ translationKey = "nov7presser"
 +++
 
 
-> [CLICK HERE TO WATCH LIVE](https://www.facebook.com/events/2015481205311411/?active_tab=about)
+> [CLICK HERE TO WATCH LIVE](https://www.cbc.ca/news/canada/toronto/cupe-strike-labour-board-ruling-expected-1.6642824)
 
 ----
 
@@ -30,7 +30,7 @@ Monday, November 7, 2022 AT 11:00 AM EST
 
 ---- 
 
-> [CLICK HERE TO WATCH LIVE](https://www.facebook.com/events/2015481205311411/?active_tab=about)
+> [CLICK HERE TO WATCH LIVE](https://www.cbc.ca/news/canada/toronto/cupe-strike-labour-board-ruling-expected-1.6642824)
 
 
 ----
