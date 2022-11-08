@@ -14,7 +14,7 @@ toc = true
 translationKey = ""
 
 +++
-## Ontario Confederation of University Faculty Association 
+## Ontario Confederation of University Faculty Association
 
 ![](/img/ocufa-png-image_0-2.png)
 
@@ -22,7 +22,7 @@ translationKey = ""
 
 ![](/img/peel-labour-council-osbcu-cupe-letter-of-solidarity.png)
 
-## Ontario Nurses' Association 
+## Ontario Nurses' Association
 
 ![](/img/ona-png-image_0-copy.png)![](/img/ona-png-image_1.png)
 
