@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-11-09T22:00:00Z
 description = "We have received confirmation today that the Unlawful Strike Application filed by the Minister of Education has been withdrawn."
-draft = true
 image = "/img/pg-42.png"
 lead = "We have received confirmation today that the Unlawful Strike Application filed by the Minister of Education has been withdrawn."
 slug = ""

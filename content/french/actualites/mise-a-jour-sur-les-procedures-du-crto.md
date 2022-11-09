@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Update"]
 date = ""
 description = "Nous avons reçu aujourd'hui la confirmation que la demande de grève illégale déposée par le ministre de l'Éducation a été retirée."
-draft = true
 image = "/img/62-fr-update.png"
 lead = "Nous avons reçu aujourd'hui la confirmation que la demande de grève illégale déposée par le ministre de l'Éducation a été retirée."
 slug = ""
