@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = []
-date = 2022-11-10T17:00:00Z
+date = 2022-11-10T16:00:00Z
 description = "Nous limiterons nos commentaires aux médias pendant la médiation afin de mieux orienter nos efforts vers la conclusion d'une entente librement négociée."
 image = "/img/cupe-comms-social.png"
 lead = "Nous limiterons nos commentaires aux médias pendant la médiation afin de mieux orienter nos efforts vers la conclusion d'une entente librement négociée."
