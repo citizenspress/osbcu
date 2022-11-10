@@ -1,7 +1,7 @@
 +++
 aliases = ""
 categories = []
-date = 2022-11-10T17:00:00Z
+date = 2022-11-10T16:00:00Z
 description = "We will be limiting our comments to the media while in mediation to better direct our efforts to reaching a freely negotiated agreement."
 image = "/img/cupe-comms-social.png"
 lead = "We will be limiting our comments to the media while in mediation to better direct our efforts to reaching a freely negotiated agreement."
