@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-11-14T20:00:00Z
 description = "“This law should never have been adopted. Bill 28 imposed a four-year concessionary contract that would have pushed more of us into poverty while stripping us of our Charter rights, human rights, and any legal avenue to fight back."
-draft = true
 image = "/img/cupe-comms-social.png"
 lead = "“This law should never have been adopted. Bill 28 imposed a four-year concessionary contract that would have pushed more of us into poverty while stripping us of our Charter rights, human rights, and any legal avenue to fight back."
 slug = ""
