@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-11-14T22:00:00Z
 description = "La position du gouvernement a très peu changé depuis la semaine dernière."
-draft = true
 image = "/img/66.png"
 lead = "La position du gouvernement a très peu changé depuis la semaine dernière."
 slug = ""
