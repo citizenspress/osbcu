@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-11-16T03:00:00Z
 description = "The bargaining team has concluded negotiations for the evening."
-draft = true
 image = "/img/46.png"
 lead = "The bargaining team has concluded negotiations for the evening."
 slug = ""
