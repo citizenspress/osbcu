@@ -3,7 +3,6 @@ aliases = ""
 categories = []
 date = 2022-11-17T02:00:00Z
 description = "“From the beginning, we’ve been focused on improved jobs for education workers and improved services for students. For us, there is no one without the other,” said Laura Walton, educational assistant and president of CUPE-OSBCU. “"
-draft = true
 image = "/img/cupe-comms-social.png"
 lead = "“From the beginning, we’ve been focused on improved jobs for education workers and improved services for students. For us, there is no one without the other,” said Laura Walton, educational assistant and president of CUPE-OSBCU. “"
 slug = ""
