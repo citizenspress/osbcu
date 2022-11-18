@@ -12,6 +12,6 @@ title = "Welcome to the OSBCU"
 
 ----
 
-> **[Find your strike location here](https://cupe.on.ca/dontbeabully/)**
+> **[Find your strike location here](https://cupe.on.ca/gooddealnow/)**
 
 ----
