@@ -1,15 +1,15 @@
 +++
 aliases = ""
 categories = []
-date = ""
-description = ""
+date = 2022-11-19T22:00:00Z
+description = "“We remain hard at work doing everything we can to get the best deal for students, families, and frontline education workers."
 draft = true
-image = ""
-lead = ""
-slug = ""
+image = "/img/19-en.png"
+lead = "“We remain hard at work doing everything we can to get the best deal for students, families, and frontline education workers."
+slug = "statement "
 summary = ""
-tags = []
-thumbnail = ""
+tags = ["Bargaining "]
+thumbnail = "/img/19-en.png"
 title = "A statement from CUPE’s Ontario School Boards Council of Unions (OSBCU) central bargaining committee:"
 toc = false
 translationKey = ""
