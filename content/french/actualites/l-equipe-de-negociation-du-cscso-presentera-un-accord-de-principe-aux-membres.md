@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-11-20T22:00:00Z
 description = "Il n'y aura pas de grève demain. Nos membres se rendront dans les écoles pour continuer à soutenir les étudiants avec lesquels nous sommes fiers de travailler."
-draft = true
 image = "/img/77.png"
 lead = "Il n'y aura pas de grève demain. Nos membres se rendront dans les écoles pour continuer à soutenir les étudiants avec lesquels nous sommes fiers de travailler."
 slug = ""

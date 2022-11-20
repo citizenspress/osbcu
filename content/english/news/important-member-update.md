@@ -3,7 +3,6 @@ aliases = ""
 categories = ["Bargaining Updates"]
 date = 2022-11-20T22:00:00Z
 description = "There will be no job action tomorrow. Our members will be reporting to schools to continue supporting the students that we are proud to work with."
-draft = true
 image = "/img/51.png"
 lead = "There will be no job action tomorrow. Our members will be reporting to schools to continue supporting the students that we are proud to work with."
 slug = ""
