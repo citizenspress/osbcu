@@ -10,12 +10,14 @@ slug = ""
 summary = ""
 tags = ["Bargaining "]
 thumbnail = "/img/77.png"
-title = "L'équipe de négociation du CSCSO présentera un accord de principe aux membres"
+title = "Message important aux membres"
 toc = false
 translationKey = "nojobaction"
 
 +++
-## L'équipe de négociation du CSCSO présentera un accord de principe aux membres
+## Message important aux membres
+
+L'équipe de négociation du CSCSO présentera un accord de principe aux membres
 
 Il n'y aura pas de grève demain. Nos membres se rendront dans les écoles pour continuer à soutenir les étudiants avec lesquels nous sommes fiers de travailler.
 
