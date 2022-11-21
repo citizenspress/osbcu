@@ -1,6 +1,6 @@
 +++
 aliases = ""
-categories = ["Bargaining Update"]
+categories = ["Bargaining Updates"]
 date = 2022-11-07T21:00:00Z
 description = "Whatever else you’re hearing today, I want you to know one thing: today was a victory."
 image = "/img/41-1.png"
