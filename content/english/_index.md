@@ -10,7 +10,6 @@ title = "Welcome to the OSBCU"
 
 +++
 
-----
 
 > **[Find your strike location here](https://cupe.on.ca/gooddealnow/)**
 
