@@ -22,15 +22,6 @@ enableRobotsTXT = true
     name = "OSBCU"
     avatar = "img/avatar.png"
 
-<<<<<<< HEAD
-[languages.en.menu]
-  [[languages.en.menu.main]]
-    identifier = 'location finder'
-      name = 'Picket Finder'
-      url = 'https://cupe.on.ca/gooddealnow/'
-      weight = -110
-      pre = "<i>ACTION!</i>"
-=======
 # [languages.en.menu]
 #   [[languages.en.menu.main]]
 #     identifier = 'location finder'
@@ -38,7 +29,6 @@ enableRobotsTXT = true
 #       url = 'https://cupe.on.ca/dontbeabully/'
 #       weight = -110
 #       pre = "<i>ACTION!</i>"
->>>>>>> 697e881 (updated)
 
   [languages.fr]
     contentDir = "content/french"
