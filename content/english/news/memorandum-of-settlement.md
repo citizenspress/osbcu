@@ -39,8 +39,12 @@ CUPE – PART A: CENTRAL TERMS**
 
 ## **APPENDIX ll – DOES NOT FORM PART OF THE CENTRAL TERMS OF THE COLLECTIVE AGREEMENT**
 
-[appendix-iii-community-use-of-schools.pdf](/img/appendix-iii-community-use-of-schools.pdf "appendix-iii-community-use-of-schools.pdf")
+[appendix-ii-cupe-mou-actuarial-variation.pdf](/img/appendix-ii-cupe-mou-actuarial-variation.pdf "appendix-ii-cupe-mou-actuarial-variation.pdf")
 
 ## **APPENDIX III**
 
 [appendix-iii-community-use-of-schools.pdf](/img/appendix-iii-community-use-of-schools.pdf "appendix-iii-community-use-of-schools.pdf")
+
+## **APPENDIX IV**
+
+[appendix-iv-cupe-support-for-students-fund.pdf](/img/appendix-iv-cupe-support-for-students-fund.pdf "appendix-iv-cupe-support-for-students-fund.pdf")
