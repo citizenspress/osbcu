@@ -29,9 +29,9 @@ THE COUNCIL OF TRUSTEES’ ASSOCIATIONS (hereinafter the ‘CTA/CAE’)
 
 AND AGREED TO BY: THE CROWN
 
-[Memorandum of settlement](/img/cupe-mos-11_20_2022_-17h15.pdf)
+- [Memorandum of settlement](/img/cupe-mos-11_20_2022_-17h15.pdf)
 
-## APPENDIX I -- CUPE – PART A: CENTRAL TERMS**
+## APPENDIX I -- CUPE – PART A: CENTRAL TERMS
 
 - [appendix-i-collective-agreement.pdf](/img/appendix-i-collective-agreement_17h-15.pdf "appendix-i-collective-agreement_17h-15.pdf")
 
