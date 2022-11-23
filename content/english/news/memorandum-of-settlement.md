@@ -31,6 +31,10 @@ AND AGREED TO BY: THE CROWN
 
 * [Memorandum of settlement](/img/tentative_cupe_mos_2022_11_23.pdf)
 
+## Summary of the Tentative Agreement
+
+* [OSBCU Summary](/img/negotiations-english.pdf)
+
 ## APPENDIX I -- CUPE – PART A: CENTRAL TERMS
 
 * [tentative_appendix_i_part_a_central_terms__2022_11_23.pdf](/img/tentative_appendix_i_part_a_central_terms__2022_11_23.pdf "tentative_appendix_i_part_a_central_terms__2022_11_23.pdf")
