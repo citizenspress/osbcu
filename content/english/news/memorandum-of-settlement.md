@@ -29,20 +29,20 @@ THE COUNCIL OF TRUSTEES’ ASSOCIATIONS (hereinafter the ‘CTA/CAE’)
 
 AND AGREED TO BY: THE CROWN
 
-- [Memorandum of settlement](/img/cupe-mos-11_20_2022_-17h15.pdf)
+* [Memorandum of settlement](/img/tentative_cupe_mos_2022_11_23.pdf)
 
 ## APPENDIX I -- CUPE – PART A: CENTRAL TERMS
 
-- [appendix-i-collective-agreement.pdf](/img/appendix-i-collective-agreement_17h-15.pdf "appendix-i-collective-agreement_17h-15.pdf")
+* [tentative_appendix_i_part_a_central_terms__2022_11_23.pdf](/img/tentative_appendix_i_part_a_central_terms__2022_11_23.pdf "tentative_appendix_i_part_a_central_terms__2022_11_23.pdf")
 
 ## APPENDIX ll – DOES NOT FORM PART OF THE CENTRAL TERMS OF THE COLLECTIVE AGREEMENT
 
-- [appendix-ii-cupe-mou-actuarial-variation.pdf](/img/appendix-ii-cupe-mou-actuarial-variation.pdf "appendix-ii-cupe-mou-actuarial-variation.pdf")
+* [tentative_appendix_ii_cupe_mou_actuarial_variation_2022_11_23.pdf](/img/tentative_appendix_ii_cupe_mou_actuarial_variation_2022_11_23.pdf "tentative_appendix_ii_cupe_mou_actuarial_variation_2022_11_23.pdf")
 
 ## APPENDIX III
 
-- [appendix-iii-community-use-of-schools.pdf](/img/appendix-iii-community-use-of-schools.pdf "appendix-iii-community-use-of-schools.pdf")
+* [tentative_appendix_iii_community_use_of_schools_2022_11_23.pdf](/img/tentative_appendix_iii_community_use_of_schools_2022_11_23.pdf "tentative_appendix_iii_community_use_of_schools_2022_11_23.pdf")
 
 ## APPENDIX IV
 
-- [appendix-iv-cupe-support-for-students-fund.pdf](/img/appendix-iv-cupe-support-for-students-fund.pdf "appendix-iv-cupe-support-for-students-fund.pdf")
+* [tentative_appendix_iv_cupe_support_for_students_fund_2022_11_23.pdf](/img/tentative_appendix_iv_cupe_support_for_students_fund_2022_11_23.pdf "tentative_appendix_iv_cupe_support_for_students_fund_2022_11_23.pdf")
