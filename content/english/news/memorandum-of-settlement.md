@@ -1,12 +1,12 @@
 +++
 aliases = ""
-categories = ["Bargaining updates", ""]
+categories = ["Bargaining updates"]
 date = 2022-11-22T00:00:00Z
 description = "of all outstanding matters forming the agreement on central terms pursuant to the School Boards Collective Bargaining Act, 2014"
 image = ""
 lead = "of all outstanding matters forming the agreement on central terms pursuant to the School Boards Collective Bargaining Act, 2014"
 slug = "OSBCUTentativeAgreement"
-summary = ""
+summary = "Tentative agreement"
 tags = ["Bargaining", ""]
 thumbnail = ""
 title = "MEMORANDUM OF SETTLEMENT"
