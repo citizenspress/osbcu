@@ -91,6 +91,8 @@ My name is Melissa Martin, I am currently Head Steward of CUPE Local 3447 with t
 
 ![](/img/todd-300x300.png)
 
+vTodd has worked as an IT worker and has been a member for over two decades serving his local 1734 in many capacities such us Joint Job Evaluation Committee member, member at large, 2ndVP, VP, and currently as President. Over the course of many years, he has garnered much experience within all facets of union activism and is honoured to serve the OSBCU’s 55,000 members across the province as an Area 3 VP.
+
 ***
 
 ## Area 3 Mobilization Officer: Chris Demelo
@@ -186,7 +188,7 @@ My name is Carrie Boisvert I have been an Educational Assistant with the Durham 
 
 ***
 
-## Equality Representative: Jacqueline Ouellette 
+## Equality Representative: Jacqueline Ouellette
 
 ![](/img/executive-head-shots-300x300.png)
 
