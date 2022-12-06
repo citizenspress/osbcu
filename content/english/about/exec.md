@@ -162,6 +162,8 @@ Devin Klassen I’ve been a custodian for 8 years for Lakehead District School B
 
 ![](/img/17.png)
 
+Alyssa has been a Custodian with the Lakehead District School Board for 4 years. She has been working with her local 2486, in its mobilization efforts and is looking forward to working with the OSCBU/CSCSO as the new Area 7 Mobilizer. She is a Business Human Resource graduate and is passionate about human rights and advocacy for all members.
+
 ***
 
 ## Francophone mobilization officer: Mitch Gagnon
