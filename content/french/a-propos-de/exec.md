@@ -159,6 +159,8 @@ Devin Klassen Je suis concierge depuis 8 ans pour le Lakehead District School Bo
 
 ![](/img/17.png)
 
+Alyssa est concierge au conseil scolaire du district de Lakehead depuis 4 ans. Elle a travaillé avec sa section locale 2486 dans ses efforts de mobilisation et a hâte de travailler avec l'OSCBU/CSCSO en tant que nouvelle mobilisatrice de la zone 7. Elle est diplômée en ressources humaines en affaires et se passionne pour les droits de la personne et la défense de tous les membres.
+
 ***
 
 ## Mobilisatrice francophone: Mitch Gagnon
@@ -189,4 +191,4 @@ Je m'appelle Carrie Boisvert. J'ai été assistante en éducation au Durham Cath
 
 ![](/img/executive-head-shots-300x300.png)
 
- Je suis délégué syndical et membre de la section locale 1348 du SCFP et je travaille pour le conseil scolaire du district du comté de Greater Essex en tant que secrétaire. Je travaille pour la commission scolaire depuis 5 ans. Je siège actuellement aux comités du SCFP-Ontario et du SCFP national des jeunes travailleurs et j'ai récemment été élue représentante de l'équité de l'OSBCU.
+Je suis délégué syndical et membre de la section locale 1348 du SCFP et je travaille pour le conseil scolaire du district du comté de Greater Essex en tant que secrétaire. Je travaille pour la commission scolaire depuis 5 ans. Je siège actuellement aux comités du SCFP-Ontario et du SCFP national des jeunes travailleurs et j'ai récemment été élue représentante de l'équité de l'OSBCU.
