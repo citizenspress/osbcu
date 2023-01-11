@@ -97,7 +97,7 @@ vTodd has worked as an IT worker and has been a member for over two decades serv
 
 ## Area 3 Mobilization Officer: Chris Demelo
 
-![](/img/16.png)
+![](/img/19.png)
 
 Chris has been a custodian and maintenance worker with the Peel district School Board for 13 years. He is the past trustee, steward, and current Member at Large of Local 2544 where he represents members of the Peel District School Board. Which include maintenance, custodial, food services, and AV. Chris is looking forward to working with the Locals in Area 3, with his good nature and dad jokes.
 
@@ -121,15 +121,15 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 
 ***
 
-## Area 5 Vice-President: Liz James
+## Area 5 Vice-President: Erin Provost
 
-![](/img/9.png)
-
-Liz is president of CUPE local 1479, where she holds the position of Chief Steward. She has worked for the Algonquin and Lakeshore Catholic District School Board since 2000 in the roles of Educational Assistant and Learning Resource Assistant (library worker) in two elementary schools.
+![](/img/20.png)
 
 ***
 
-## Area 5 Mobilization Officer: Vacant
+## Area 5 Mobilization Officer: Jessica Sheahan
+
+![](/img/21.png)
 
 ***
 
@@ -176,9 +176,7 @@ My name is Michel Gagnon, originally from the French-speaking region of Kapuskas
 
 ***
 
-## Health & Safety Rep: Hugo Toste
-
-![](/img/18.png)
+## Health & Safety Rep: Vacant 
 
 ***
 
