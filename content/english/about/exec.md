@@ -125,6 +125,8 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 
 ![](/img/20.png)
 
+I am an ECE with the Limestone Disctrict School Board in Kingston, and have been with the board since 2011. I got involved with my local in 2014 when I felt that ECE's didn't have a voice at the table. I have held various roles over the years and am currently the President of local 1480. I am passionate about helping members and making their working conditions better. I am thrilled to have the opportunity to work with the team of people within the OSBCU and to represent the members of Area 5.
+
 ***
 
 ## Area 5 Mobilization Officer: Jessica Sheahan
@@ -176,7 +178,7 @@ My name is Michel Gagnon, originally from the French-speaking region of Kapuskas
 
 ***
 
-## Health & Safety Rep: Vacant 
+## Health & Safety Rep: Vacant
 
 ***
 
