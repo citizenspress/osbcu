@@ -133,6 +133,8 @@ I am an ECE with the Limestone Disctrict School Board in Kingston, and have been
 
 ![](/img/21.png)
 
+I have been ECE with the Ottawa Catholic School Board for 12 years. I have been a steward with local 2357 for 9 years, and most redently was the Ottawa Regional Central strike committee lead during our historic movement. I have developed and true passion for advocating and organizing our power. I am excited to be the new Area 5 mobilizer and look forward to working with all our members.
+
 ***
 
 ## Area 6 Vice-President: Mike Galipeau
