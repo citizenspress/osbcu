@@ -31,6 +31,8 @@ A native of Belleville, Ontario, Laura is proud of her rural roots. She’s work
 
 Phone: 807-629-4632
 
+Rod was elect 1st Vice President of the OSBCU in 2019. Previously he held Area 1 VP in the former OSBCC from 2007-2018. He is also President of CUPE Local 2486 in Thunder Bay since 2000 and held various roles in his local since 1990. Rod works as a Head Custodian at Lakehead DSB starting his career in 1988.
+
 ***
 
 ## Francophone Vice-President: Christine Couture
