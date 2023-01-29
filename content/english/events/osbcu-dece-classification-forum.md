@@ -8,7 +8,7 @@ orgaEmail = "Info@osbcu.ca"
 startDate = "2023-02-13T18:30:00"
 tags = []
 thumbnail = ""
-title = "OSBCU DECE Classification Forum"
+title = "OSBCU DECE Classification Forum Meeting"
 translationKey = ""
 where = "Zoom"
 
