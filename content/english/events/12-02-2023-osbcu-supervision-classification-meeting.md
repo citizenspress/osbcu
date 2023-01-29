@@ -8,7 +8,7 @@ orgaEmail = "info@osbcu.ca"
 startDate = "2023-02-12T10:00:00"
 tags = []
 thumbnail = "/img/supervision-forum.png"
-title = "12 02 2023 OSBCU Supervision Classification Meeting"
+title = "OSBCU Supervision Classification Meeting"
 translationKey = ""
 where = "Zoom"
 
