@@ -16,4 +16,4 @@ where = "Zoom"
 +++
 ![](/img/library-forum.png)
 
-To register click here: [Library Worker Forum Registration Link](https://us02web.zoom.us/meeting/register/tZAldOirqjwuHNEx7J0whMgjLCsCTfQpFQwX)
+Click here to register: [Library Worker Forum Registration Link](https://us02web.zoom.us/meeting/register/tZAldOirqjwuHNEx7J0whMgjLCsCTfQpFQwX)
