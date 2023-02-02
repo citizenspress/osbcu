@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2023-02-01T12:00:00Z
-draft = true
 endDate = "2023-02-22T20:00:00"
 image = "/img/clerical-forum.png"
 orga = "OSBCU"
