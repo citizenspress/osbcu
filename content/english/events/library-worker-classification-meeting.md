@@ -8,7 +8,7 @@ orgaEmail = "info@osbcu.ca"
 startDate = "2023-02-18T13:00:00"
 tags = []
 thumbnail = ""
-title = "Library Worker Classification Meeting"
+title = "Library Worker Classification Forum"
 translationKey = ""
 where = "Zoom"
 

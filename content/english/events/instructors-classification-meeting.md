@@ -8,7 +8,7 @@ orgaEmail = "info@osbcu.ca"
 startDate = "2023-02-15T18:30:00"
 tags = []
 thumbnail = ""
-title = "Instructors Classification Meeting"
+title = "Instructors Classification Forum"
 translationKey = ""
 where = "Zoom"
 
