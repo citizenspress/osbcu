@@ -1,17 +1,17 @@
 +++
 categories = []
-date = ""
+date = 2023-02-06T12:00:00Z
 draft = true
-endDate = "2020-12-30T13:01:00"
-image = ""
-orga = ""
-orgaEmail = ""
-startDate = "2020-12-30T13:01:00"
+endDate = "2023-03-31T12:00:00"
+image = "/img/2023-osbcu-convention-second-call.png"
+orga = "CSCSO"
+orgaEmail = "info@osbcu.ca"
+startDate = "2023-03-27T13:30:00"
 tags = []
-thumbnail = ""
+thumbnail = "/img/2023-osbcu-convention-second-call.png"
 title = "Congrès du CSCSO 2023"
-translationKey = ""
-where = ""
+translationKey = "2023convention"
+where = "Centre Sheraton de Toronto"
 
 +++
 ## **Congrès du CSCSO Du 27 au 31 mars 2023**
