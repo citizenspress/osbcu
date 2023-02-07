@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2023-02-06T12:00:00Z
-draft = true
 endDate = "2023-03-31T12:00:00"
 image = "/img/2023-osbcu-convention-second-call.png"
 orga = "CSCSO"
