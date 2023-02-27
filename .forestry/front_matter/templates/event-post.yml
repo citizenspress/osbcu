@@ -62,6 +62,7 @@ fields:
     clock
   default: '2020-12-30T13:01:00'
 pages:
+- content/english/events/1-march-2023-undemocratic-unethical.md
 - content/english/events/12-02-2023-osbcu-supervision-classification-meeting.md
 - content/english/events/2022-osbcu-convention-june-5th-june-9th-2022.md
 - content/english/events/2023-osbcu-convention.md
