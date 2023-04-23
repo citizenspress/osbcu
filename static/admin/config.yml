@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: citizenspress/osbcu
   branch: main # Branch to update (optional; defaults to master)
   base_url: https://osbcu.ca
   auth_endpoint: /api/auth
