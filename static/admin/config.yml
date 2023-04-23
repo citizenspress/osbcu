@@ -30,7 +30,7 @@ collections:
 
   - name: 'news-fr'
     label: 'News French'
-    folder: 'content/french/communiquez'
+    folder: 'content/french/actualites'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -196,7 +196,7 @@ collections:
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'list' }
 
   - name: 'events-fr'
     label: 'Events French'
@@ -215,5 +215,5 @@ collections:
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Categories', name: 'categories', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'list' }
 
