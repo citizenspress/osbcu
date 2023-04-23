@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: 'news-en'
+    label: 'News English'
+    folder: 'content/english/news'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Lede', name: 'lead', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'news-fr'
+    label: 'News French'
+    folder: 'content/french/post'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: fals
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Lede', name: 'lead', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
