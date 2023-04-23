@@ -30,7 +30,7 @@ collections:
 
   - name: 'news-fr'
     label: 'News French'
-    folder: 'content/french/news'
+    folder: 'content/french/communiquez'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -48,3 +48,172 @@ collections:
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+  - name: 'materials-en'
+    label: 'Materials English'
+    folder: 'content/english/materials'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Lede', name: 'lead', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'Materials-fr'
+    label: 'Materials French'
+    folder: 'content/french/materiels'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Lede', name: 'lead', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+  - name: 'about-en'
+    label: 'About English'
+    folder: 'content/english/about'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Lede', name: 'lead', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'about-fr'
+    label: 'About French'
+    folder: 'content/french/a-propos-de'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Lede', name: 'lead', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'health-safety-en'
+    label: 'Health and Safety English'
+    folder: 'content/english/health-safety'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Lede', name: 'lead', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'health-safety-fr'
+    label: 'Health and Safety French'
+    folder: 'content/french/sante'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Lede', name: 'lead', widget: 'string' }
+      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Weight', name: 'weight', widget: 'string'}
+      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
+
+  - name: 'events-en'
+    label: 'Events English'
+    folder: 'content/english/events'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Where', name: 'where', widget: 'string' }
+      - { label: 'Start date-time', name: 'startDate', widget: 'string' }
+      - { label: 'End date-time', name: 'endDate', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+
+  - name: 'events-fr'
+    label: 'Events French'
+    folder: 'content/french/events'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Where', name: 'where', widget: 'string' }
+      - { label: 'Start date-time', name: 'startDate', widget: 'string' }
+      - { label: 'End date-time', name: 'endDate', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
+      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Image', name: 'thumbnail', widget: 'image'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Categories', name: 'categories', widget: 'string' }
+
