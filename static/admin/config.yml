@@ -25,6 +25,7 @@ collections:
       - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -46,6 +47,7 @@ collections:
       - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -68,6 +70,7 @@ collections:
       - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -89,6 +92,7 @@ collections:
       - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -111,6 +115,7 @@ collections:
       - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
@@ -131,6 +136,7 @@ collections:
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
       - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -152,6 +158,7 @@ collections:
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
       - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -167,6 +174,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Summary', name: 'summary', widget: 'string' }
       - { label: 'Lede', name: 'lead', widget: 'string' }
       - { label: 'slug', name: 'slug', widget: 'string' }
@@ -194,9 +202,10 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Categories', name: 'categories', widget: 'list' }
+
 
   - name: 'events-fr'
     label: 'Events French'
@@ -213,7 +222,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
       - { label: 'Link Title', name: 'linktitle', widget: 'string'}
+      - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Categories', name: 'categories', widget: 'list' }
 
