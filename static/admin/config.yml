@@ -30,10 +30,10 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Draft"
         name: "draft"
-	widget: "select"
-	options:
-	  - { label: "Draft", value: 'true'}
-	  - { label: "Publish", value: 'false'}
+        widget: "select"
+        options:
+         - { label: "Draft", value: 'true'}
+         - { label: "Publish", value: 'false'}
 
 
   - name: 'news-fr'
