@@ -20,11 +20,9 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'string' }
       - { label: 'Lede', name: 'lead', widget: 'string' }
-      - { label: 'slug', name: 'slug', widget: 'string' }
+      - { label: 'Link (one word)', name: 'slug', widget: 'string' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
-      - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
-      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -49,11 +47,8 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Summary', name: 'summary', widget: 'string' }
       - { label: 'Lede', name: 'lead', widget: 'string' }
-      - { label: 'slug', name: 'slug', widget: 'string' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
-      - { label: 'Weight', name: 'weight', widget: 'string'}
       - { label: 'Table of Contents', name: 'toc', widget: 'string'}
-      - { label: 'Link Title', name: 'linktitle', widget: 'string'}
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
