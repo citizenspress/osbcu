@@ -22,16 +22,21 @@ collections:
       - { label: 'Lede', name: 'lead', widget: 'string' }
       - { label: 'Link (one word)', name: 'slug', widget: 'string' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
-      - { label: 'Table of Contents (true or false)', name: 'toc', widget: 'string'}
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
-      - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Draft"
         name: "draft"
         widget: "select"
         options:
          - { label: "Draft", value: 'true'}
          - { label: "Publish", value: 'false'}
+      - label: "Table of Contents"
+        name: "toc"
+        widget: "select"
+        options:
+         - { label: "Table of Contents", value: 'true'}
+         - { label: "No TOC", value: 'false'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
 
 
   - name: 'news-fr'
@@ -48,16 +53,21 @@ collections:
       - { label: 'Summary', name: 'summary', widget: 'string' }
       - { label: 'Lede', name: 'lead', widget: 'string' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
-      - { label: 'Table of Contents (true of false)', name: 'toc', widget: 'string'}
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
-      - { label: 'Body', name: 'body', widget: 'markdown' }
       - label: "Draft"
         name: "draft"
         widget: "select"
         options:
          - { label: "Draft", value: 'true'}
          - { label: "Publish", value: 'false'}
+      - label: "Table of Contents"
+        name: "toc"
+        widget: "select"
+        options:
+         - { label: "Table of Contents", value: 'true'}
+         - { label: "No TOC", value: 'false'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
 
 
   - name: 'materials-en'
