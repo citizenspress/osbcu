@@ -22,7 +22,7 @@ collections:
       - { label: 'Lede', name: 'lead', widget: 'string' }
       - { label: 'Link (one word)', name: 'slug', widget: 'string' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
-      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Table of Contents (true or false)', name: 'toc', widget: 'string'}
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -48,7 +48,7 @@ collections:
       - { label: 'Summary', name: 'summary', widget: 'string' }
       - { label: 'Lede', name: 'lead', widget: 'string' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
-      - { label: 'Table of Contents', name: 'toc', widget: 'string'}
+      - { label: 'Table of Contents (true of false)', name: 'toc', widget: 'string'}
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
