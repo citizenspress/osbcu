@@ -57,6 +57,12 @@ collections:
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "Draft"
+        name: "draft"
+        widget: "select"
+        options:
+         - { label: "Draft", value: 'true'}
+         - { label: "Publish", value: 'false'}
 
 
   - name: 'materials-en'
@@ -212,6 +218,12 @@ collections:
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "Draft"
+        name: "draft"
+        widget: "select"
+        options:
+         - { label: "Draft", value: 'true'}
+         - { label: "Publish", value: 'false'}
 
 
   - name: 'events-fr'
@@ -232,4 +244,10 @@ collections:
       - { label: 'Categories', name: 'categories', widget: 'list' }
       - { label: 'Image', name: 'thumbnail', widget: 'image'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "Draft"
+        name: "draft"
+        widget: "select"
+        options:
+         - { label: "Draft", value: 'true'}
+         - { label: "Publish", value: 'false'}
 
