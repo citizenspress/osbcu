@@ -1,18 +1,19 @@
-+++
-categories = []
-date = ""
-description = "Executive"
-lead = ""
-linkTitle = "exec"
-slug = "exec"
-summary = "The full OSBCU executive."
-tags = []
-thumbnail = "/img/edu-workers.png"
-title = "OSBCU Executive"
-toc = true
-translationKey = "exec"
-
-+++
+---
+title: OSBCU Executive
+date: 2023-05-17T05:00:00.000Z
+summary: The full OSBCU executive.
+slug: exec
+translationKey: exec
+weight: The full OSBCU executive.
+toc: true
+thumbnail: /img/edu-workers.png
+tags: []
+description: Executive
+lead: The full OSBCU executive.
+categories: []
+linkTitle: exec
+linktitle: The full OSBCU executive.
+---
 ## President: Laura Walton
 
 ![](/img/1-3.png)
@@ -23,7 +24,7 @@ Laura was elected president of OSBCU in 2019, having first served as its vice-pr
 
 A native of Belleville, Ontario, Laura is proud of her rural roots. She’s worked in radio and marketing and as an educational assistant to children with special needs. A lifelong activist, Laura brings to the role of President her commitment, creativity and unshakeable belief in the power of public education.
 
-***
+- - -
 
 ## First Vice-President: Rod McGee
 
@@ -33,7 +34,7 @@ Phone: 807-629-4632
 
 Rod was elect 1st Vice President of the OSBCU in 2019. Previously he held Area 1 VP in the former OSBCC from 2007-2018. He is also President of CUPE Local 2486 in Thunder Bay since 2000 and held various roles in his local since 1990. Rod works as a Head Custodian at Lakehead DSB starting his career in 1988.
 
-***
+- - -
 
 ## Francophone Vice-President: Christine Couture
 
@@ -43,7 +44,7 @@ Phone: 613-808-4730
 
 Christine is the president of CUPE 5335 and a CUPE representative on the OMERS Reference Group. She works as a library technician with Conseil des écoles publiques de l'Est de l'Ontario in Ottawa.
 
-***
+- - -
 
 ## Secretary-Treasurer: Tammy Graham
 
@@ -53,7 +54,7 @@ Phone: 705-238-9259
 
 Tammy is Secretary-Treasurer for CUPE 2486 and a Custodian with the Lakehead District School Board. She was a member of CUPE 3987 until family reasons took her to Thunder Bay. She is passionate about her Union and its members.
 
-***
+- - -
 
 ## Area 1 Vice-President: Joe Tigani
 
@@ -61,7 +62,7 @@ Tammy is Secretary-Treasurer for CUPE 2486 and a Custodian with the Lakehead Dis
 
 Joe is the Area 1 VP and president of CUPE Local 3615. Joe Tigani is also an educational assistant at a local high school with the Huron Perth Catholic District School Board. Joe sits on the JHSC, Bargaining Committee, PD planning, CET, DDCP, System Calendar Committee. Joe is thrilled to serve the members of 3615, Area 1 and the OSBCU.
 
-***
+- - -
 
 ## Area 1 Mobilization Officer: Jennifer Eckert
 
@@ -69,7 +70,7 @@ Joe is the Area 1 VP and president of CUPE Local 3615. Joe Tigani is also an edu
 
 An educational assistant for over 20 years, Jennifer Eckert is also Chief Steward for CUPE 7575. The Local represents educational assistants and instructional assistants with the Thames Valley District School board in London, Ontario.
 
-***
+- - -
 
 ## Area 2 Vice-President: Keith Levere
 
@@ -79,15 +80,15 @@ Keith Levere is an Educational Assistant working in a K-12 school with the Distr
 
 In his spare time, Keith is a sports trainer for junior-level hockey and lacrosse.
 
-***
+- - -
 
-## Area 2 Mobilization Officer: Melissa Martin
+## Area 2 Mobilization Officer: Christa Rioux
 
-![](/img/8.png)
+![]()
 
-My name is Melissa Martin, I am currently Head Steward of CUPE Local 3447 with the Bruce Grey Catholic District School Board. I have been an active member of our Local since I started working as an Office Administrator way back in 2010. I am both excited and looking forward to working for Area 2 as the new Mobilization Officer, and the whole of the OSBCU Executive.
 
-***
+
+- - -
 
 ## Area 3 Vice-President: Todd Canning
 
@@ -95,7 +96,7 @@ My name is Melissa Martin, I am currently Head Steward of CUPE Local 3447 with t
 
 vTodd has worked as an IT worker and has been a member for over two decades serving his local 1734 in many capacities such us Joint Job Evaluation Committee member, member at large, 2ndVP, VP, and currently as President. Over the course of many years, he has garnered much experience within all facets of union activism and is honoured to serve the OSBCU’s 55,000 members across the province as an Area 3 VP.
 
-***
+- - -
 
 ## Area 3 Mobilization Officer: Chris Demelo
 
@@ -103,7 +104,7 @@ vTodd has worked as an IT worker and has been a member for over two decades serv
 
 Chris has been a custodian and maintenance worker with the Peel district School Board for 13 years. He is the past trustee, steward, and current Member at Large of Local 2544 where he represents members of the Peel District School Board. Which include maintenance, custodial, food services, and AV. Chris is looking forward to working with the Locals in Area 3, with his good nature and dad jokes.
 
-***
+- - -
 
 ## Area 4 Vice-President: Laurie Lucciola
 
@@ -111,7 +112,7 @@ Chris has been a custodian and maintenance worker with the Peel district School 
 
 Laurie has been a Head Custodian for Kawartha Pine Ridge District School board for over 15 years. Laurie started her career with the board as an Educational Assistant as well as having a previous career as a DECE. She has had many roles within her Local Union such as Health and Safety, Education Officer, Job Evaluation, and currently sits as the Recording Secretary. She is very excited to be representing Area 4 and the OSBCU as a whole.
 
-***
+- - -
 
 ## Area 4 Mobilization Officer: Lori-Ann Richards
 
@@ -121,7 +122,7 @@ I have been an Educational Assistant with the Durham District School Board for 2
 I am the EA Chairperson for the Educational Assistants and a Disability Management Rep for CUPE Local 218.
 I enjoy helping all members and being active in both my role with Local 218 and as the Durham/Northumberland CUPE Council Vice- President.
 
-***
+- - -
 
 ## Area 5 Vice-President: Erin Provost
 
@@ -129,7 +130,7 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 
 I am an ECE with the Limestone Disctrict School Board in Kingston, and have been with the board since 2011. I got involved with my local in 2014 when I felt that ECE's didn't have a voice at the table. I have held various roles over the years and am currently the President of local 1480. I am passionate about helping members and making their working conditions better. I am thrilled to have the opportunity to work with the team of people within the OSBCU and to represent the members of Area 5.
 
-***
+- - -
 
 ## Area 5 Mobilization Officer: Jessica Sheahan
 
@@ -137,7 +138,7 @@ I am an ECE with the Limestone Disctrict School Board in Kingston, and have been
 
 I have been ECE with the Ottawa Catholic School Board for 12 years. I have been a steward with local 2357 for 9 years, and most redently was the Ottawa Regional Central strike committee lead during our historic movement. I have developed and true passion for advocating and organizing our power. I am excited to be the new Area 5 mobilizer and look forward to working with all our members.
 
-***
+- - -
 
 ## Area 6 Vice-President: Mike Galipeau
 
@@ -145,7 +146,7 @@ I have been ECE with the Ottawa Catholic School Board for 12 years. I have been 
 
 Mike works at the Algoma District School Board as a Custodian and he is also the President of CUPE 16.
 
-***
+- - -
 
 ## Area 6 Mobilization Officer: Catherine Taggert
 
@@ -154,7 +155,7 @@ Mike works at the Algoma District School Board as a Custodian and he is also the
 Catherine has been an elementary school secretary with the Near North District School Board for 15 years. She is the past president and current secretary-treasurer of Local 1165 where she represents members of the Near North District School Board, Conseil scolaire catholique Franco Nord, Nipissing-Parry Sound Student Transportation and Canadore College Food Services.
 Catherine is looking forward to working with the Locals in Area 6.
 
-***
+- - -
 
 ## Area 7 VP: Devin Klassen
 
@@ -162,7 +163,7 @@ Catherine is looking forward to working with the Locals in Area 6.
 
 Devin Klassen I’ve been a custodian for 8 years for Lakehead District School Board. I am CUPE Local 2486 Head Shop Steward and Area 7 VP for the OSBCU/CSCSO. I am a Broadcasting graduate with a background working in radio.
 
-***
+- - -
 
 ## Area 7 Mobilization Officer: Alyssa McGee
 
@@ -170,7 +171,7 @@ Devin Klassen I’ve been a custodian for 8 years for Lakehead District School B
 
 Alyssa has been a Custodian with the Lakehead District School Board for 4 years. She has been working with her local 2486, in its mobilization efforts and is looking forward to working with the OSCBU/CSCSO as the new Area 7 Mobilizer. She is a Business Human Resource graduate and is passionate about human rights and advocacy for all members.
 
-***
+- - -
 
 ## Francophone mobilization officer: Mitch Gagnon
 
@@ -180,11 +181,13 @@ Hello,
 
 My name is Michel Gagnon, originally from the French-speaking region of Kapuskasing. Passionate about nature, I studied as a technician in forestry and fisheries and wildlife management. I worked 10 years as a heavy truck driver in the forestry industry. During the summer months, I spend my free time camping and fishing. In 2004 I came to North bay to start a new job at a secondary school. I was elected as vice-president for 9 months before becoming president of local 4865 for 3 years which covers an area from Parry Sound to Hearst. After attending a few CSCSO conferences, I decided to introduce myself as the French-speaking mobilizer executive of the CSCSO. I am dedicated to representing the rights of Francophone members in Ontario.
 
-***
+- - -
 
-## Health & Safety Rep: Vacant
+## Health & Safety Darren Levere
 
-***
+
+
+- - -
 
 ## Injured Worker Rep: Carrie Boisvert
 
@@ -192,7 +195,7 @@ My name is Michel Gagnon, originally from the French-speaking region of Kapuskas
 
 My name is Carrie Boisvert I have been an Educational Assistant with the Durham Catholic District School Board for over 20 years. I am currently on a leave taking the role as the Disability Coordinator for Local 218. I have been a Health and Safety rep for the last 7 years with a passion to ensure workers are safe in the workplace and return home to their families the way they left. I look forward in working with the OSBCU as the injured worker rep.
 
-***
+- - -
 
 ## Equality Representative: Jacqueline Ouellette
 
