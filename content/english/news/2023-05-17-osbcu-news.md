@@ -245,4 +245,4 @@ Use the form to confirm your decision to join the OMERS plan or not. Then return
 
 A non-full-time employee who elects to enrol in the pension plan begins to participate in the plan as of their employer’s next available pay period following receipt of the election form, and no later than the end of the month following the month in which the completed form is received.
 
-Download Newsletter: [OSBCU News](https://osbcu-my.sharepoint.com/:b:/g/personal/mmaguire_osbcu_ca/Ecb6PF4Uo3pDguFF1mkToL0Bf1lP1XiJt511My17MPtUAg?e=4bs17o)
+Download Newsletter: [OSBCU News](static/img/osbcu-newsletter_202304_eng-2-.pdf)
