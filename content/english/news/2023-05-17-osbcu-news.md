@@ -12,7 +12,9 @@ thumbnail: /img/pg1-en.jpg
 draft: "true"
 toc: "true"
 ---
-# **OSBCU News**
+# **OSBCU News.**                     
+
+![](/img/cp165275957.jpg)
 
 ### **President’s column**
 
@@ -27,6 +29,8 @@ I want to give a shout out to your Newsletter Committee: Carrie Boisvert, Chris 
  Because of what you did last year, Ontario’s amazing education workers have become an inspiration for workers across the country. As we move forward, let’s hone and grow our collective power to address your key issues such as making sure there are enough of us in schools to provide the services students need and parents expect, the safety of our schools (with focus on ending violence in the workplace), and ensuring that the negotiations for all local collective agreements are completed in the next 90 days.
 
 We made history in the fall of 2022. More importantly, you made real gains in your contract for the first time in a decade. Just imagine what we can accomplish together moving forward. 
+
+![](/img/20220820_leadershipmeeting_img_1759-2.jpg)
 
 # Gains Across Ontario: Workers winning beyond $1 more per hour.
 
@@ -49,6 +53,8 @@ Windsor Essex Catholic District School Board education workers bargained improve
 In 2022, our local bargaining team found something the board needed addressed and presented a solution that benefited workers for all future agreements and management right now.
 
 “This round of bargaining we were able to point to supply staff shortages being at an all-time high,” Sawchuck said.
+
+![](/img/photo_local1358_05_20221019.jpg)
 
 “We pointed out to the board’s negotiators that we had many supplies leave the board’s employ because they were able to secure permanent employment with benefits elsewhere.”
 
@@ -92,6 +98,8 @@ This means members who have previously not had access to permanent jobs with the
 
 Education workers will also now be able to apply for recognition of their years of service with the board and be placed on the salary scale based on their work experience.
 
+![](/img/thumbnail_img_7931.jpg)
+
 ###### **CUPE Local 4148**
 
 In Sault Ste. Marie, CUPE Local 4148 proudly reported that frontline education workers employed by Huron-Superior Catholic District School Board got the unnecessary distance restriction removed from their collective agreement’s bereavement leave provisions.
@@ -119,6 +127,8 @@ Workers pigeonholed as “casual” saw organizing for power collectively result
 “This win is a bid deal for casuals because managers so often treat them as second class workers,” Krauter concluded.
 
 # Classification Meetings
+
+![](/img/20220623_deliveryofsupermajoritylettertopremier_140848000_ios.jpg)
 
 **CARRIE BOISVERT Whitby**
 
@@ -149,6 +159,8 @@ There are currently just 12 locals that have Support for Students Fund FTE agree
 Establishing your board’s FTE number as of December 19, 2022 is the first step in being able to track and react to job cuts.
 
 # 2023 Convention
+
+![](/img/convention.jpg)
 
 **LAURA WALTON Markham**
 
@@ -199,6 +211,8 @@ Also, an employee who is hired partway through the school year is immediately el
 
 There are special provisions dealing with how sick leave is refreshed for any employee who is off at the end of one school year and whose absence continues into the next school year. Consult your CUPE local representatives for advice if you are in that situation.
 
+![](/img/understanding-ca.jpg)
+
 **What if I’m not permanent? Do I get sick leave?**
 
 You might. In addition to permanent employees, employees in long-term supply assignments are eligible for sick leave.
@@ -217,6 +231,8 @@ For example, if in the 2021-22 school year you used zero of the 11 100%-paid sic
 **Questions?**
 
 Talk to your CUPE steward or your local executive committee members.
+
+![](/img/omers.jpg)
 
 # **OMERS Pension Plan Change**
 
