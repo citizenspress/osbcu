@@ -8,7 +8,7 @@ summary: Ce bulletin est votre bulletin !
 lead: Nouvelles du CSCSO
 translationKey: Newsletter
 thumbnail: /img/pg-1-fr.jpg
-draft: "true"
+draft: "false"
 toc: "true"
 ---
 # Nouvelles du CSCSO
