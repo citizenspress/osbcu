@@ -9,7 +9,7 @@ lead: OSBCU News
 slug: Newsletter
 translationKey: Newsletter
 thumbnail: /img/pg1-en.jpg
-draft: "true"
+draft: "false"
 toc: "true"
 ---
 # **OSBCU News.**                     
