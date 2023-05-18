@@ -15,6 +15,8 @@ toc: "true"
 
 ### **Chronique de la présidente**
 
+![](/img/cp165275957.jpg)
+
 **LAURA WALTON  Markham**
 
 C’est avec grand plaisir que j’accueille la relance du bulletin du Conseil des syndicats des conseils scolaires de l’Ontario (CSCSO) du SCFP-Ontario. Au cours des 12 derniers mois, le Comité exécutif du CSCSO s’est efforcé d'optimiser la communication directe avec les membres, et le nouveau bulletin trimestriel est un autre moyen de poursuivre cet effort.
@@ -26,6 +28,8 @@ Je tiens à féliciter votre Comité du bulletin, constitué de Carrie Boisvert,
 Grâce aux efforts que vous avez déployés l'an dernier, les formidables travailleurs et travailleuses de l'éducation de l'Ontario sont devenu(e)s une source d'inspiration pour les travailleurs et travailleuses à la grandeur du pays. Alors que nous allons de l'avant, affinons et augmentons notre pouvoir collectif pour aborder vos principaux enjeux, notamment veiller à ce que nous soyons suffisamment nombreux(nombreuses) dans les écoles pour fournir les services dont les élèves ont besoin et auxquels les parents s'attendent, assurer la sécurité dans nos écoles (en mettant l'accent sur l'élimination de la violence en milieu de travail) et veiller à ce que les négociations de toutes les conventions collectives locales soient terminées dans les prochains 90 jours.
 
 Nous sommes entrés dans l'histoire à l'automne 2022. Plus important encore, vous avez obtenu des gains réels dans votre convention collective pour la première fois en dix ans. Imaginez ce que nous pouvons accomplir ensemble à l’avenir. 
+
+![](/img/20220820_leadershipmeeting_img_1759-2.jpg)
 
 # **Obtention de gains à la grandeur de l'Ontario : les travailleurs et travailleuses gagnent plus d’un dollar de plus par heure.**
 
@@ -49,6 +53,8 @@ Aucun libellé indiquait que l'ancienneté devait être un facteur. 
 En 2022, notre équipe de négociation locale a trouvé un élément dont le conseil scolaire avait besoin et a présenté une solution qui profitera aux travailleurs et travailleuses lors de futures conventions collectives et à la gestion, dès maintenant.
 
 Lors de cette ronde de négociations, nous avons souligné que les pénuries en matière de suppléant(e)s étaient à un niveau record », a déclaré Mme Sawchuck.
+
+![](/img/photo_local1358_05_20221019.jpg)
 
 Nous avons fait remarquer aux négociateurs(trices) du conseil scolaire que plusieurs suppléant(e)s avaient quitté l'emploi du conseil scolaire parce qu'ils(elles) avaient obtenu un emploi permanent avec des avantages sociaux ailleurs. 
 
@@ -96,6 +102,8 @@ Cela signifie que les membres qui n'avaient auparavant pas accès à des emplois
 
 Les travailleurs et travailleuses de l’éducation pourront aussi demander la reconnaissance de leurs années de service au conseil scolaire et être placé(e)s sur l'échelle salariale en fonction de leur expérience de travail.
 
+![](/img/thumbnail_img_7931.jpg)
+
 **La section locale 4148**
 
 À Sault Ste. Marie, la section locale 4148 du SCFP, a fièrement signalé que les travailleurs et travailleuses de l'éducation de première ligne à l’emploi du Conseil scolaire de district catholique Huron-Superior ont obtenu la suppression de la restriction inutile sur la distance contenue dans la disposition sur les congés de deuil de leur convention collective.Avant la ratification de leur nouvelle convention collective, les travailleurs et travailleuses pouvaient généralement se prévaloir de trois jours de congé de deuil, mais de cinq jours si le(la) défunt(e) se trouvait à plus de 160 km de l'employé(e).
@@ -121,6 +129,8 @@ Je suis à l’emploi de ce conseil scolaire depuis plus de vingt ans. À l'épo
 L'ancien libellé étant alors en vigueur, j'ai perdu mon poste. Je suis redevenue occasionnelle l'année suivante et j'ai dû postuler comme tout(e) nouveau(nouvelle) employé(e) qui partait de zéro, a déclaré Mme Krauter.
 
 Cette victoire signifie beaucoup pour les travailleurs et travailleuses occasionnel(le)s car les gestionnaires les traitent souvent comme des travailleurs et travailleuses de seconde classe, a-t-elle conclu.
+
+![](/img/20220623_deliveryofsupermajoritylettertopremier_140848000_ios.jpg)
 
 # **Réunions de classification**
 
@@ -151,6 +161,8 @@ Je remercie tous(toutes) les travailleurs et travailleuses qui ont effectué le 
 Il n'y a présentement que 12 sections locales dont les ententes du Fonds d’aide aux élèves - ÉTP sont en suspens et neuf différends centraux ont été logés au sujet du nombre d'ÉTP.
 
 Établir le nombre d'ÉTP de votre conseil scolaire au 19 décembre 2022 est la première étape pour pouvoir faire le suivi et réagir aux suppressions d'emplois.
+
+![](/img/convention.jpg)
 
 # **Congrès du CSCSO de 2023**
 
@@ -197,8 +209,9 @@ Vous pouvez obtenir jusqu'à six semaines de congé de maladie à 100 % pour fai
 Les dispositions relatives à vos congés de maladie sont en deux volets, soit :
 
 1. Congés de maladie - 11 jours à 100 % de la rémunération.
-
 2. Congé d’invalidité à court terme - 120 jours à 90 % de la rémunération.
+
+![](/img/understanding-ca.jpg)
 
 Les jours de congé de maladie et d’invalidité à court terme sont reconstitués au début de chaque année scolaire.
 
@@ -226,6 +239,8 @@ Questions?
 
 Pour toute question, communiquez avec votre délégué(e) syndical(e) du SCFP ou avec un membre du Comité exécutif de votre section locale.
 
+![](/img/omers.jpg)
+
 # **Modification du régime de retraite d’OMERS**
 
 **MIKE GALIPEAU  Sault Ste Marie**
@@ -237,7 +252,6 @@ Une modification importante a été apportée au régime de retraite d'OMERS pou
 Votre conseil scolaire avait deux options, à savoir :
 
 1. Les employeurs pouvaient envoyer la trousse d'adhésion à OMERS directement à leurs employé(e)s n’occupant pas un poste à temps plein; ou
-
 2. À compter de janvier 2023, ils pouvaient demander à OMERS de faire l'offre à leurs employé(e)s n’occupant pas un poste à temps plein en leur nom.
 
 Quelle que soit l'option retenue, votre employeur doit fournir à OMERS des informations détaillées sur ses employé(e)s n’occupant pas un poste à temps plein dans les 30 jours suivant l'embauche de chaque travailleur et travailleuse.
