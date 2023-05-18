@@ -267,3 +267,5 @@ Vous avez l’option d'adhérer et de cotiser au régime de retraite principal d
 Utilisez le formulaire pour confirmer votre décision d'adhérer ou non au régime d’OMERS. Puis, retournez le formulaire dûment rempli à votre employeur dès que possible.
 
 Un(e) employé(e) n’occupant pas un poste à temps plein et qui choisit d'adhérer au régime de retraite commence à y participer à compter de la période de paie disponible de son employeur qui suit la réception du formulaire de choix, et au plus tard à la fin du mois qui suit le mois au cours duquel le formulaire dûment rempli a été reçu.
+
+Download Nouvelles du CSCSO
