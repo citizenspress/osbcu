@@ -19,6 +19,4 @@ thumbnail: /img/classifications-flyer.png
 draft: "false"
 toc: "false"
 ---
-
-
 ![](/img/classifications-flyer.png)
