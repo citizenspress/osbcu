@@ -1,9 +1,9 @@
 ---
 title: Community BBQ Event
 where: 41 Veterans Rd, Copper Cliff - CUPE 4705 Office
-startDate: "July 7, 2023 at 4:30pm "
-endDate: July 7, 2023 at 7:00pm
-date: 2023-07-05T14:52:48.527Z
+startDate: "2023-07-07T16:30:00"
+endDate: "2023-07-07T18:00:00"
+date: "2023-07-05"
 translationKey: BBQ
 linktitle: Community
 categories:
