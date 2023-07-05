@@ -22,7 +22,7 @@
 
 <ul>
   <li>Date: <b>{{ dateFormat "January 2, 2006" .Params.startDate }}</b></li>
-  <li>Start Time: {{ .Params.startDate | time.Format ":time_short" "America/New_York" }}
+  <li>Start Time: {{ .Params.startDate | time.Format ":time_short" }}
   <li>End Time: {{ .Params.endDate | time.Format ":time_short" }}</li>
   <li>Location: {{ .Params.where }}</li>
   <li>{{ .Params.orga }}</li>
