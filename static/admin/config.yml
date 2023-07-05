@@ -215,7 +215,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Where', name: 'where', widget: 'string' }
-      - { label: 'Start date-time', name: 'startDate', widget: 'string' }
+      - { label: 'Start date-time', name: 'startDate', widget: 'datetime' }
       - { label: 'End date-time', name: 'endDate', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Translation Key', name: 'translationKey', widget: 'string'}
