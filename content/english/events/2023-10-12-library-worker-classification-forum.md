@@ -8,7 +8,7 @@ translationKey: Library
 linktitle: Library
 categories:
   - OurEvents
-thumbnail: /img/professional-forum.png
+thumbnail: /img/library-forum.png
 draft: "false"
 ---
 Description
