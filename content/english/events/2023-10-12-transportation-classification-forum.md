@@ -2,7 +2,7 @@
 title: Transportation Classification Forum
 where: Zoom
 startDate: 2023-10-15T13:00:00
-endDate: 2023-10-14:30:00
+endDate: 2023-10-15T14:30:00
 date: 2023-10-12T16:21:26.738Z
 translationKey: Transportation
 linktitle: Transportation
