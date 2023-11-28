@@ -86,8 +86,6 @@ In his spare time, Keith is a sports trainer for junior-level hockey and lacross
 
 ![]()
 
-
-
 - - -
 
 ## Area 3 Vice-President: Todd Canning
@@ -116,7 +114,7 @@ Laurie has been a Head Custodian for Kawartha Pine Ridge District School board f
 
 ## Area 4 Mobilization Officer: Lori-Ann Richards
 
-![](/img/11.png)
+![](/img/8a45f083-7d03-4aae-b32b-2fdc9ef37fb5.jpeg)
 
 I have been an Educational Assistant with the Durham District School Board for 28 years and have been a Bargaining Rep for 20 years.
 I am the EA Chairperson for the Educational Assistants and a Disability Management Rep for CUPE Local 218.
@@ -124,19 +122,19 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 
 - - -
 
-## Area 5 Vice-President: Erin Provost
+## Area 5 Vice-President: Sheena Hagerman
 
-![](/img/20.png)
+![]()
 
-I am an ECE with the Limestone Disctrict School Board in Kingston, and have been with the board since 2011. I got involved with my local in 2014 when I felt that ECE's didn't have a voice at the table. I have held various roles over the years and am currently the President of local 1480. I am passionate about helping members and making their working conditions better. I am thrilled to have the opportunity to work with the team of people within the OSBCU and to represent the members of Area 5.
+Coming soon!
 
 - - -
 
-## Area 5 Mobilization Officer: Jessica Sheahan
+## Area 5 Mobilization Officer: Vacant
 
-![](/img/21.png)
+![]()
 
-I have been ECE with the Ottawa Catholic School Board for 12 years. I have been a steward with local 2357 for 9 years, and most redently was the Ottawa Regional Central strike committee lead during our historic movement. I have developed and true passion for advocating and organizing our power. I am excited to be the new Area 5 mobilizer and look forward to working with all our members.
+Vacant 
 
 - - -
 
@@ -183,13 +181,13 @@ My name is Michel Gagnon, originally from the French-speaking region of Kapuskas
 
 - - -
 
-## Health & Safety Darren Levere
+## Health & Safety Representative:  Darren Levere
 
-
+![](/img/executive-head-shots-300x300-darren-l.png)
 
 - - -
 
-## Injured Worker Rep: Carrie Boisvert
+## Injured Worker Representative: Carrie Boisvert
 
 ![](/img/13.png)
 
