@@ -72,13 +72,11 @@ An educational assistant for over 20 years, Jennifer Eckert is also Chief Stewar
 
 - - -
 
-## Area 2 Vice-President: Keith Levere
+## Area 2 Vice-President: Sarah Kuva
 
-![](/img/14.png)
+![]()
 
-Keith Levere is an Educational Assistant working in a K-12 school with the District School Board of Niagara. He is a Chief Steward for CUPE 4156, President of the Niagara District CUPE Council, and VP of the Niagara Reginal Labour Council. Keith was also the recipient of the Welland NDP’s Labour Activist Award for 2016.
 
-In his spare time, Keith is a sports trainer for junior-level hockey and lacrosse.
 
 - - -
 
@@ -114,7 +112,7 @@ Laurie has been a Head Custodian for Kawartha Pine Ridge District School board f
 
 ## Area 4 Mobilization Officer: Lori-Ann Richards
 
-![](/img/8a45f083-7d03-4aae-b32b-2fdc9ef37fb5.jpeg)
+![](/img/executive-head-shots-300x300-lori-ann.png)
 
 I have been an Educational Assistant with the Durham District School Board for 28 years and have been a Bargaining Rep for 20 years.
 I am the EA Chairperson for the Educational Assistants and a Disability Management Rep for CUPE Local 218.
