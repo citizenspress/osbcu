@@ -179,7 +179,7 @@ My name is Michel Gagnon, originally from the French-speaking region of Kapuskas
 
 ## Health & Safety Representative:  Darren Levere
 
-![](/img/executive-head-shots-300x300-darren-l.png)
+![](/img/executive-head-shots-300x300-darren.png)
 
 Member of Local 1317, Niagara Catholic DSB as an Educational Assistant with experience in both elementary and secondary schools.  Over 25 years of union activism in Health and Safety, Injured Worker Representation, and Political Action. Trained in both H&S and WSIB. Certified Worker with experience in both Multi Site and Site-Specific H&S committees. Active in both the Local and Niagara CUPE Council.  
 
