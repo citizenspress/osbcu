@@ -120,9 +120,9 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 
 ## Area 5 Vice-President: Sheena Hagerman
 
-![]()
+![](/img/executive-head-shots-300x300-sheena.png)
 
-Coming soon!
+Sheena has been CUPE 5678 member since 1998, is an ISSW currently and was previously an EA for 20 years. Now she is Chief Steward for her local and has been an active participant on her executive for the last 19 years holding many different roles from Recording Secretary to WSIB/RW Representative to VP.  Sheena is excited to have the opportunity to join the OSBCU as Area 5 VP in the interim. 
 
 - - -
 
