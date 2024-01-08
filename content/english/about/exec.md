@@ -74,7 +74,9 @@ An educational assistant for over 20 years, Jennifer Eckert is also Chief Stewar
 
 ## Area 2 Vice-President: Sarah Kuva
 
-![]()
+![](/img/sarah-kuva-executive-head-shots-300x300.png)
+
+I have been an Educational Assistant at Grand Erie District School Board for over 25 years. I have been involved with my local executive in many capacities since the first year I started with the board and I hold the position of President of Local 5100. 
 
 - - -
 
@@ -88,7 +90,7 @@ An educational assistant for over 20 years, Jennifer Eckert is also Chief Stewar
 
 ![](/img/todd-300x300.png)
 
-vTodd has worked as an IT worker and has been a member for over two decades serving his local 1734 in many capacities such us Joint Job Evaluation Committee member, member at large, 2ndVP, VP, and currently as President. Over the course of many years, he has garnered much experience within all facets of union activism and is honoured to serve the OSBCU’s 55,000 members across the province as an Area 3 VP.
+Todd has worked as an IT worker and has been a member for over two decades serving his local 1734 in many capacities such us Joint Job Evaluation Committee member, member at large, 2ndVP, VP, and currently as President. Over the course of many years, he has garnered much experience within all facets of union activism and is honoured to serve the OSBCU’s 55,000 members across the province as an Area 3 VP.
 
 - - -
 
