@@ -1,5 +1,5 @@
 ---
-title: CUPE Ontario School Board Council of Unions 7th Annual Convention
+title: 2024 CUPE Ontario School Board Council of Unions 7th Annual Convention
 where: "Sheraton Parkway North "
 startDate: 2024-03-24T18:00:00
 endDate: 2024-03-28T12:00:00
