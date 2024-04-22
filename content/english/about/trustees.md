@@ -1,35 +1,31 @@
-+++
-categories = []
-date = ""
-description = "Trustees"
-lead = ""
-linkTitle = "trustees"
-slug = "trustees"
-tags = []
-thumbnail = "/img/edu-workers.png"
-title = "OSBCU Trustees"
-toc = true
-translationKey = "trustees"
-summary = "The OSBCU Trustees."
-
-
-
-+++
-
+---
+title: OSBCU Trustees
+date: 2024-04-22T04:00:00.000Z
+summary: The OSBCU Trustees.
+slug: trustees
+translationKey: trustees
+weight: Trustees
+toc: true
+thumbnail: /img/edu-workers.png
+tags: []
+description: Trustees
+lead: Trustees
+categories: []
+linkTitle: trustees
+linktitle: Trustees
+---
 ## Michael Filice
 
 ![](/img/Filice.jpg)
 
-----
+- - -
 
-## Sue Wilkinson
+## Debbie Gillan
 
-![](/img/sue.jpg)
+![](/img/coming-soon.png)
 
+- - -
 
-----
+## Eddie Pereira 
 
-## Justin Dore
-
-
-![](/img/s-m.jpg)
+![](/img/coming-soon.png)
