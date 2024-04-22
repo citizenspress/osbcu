@@ -40,9 +40,13 @@ My name is Michel Gagnon, originally from the French-speaking region of Kapuskas
 
 ## Secretary-Treasurer: Jason Corbeil
 
-![]()
+![](/img/coming-soon.png)
 
+I am an Educational Assistant with the Kawartha Pine Ridge DSB, with 17 years of experience.  
 
+Currently, I sit on the Executive of CUPE Local 5555, as Secretary-Treasurer and have held the position since November 2017.  
+
+This new role as Secretary-Treasurer of the OSBCU is an opportunity to deepen my understanding beyond the local level. 
 
 - - -
 
@@ -90,15 +94,11 @@ Chris has been a custodian and maintenance worker with the Peel district School 
 
 ![]()
 
-
-
 - - -
 
 ## Area 4 Vice-President: Nora Shaughnessy
 
 ![]()
-
-
 
 - - -
 
@@ -115,8 +115,6 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 ## Area 5 Vice-President: Liz James
 
 ![](/img/4cd78a10-b302-4afc-ba9b-6d08b571b498.jpeg)
-
-
 
 - - -
 
@@ -140,15 +138,11 @@ Mike works at the Algoma District School Board as a Custodian and he is also the
 
 ![]()
 
-
-
 - - -
 
 ## Area 7 VP: Tammy Graham
 
 ![](/img/12.png)
-
-
 
 - - -
 
@@ -162,9 +156,11 @@ Alyssa has been a Custodian with the Lakehead District School Board for 4 years.
 
 ## Francophone mobilization officer: Ginette Poulin
 
-![]()
+![](/img/coming-soon.png)
 
+Ginette Poulin, originally from a cozy little town near Sudbury called St-Charles but the last 20 years I’ve been in Barrie. You'll usually find me with a fishing rod or hunting gear in hand, as those are my passions. For the past 13 years, i've been a head custodian for conseil CSC MonAvenir. During this time I have been chief Steward for three years and spent a solid eight years representing injured workers for cupe local 4340. 
 
+Now, in 2023, I got elected as president. I love to help my members and I'm big on keeping Francophone rights alive. It's all about making sure our heritage and culture stay strong. So yeah, that's a bit about me - custodian by day, advocate for others by night, and a proud Francophone. 
 
 - - -
 
@@ -178,12 +174,14 @@ Member of Local 1317, Niagara Catholic DSB as an Educational Assistant with expe
 
 ## Injured Worker Representative: Mechelle O'Hagan
 
-![]()
+![](/img/coming-soon.png)
 
-
+Mechelle is the Injured Worker Rep and President of CUPE 2512. Mechelle is a Library Technician for 25 years with the Waterloo Catholic District School Board. She is a Health & Safety Certified Member and WSIB Specialist of the JHSC. Equity Representative and stand up for all members.  
 
 - - -
 
-## Equality Representative: Jehan Bisnauth 
+## Equality Representative: Jehan Bisnauth
 
-![]()
+![](/img/coming-soon.png)
+
+I an Educational Assistant with Durham District School Board for over twelve years.  EA Steward, Bargaining Representative, By Laws and a Part of the International Solidarity Committee for CUPE.  I am committed to fostering inclusivity and fairness, dedicated to advocating for Equity in all facets of our union and working with each and every one to make a difference.
