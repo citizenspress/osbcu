@@ -92,13 +92,13 @@ Chris has been a custodian and maintenance worker with the Peel district School 
 
 ## Area 3 Mobilization Officer: Michelle Campbell
 
-![]()
+![](/img/coming-soon.png)
 
 - - -
 
 ## Area 4 Vice-President: Nora Shaughnessy
 
-![]()
+![](/img/coming-soon.png)
 
 - - -
 
@@ -120,7 +120,7 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 
 ## Area 5 Mobilization Officer: Kerry Webb
 
-![]()
+![](/img/coming-soon.png)
 
 Vacant 
 
@@ -136,7 +136,7 @@ Mike works at the Algoma District School Board as a Custodian and he is also the
 
 ## Area 6 Mobilization Officer: William Mollison
 
-![]()
+![](/img/coming-soon.png)
 
 - - -
 
