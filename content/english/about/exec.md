@@ -124,7 +124,7 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 
 ![](/img/coming-soon.png)
 
-Vacant 
+I am an Educational Assistant with the HPEDSB with 23 years’ experience. My involvement with LOCAL 1022 began in 2015 as a Steward representing Communicative Disorder Assistants (CDA), Designated Early Childhood Educators (DECE), and Educational Assistants (EA). With mentoring, and my need for growth, I continued to grow and took on the following roles withing Local 1022; Treasurer 2016 – 2019, Vice-President 2019- 2022, President 2022 – present.  I am a strong, confident advocate for our members, ensuring everyone has the same opportunities to grow and develop as respected members, workers, and community members.  
 
 - - -
 
