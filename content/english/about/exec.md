@@ -92,7 +92,9 @@ Chris has been a custodian and maintenance worker with the Peel district School 
 
 ## Area 3 Mobilization Officer: Michelle Campbell
 
-![](/img/coming-soon.png)
+![](/img/michelle-campbell-executive-head-shots-300x300.png)
+
+Michelle is an Educational Assistant (DSW) working in an elementary school in YRDSB.  She became active in her local (1734) in 2022 as a Member Organizer & Steward and is now a Member-At-Large. Michelle spoke as a frontline member at Queen's Park during OSBCU's benchmark strike campaign in 2022, participated in the OMERS "Cancel the Cuts" outreach, and was on the OSBCU Bylaw Committee in 2023 & 2024. In those same years, she's supported workers in Sudbury form a union with the National Organizing team.  Fresh knowledge & new experiences, combined with making connections with inspirational labour mentors, strengthen Michelle's resolve that we have the power to make improvements when we work together.  Michelle's goal is to continue to build worker power in Area 3 (and beyond).
 
 - - -
 
