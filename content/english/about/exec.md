@@ -16,7 +16,7 @@ linktitle: The full OSBCU executive.
 ---
 ## President: Joe Tigani
 
-![](/img/3.png)
+![](/img/executive-head-shots-300x300-joe-tigani.png)
 
 Joe is the Area 1 VP and president of CUPE Local 3615. Joe Tigani is also an educational assistant at a local high school with the Huron Perth Catholic District School Board. Joe sits on the JHSC, Bargaining Committee, PD planning, CET, DDCP, System Calendar Committee. Joe is thrilled to serve the members of 3615, Area 1 and the OSBCU. 
 
