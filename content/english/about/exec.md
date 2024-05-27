@@ -118,6 +118,10 @@ I enjoy helping all members and being active in both my role with Local 218 and 
 
 ![](/img/4cd78a10-b302-4afc-ba9b-6d08b571b498.jpeg)
 
+My name is Liz James, and I am excited to be the Area 5 VP again. Over the past 11 years i have been on OSBCC, OSBCU Mobilizer and Area VP.  I have worked at the Algonquin and Lakeshore Catholic District School Board for over 23 years. During that time, I have held a variety of roles, including Educational Assistant, Library Worker and School Secretary.   Now I hold a Clerk 2 position in Adult Education and ESL. 
+
+I come out of CUPE Local 1479, where I have been President for 8 years and Chief Steward for four years before that.  We have three separate bargaining units I’m responsible for, including negotiating each of their collective agreements. I did start out at the bargaining table centrally last round, but due to some personal issues I needed to step away that September. I’m looking forward to supporting our Are 5. getting ready for Bargaining in 2026 and getting us a deal that workers deserve!
+
 - - -
 
 ## Area 5 Mobilization Officer: Kerry Webb
