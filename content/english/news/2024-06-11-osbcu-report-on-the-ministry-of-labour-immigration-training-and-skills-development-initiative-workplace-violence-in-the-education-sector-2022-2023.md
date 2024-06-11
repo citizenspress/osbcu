@@ -23,9 +23,9 @@ translationKey: Violence
 categories:
   - HealthandSafety
 thumbnail: /img/violence-report.png
-draft: "false"
+draft: "true"
 toc: "false"
 ---
 View the full report here:
 
-[OSBCU Report MLITSD Violence in Education Sector enforcement and awareness.pdf](<OSBCU Report MLITSD Violence in Education Sector enforcement and awareness.pdf>)
+[OSBCU Report on the Ministry of Labour, Immigration, Training, and Skills Development Initiative Workplace Violence in the Education Sector 2022-2023](https://osbcu-my.sharepoint.com/:b:/g/personal/mmaguire_osbcu_ca/EfTvtwllG3RIv5AMOcqcFVEBKx9S6AZyD2xhuW8lFwlmsA?e=c6ZThl)
