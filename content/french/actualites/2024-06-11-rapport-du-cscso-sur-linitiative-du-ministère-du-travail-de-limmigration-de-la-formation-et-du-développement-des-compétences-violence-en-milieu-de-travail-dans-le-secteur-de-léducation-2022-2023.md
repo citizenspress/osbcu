@@ -32,9 +32,9 @@ translationKey: Violence
 categories:
   - HealthandSafety
 thumbnail: /img/violence-report.png
-draft: "true"
+draft: "false"
 toc: "false"
 ---
 Consultez le rapport complet ici :
 
-[CSCSO Rapport MTIFDC La violence au travail](<CSCSO Rapport MTIFDC La violence au travail>)
+**[Rapport du CSCSO sur l'Initiative du Ministère du Travail, de l'Immigration, de la Formation et du Développement des Compétences Violence en Milieu de Travail dans le Secteur de l'Éducation 2022-2023](https://osbcu-my.sharepoint.com/:f:/g/personal/mmaguire_osbcu_ca/Epm6qFyaZKBOizjz86jqcLcBjTHd1huIKdITheeQiDtD5g?e=16CUNe)**
