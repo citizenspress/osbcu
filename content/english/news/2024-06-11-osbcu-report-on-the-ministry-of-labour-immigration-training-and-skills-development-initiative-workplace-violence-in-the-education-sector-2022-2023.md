@@ -23,7 +23,7 @@ translationKey: Violence
 categories:
   - HealthandSafety
 thumbnail: /img/violence-report.png
-draft: "true"
+draft: "false"
 toc: "false"
 ---
 View the full report here:
