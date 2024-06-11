@@ -32,7 +32,7 @@ translationKey: Violence
 categories:
   - HealthandSafety
 thumbnail: /img/violence-report.png
-draft: "true"
+draft: "false"
 toc: "false"
 ---
 Consultez le rapport complet ici :
