@@ -32,9 +32,9 @@ translationKey: Violence
 categories:
   - HealthandSafety
 thumbnail: /img/violence-report.png
-draft: "true"
+draft: "false"
 toc: "false"
 ---
 Consultez le rapport complet ici :
 
-**[Rapport du CSCSO sur l'Initiative du Ministère du Travail, de l'Immigration, de la Formation et du Développement des Compétences Violence en Milieu de Travail dans le Secteur de l'Éducation 2022-2023](https://osbcu-my.sharepoint.com/:b:/g/personal/mmaguire_osbcu_ca/EcJ1I6aVgdJDkIEBV3cTyiwBABCkrrMg61Zw_XHS7XJ9Jg?e=MLbwfK)**
+**[Rapport du CSCSO sur l'Initiative du Ministère du Travail, de l'Immigration, de la Formation et du Développement des Compétences Violence en Milieu de Travail dans le Secteur de l'Éducation 2022-2023](https://osbcu-my.sharepoint.com/:b:/g/personal/mmaguire_osbcu_ca/EcJ1I6aVgdJDkIEBV3cTyiwBABCkrrMg61Zw_XHS7XJ9Jg?e=iIsftI)**
