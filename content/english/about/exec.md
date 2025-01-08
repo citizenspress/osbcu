@@ -86,7 +86,7 @@ I have been an Educational Assistant with the Niagara Catholic District School B
 
 ![]()
 
-Chris has been a custodian and maintenance worker with the Peel district School Board for 13 years. He is the past trustee, steward, and current Member at Large of Local 2544 where he represents members of the Peel District School Board. Which include maintenance, custodial, food services, and AV. Chris is looking forward to working with the Locals in Area 3, with his good nature and dad jokes.
+
 
 - - -
 
@@ -140,7 +140,7 @@ Mike works at the Algoma District School Board as a Custodian and he is also the
 
 - - -
 
-## Area 6 Mobilization Officer: William Mollison
+## Area 6 Mobilization Officer: 
 
 ![](/img/coming-soon.png)
 
@@ -170,11 +170,11 @@ Now, in 2023, I got elected as president. I love to help my members and I'm big 
 
 - - -
 
-## Health & Safety Representative:  Darren Levere
+## Health & Safety Representative: 
 
-![](/img/executive-head-shots-300x300-darren.png)
+![]()
 
-Member of Local 1317, Niagara Catholic DSB as an Educational Assistant with experience in both elementary and secondary schools.  Over 25 years of union activism in Health and Safety, Injured Worker Representation, and Political Action. Trained in both H&S and WSIB. Certified Worker with experience in both Multi Site and Site-Specific H&S committees. Active in both the Local and Niagara CUPE Council.  
+
 
 - - -
 
