@@ -1,18 +1,18 @@
 ---
 title: OSBCU Executive
 date: 2023-05-17T05:00:00.000Z
+description: Executive
 summary: The full OSBCU executive.
+lead: The full OSBCU executive.
 slug: exec
 translationKey: exec
 weight: The full OSBCU executive.
 toc: true
+linktitle: The full OSBCU executive.
+categories: []
 thumbnail: /img/edu-workers.png
 tags: []
-description: Executive
-lead: The full OSBCU executive.
-categories: []
 linkTitle: exec
-linktitle: The full OSBCU executive.
 ---
 ## President: Joe Tigani
 
@@ -82,9 +82,9 @@ I have been an Educational Assistant with the Niagara Catholic District School B
 
 - - -
 
-## Area 3 Vice-President: Chris DeMelo
+## Area 3 Vice-President: John Malcom
 
-![](/img/19.png)
+![]()
 
 Chris has been a custodian and maintenance worker with the Peel district School Board for 13 years. He is the past trustee, steward, and current Member at Large of Local 2544 where he represents members of the Peel District School Board. Which include maintenance, custodial, food services, and AV. Chris is looking forward to working with the Locals in Area 3, with his good nature and dad jokes.
 
